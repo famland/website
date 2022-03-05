@@ -45,11 +45,6 @@
   weight = 20
 
 [[main]]
-  name = "News"
-  url = "/news/"
-  weight = 20
-
-[[main]]
   name = "Get Started"
   weight = 30
   identifier = "get-started"
