@@ -1,7 +1,7 @@
 ---
-title : "Modern Documentation Theme"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+title : "Famland元宇宙"
+description: "人类史无前例的跨文明大迁徙已经开始，当你从进入Famland元宇宙的这一刻开始，你将成为Famland元宇宙第一代新移民，创造元宇宙新世界的希望将时刻闪烁在您的精神意识中。"
+lead: "人类史无前例的跨文明大迁徙已经开始，当你从进入Famland元宇宙的这一刻开始，你将成为Famland元宇宙第一代新移民，创造元宇宙新世界的希望将时刻闪烁在您的精神意识中。"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false

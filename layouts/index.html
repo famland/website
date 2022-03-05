@@ -4,53 +4,323 @@
     <div class="col-lg-12 text-center">
       <h1 class="mt-0">{{ .Title }}</h1>
     </div>
-    <div class="col-lg-9 col-xl-8 text-center">
+    <div class="col-lg-9 col-xl-12 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">{{ T "get-started" }}</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="http://test.famland.world" role="button">开始游戏</a>
+      <p class="meta">Open-source Famland Licensed. </p>
+      
     </div>
   </div>
 </section>
 {{ end }}
 
 {{ define "sidebar-prefooter" }}
-  {{ if eq $.Site.Language.LanguageName "English" }}
-  <section class="section section-sm">
-    <div class="container">
-      <div class="row justify-content-center text-center">
-        <div class="col-lg-5">
-          <h2 class="h4">Security aware</h2>
-          <p>Get A+ scores on <a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Fast by default ⚡️</h2>
-          <p>Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=92eaa982d7dbf92f94fe8ecc03987c9a">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">SEO-ready</h2>
-          <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.</p>
-        </div>
+<div class="d-flex justify-content-start">
+  <div class="bg-dots"></div>
+</div>
+
+{{ partial "main/doks-origin.html" . -}}
+
+{{ if eq $.Site.Language.LanguageName "CN" }}
+<section class="section section-md my-5 bg-light">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">开始</h2>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
+        <h2 class="h5 mt-0">第1步</h2>
+        <h2 class="h3 mt-0">开通EOS钱包账号</h2>
+        <p>The modern web is decoupled and modular. Doks uses npm to centralize dependency management, making it <a href="{{ "docs/help/how-to-update/" | relURL }}">easy to update</a> resources,tooling, plugins, and build scripts.</p>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/zh/docs/turorial/quickstart/step1/" role="button">教程</a>
       </div>
-      <div class="row justify-content-center text-center">
-        <div class="col-lg-5">
-          <h2 class="h4">Full text search</h2>
-          <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Page layouts</h2>
-          <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Dark mode</h2>
-          <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
-        </div>
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h5 mt-0">第2步</h2>
+        <h2 class="h3 mt-0">创建Famland NFT</h2>
+        <p><a href="{{ "docs/prologue/introduction/" | relURL }}">Get started</a> with the tutorial or quick start. Use Doks as a starter or child theme. Easily switch main functionalities on/off — pick only what fits your use case. Get help if you need it.</p>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/zh/docs/turorial/quickstart/step2/" role="button">教程</a>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h4 mt-0">第3步</h2>
+        <h2 class="h3 mt-0">存入置业资金</h2>
+        <p>Multilingual and i18n support, versioned documentation support, KaTeX math typesetting, Mermaid diagrams and visualizations, highlight.js syntax highlighting, and more.</p>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/zh/docs/turorial/quickstart/step3/" role="button">教程</a>
       </div>
     </div>
-  </section>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-15">
+        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+        <p>一旦你的置业基金完成存入，你的Famland将开始自动耕种了，YL也将源源不断产出，即使你现在什么都不操作，你的收益也将会持续增长。</p>
+        <p>如果你进一步探索Famland的价值原理，你将可以获得更高的Play to Earn收益回报。</p>
+      </div>
+</div>
+  </div>
+</section>
+{{ end }}
+{{ if eq $.Site.Language.LanguageName "EN" }}
+<section class="section section-md my-5 bg-light">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">开始</h2>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
+        <h2 class="h5 mt-0">第1步</h2>
+        <h2 class="h3 mt-0">开通EOS钱包账号</h2>
+        <p>The modern web is decoupled and modular. Doks uses npm to centralize dependency management, making it <a href="{{ "docs/help/how-to-update/" | relURL }}">easy to update</a> resources,tooling, plugins, and build scripts.</p>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/turorial/quickstart/step1/" role="button">教程</a>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h5 mt-0">第2步</h2>
+        <h2 class="h3 mt-0">创建Famland NFT</h2>
+        <p><a href="{{ "docs/prologue/introduction/" | relURL }}">Get started</a> with the tutorial or quick start. Use Doks as a starter or child theme. Easily switch main functionalities on/off — pick only what fits your use case. Get help if you need it.</p>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/turorial/quickstart/step2/" role="button">教程</a>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h4 mt-0">第3步</h2>
+        <h2 class="h3 mt-0">存入置业资金</h2>
+        <p>Multilingual and i18n support, versioned documentation support, KaTeX math typesetting, Mermaid diagrams and visualizations, highlight.js syntax highlighting, and more.</p>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/turorial/quickstart/step3/" role="button">教程</a>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-15">
+        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h4 mt-0">Make Doks fully yours</h2>
+        <p>一旦你的置业基金完成存入，你的Famland将开始自动耕种了，YL也将源源不断产出，即使你现在什么都不操作，你的收益也将会持续增长。</p>
+        <p>如果你进一步探索Famland的价值原理，你将可以获得更高的Play to Earn收益回报。</p>
+      </div>
+</div>
+  </div>
+</section>
+{{ end }}
+{{ if eq $.Site.Language.LanguageName "CN" }}
+<section class="section section-md my-5">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">进阶</h2>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+    <p>进阶过程，是在Famland元宇宙中进行置业的过程，为的是让自己的Famland产生更高的回报收益。提高收益有留置、培置、共置三个方向。</p>
+  </div>
+
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
+        <h2 class="h3 mt-0">留置</h2>
+        <p>Famland产出的YL，如果暂不去收取，随后单位时间产出的YL数量也会更多一些。产出的YL留置在Famland上时间越长，日后收益越高。</p>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h3 mt-0">培植T</h2>
+        <p>培植是指提升Famland的肥力值。Famland的肥力值提升越多，将有助于提升农场YL的产能，Famland在单位时间内产出的YL也就越高。</p>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h3 mt-0">共置</h2>
+        <p>共享是指提升Famland的共享值。Famland的共享值越高，Famland所处的农场年化APY越高，Famland的收益也就越高。</p>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-15">
+        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h4 mt-0">在Famland元宇宙中置业与在现实世界中创业的区别</h2>
+        <p>在现实世界中创业是一个从0到1，再从1到无穷大的过程。</p>
+        <p>而在Famland的置业，无需从0到1，只要人们的共享意识在一起了，1就诞生了，所有的1，在人们共识的作用下聚合起来，就是1到无穷大的置业过程。</p>
+        <p>在Famland中置业，将达成Famland元宇宙中人人财富权平等，继而最终实现人类社会的人人平等。</p>
+        <p>这将是你作为Famland元宇宙缔造者的权利、义务、使命和荣耀。</p>
+      </div>
+</div>
+  </div>
+</section>
+{{ end }}
+{{ if eq $.Site.Language.LanguageName "EN" }}
+<section class="section section-md my-5 bg-light">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">开始</h2>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
+        <h2 class="h5 mt-0">第1步</h2>
+        <h2 class="h3 mt-0">开通EOS钱包账号</h2>
+        <p>The modern web is decoupled and modular. Doks uses npm to centralize dependency management, making it <a href="{{ "docs/help/how-to-update/" | relURL }}">easy to update</a> resources,tooling, plugins, and build scripts.</p>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="http://test.famland.world" role="button">教程</a>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h5 mt-0">第2步</h2>
+        <h2 class="h3 mt-0">创建Famland NFT</h2>
+        <p><a href="{{ "docs/prologue/introduction/" | relURL }}">Get started</a> with the tutorial or quick start. Use Doks as a starter or child theme. Easily switch main functionalities on/off — pick only what fits your use case. Get help if you need it.</p>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="http://test.famland.world" role="button">教程</a>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h4 mt-0">第3步</h2>
+        <h2 class="h3 mt-0">存入置业资金</h2>
+        <p>Multilingual and i18n support, versioned documentation support, KaTeX math typesetting, Mermaid diagrams and visualizations, highlight.js syntax highlighting, and more.</p>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="http://test.famland.world" role="button">教程</a>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-15">
+        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h4 mt-0">Make Doks fully yours</h2>
+        <p>一旦置业基金存入Famland的基本田，Famland将开始自动耕种了，YL也将源源不断产出，即使什么都不操作，收益也将会持续增长。</p>
+        <p>如果你能进一步探索Famland的价值原理，你将可以获得更高的Play to Earn收益回报。</p>
+      </div>
+</div>
+  </div>
+</section>
+{{ end }}
+{{ if eq $.Site.Language.LanguageName "CN" }}
+<section class="section section-sm my-3 py-5 bg-light">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">Famland NFT</h2>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+     </div>
+   <div class="row justify-content-center align-items-center text-center mt-lg-3">
+        <div class="col-lg-7 col-xl-15 ">
+        <p>Famland NFT是人们在元宇宙中进行置业的载体，Famland就类似是自己的私人农场，每个Famland都包括三种不同的地块，依功能不同划分基本田、原始田和野田。</p>
+        <p>Famand是有灵性的，它与主人的意识和精神融为一体，所以每一个Famland，都有他的品性、内涵、尊严和荣耀，它的存在，正如中华文化中的玉石。</p>
+        <p>元宇宙中的Famland耕种，基本田是根本，核心主要体现在基本田的耕种，基本田耕种需要你用心经营和配置，它决定着你个人以及这块Famland未来的价值、荣誉和地位。原始田和野田无须太多操心，只需按需投资就行。</p>
+      </div>
+</div>
+  </div> 
+</section>
+
+<section class="section section-md my-5">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">Famland培植</h2>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <p>Famland共置的目标是提升Famland共享值，共享值的价值并不作用于Famland本身，而是作用在Famland所在的农场，提升的是所在农场的YL产量。农场的共享值越高、贡献共享值的Famland越多、产出的YL数量越多，农场的价值越大。</p>
+    </div>
+   <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-8">
+        <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
+        <h2 class="h3 mt-0">累计提升</h2>
+        <p>Famland累积提升，取决于Famland基本田中所存入资金的数额和累计时长。取回已存入基本田的种子资金将会重置肥力值，务必慎重操作。</p>
+        <p>Famland中，种子基金持续留存时间越长、投入资金越大、肥力值越高、进而转化的加成系数越多，耕种收益越高。</p>
+        <p>Famland累积提升，取决于Famland基本田中所存入资金的数额和累计时长。取回已存入基本田的种子资金将会重置肥力值，务必慎重操作。</p>
+      </div>
+      <div class="col-lg-8">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h3 mt-0">加持提升</h2>
+        <p>Famland的肥力值可通过NFT加持提升，从而获得加速提升的效能</p>
+        <p>在Famlan元宇宙中，所有凝聚人类精神、意识、文化、艺术等元素的NFT都可以为Famland进行肥力加持。</p>
+        <p>CryptoTree是第一代可用于对Famland加持的NFT，加持成功后，Famland的加成系数可立即获得提升，未来，哪些NFT可以为Famland进行加持提升，肥力加成提升多少数额，将有社区投票决定。</p>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-15">
+        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+        <p>如果说，BTC是元宇宙中的数字黄金。那么，Famland就是元宇宙中的数字灵玉。</p>
+        <p>越是与之亲近，与它亲近的时间越长，它就会越发圆润、越有光泽、越通灵性。</p>
+        <p>通过YLE生态，沐浴Famland、亲近Famland，这就是Famland元宇宙的置业之本。</p>
+        <p>Famland元宇宙中，讲求的是自身加持和众生加持，自身加持的力度当然远远不及众生加持。</p>
+        <p>而Famland未来的突变、进化、升华阶段，正是在众生加持的基础上，才能由自身加持最终完成。</p>
+      </div>
+</div>
+  </div>
+</section>
+
+{{ if eq $.Site.Language.LanguageName "CN" }}
+<section class="section section-md my-5 bg-light">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">共置</h2>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <p>Famland共置的目标是提升Famland共享值，共享值的价值并不作用于Famland本身，而是作用在Famland所在的农场，提升的是所在农场的YL产量。农场的共享值越高、贡献共享值的Famland越多、产出的YL数量越多，农场的价值越大。</p>
+    </div>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
+        <h2 class="h3 mt-0">共享值</h2>
+        <p>玩家在Famland基本田存入资产后，即可获得Famland的共享值。共享值将作用于所在农场，农场的共享值越高，农场所产出的YL越多，耕种收益的年化APY越高</p>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h3 mt-0">共享值限额</h2>
+        <p>共享值限额，是指Famland共享值每个周期阶段性的上限额度，由用户在该Famland基本田收取YL数量决定，这个限额决定着Famland的在当前Famland最高共享值上限。</p>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h3 mt-0">共享金</h2>
+        <p>共享金可以转化为共享值。玩家在Famland的基本田中每投入1USDT的资金，共享金额就增加1USDT。从基本田中每提取1USDT的资金，共享金额就减少1USDT。</p>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-15">
+        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+        <p>Famland的灵性，具备同频共振效应。Famland彼此之间的共享值越接近，同频共振的效应越强，所产生的价值共识就越大。</p>
+        <p>在现实宇宙中，人养玉三年，玉养人一生。</p>
+        <p>在Famland元宇宙中，人养Famland三年，Famland养人三代。</p>
+      </div>
+</div>
+  </div>
+</section>
+{{ end }}
+
+<section class="section section-sm my-3 py-5">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">共享农场</h2>
+   <div class="row justify-content-center align-items-center text-center mt-lg-3">
+        <div class="col-lg-7 col-xl-15 ">
+        <p>YLE中的农场除了系统默认生成原生农场外，用户间可以自由组合Famland形成新的共享农场，只要已经在基本田存入种子基金的Famland数量达到30，即可创建新的共享农场。不同的农场，享有不同的APY。</p>
+        <p>各个农场的APY高低，取决于各个农场的YL分流指数，所谓YL分流指数，就是YLE新增发的YL从总的蓄水池中，流向该农场的YL流速。</p>
+        <p>农场内的Famland共享值越高、Famland数量越多、农场所获得的YL分流指数越大，农场的APY越高，农场内每个Famland所产出的YL越多。</p>
+      </div>
+</div>
+<div class="row justify-content-center align-items-center text-center mt-lg-3">
+  <div class="col-lg-5">
+    <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
+    <h2 class="h3 mt-0">分流指数</h2>
+    <p>农场的YL分流指数=（农场总的共享值/农场Famland总数量）*流速系数</p>
+    <p>农场的YL流速=（该农场分流指数/全部农场分流指数之和）*总流速</p>
+  </div>
+  <div class="col-lg-5">
+    <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+    <h2 class="h3 mt-0">流速系数</h2>
+    <p>原生农场的流速系数恒定为1</p>
+    <p>共享农场的流速系数起步为1，以后共享农场每增加30个Famland，流速系数增加0.0001。</p>
+  </div>
+  <div class="col-lg-5">
+    <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
+    <h2 class="h3 mt-0">分发池</h2>
+    <p>YLE系统新增发的YL将按照流速流入到农场的分发池内，农场内的Famland将根据其耕种的时长、存入本金价值和APY来获得耕种收益。</p>
+  </div>
+</div>
+<div class="row justify-content-center align-items-center text-center mt-lg-3">
+  <div class="col-lg-15">
+    <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+    <p>Famland元宇宙共享农场的运作，从共建共享的算法和机制来凝聚玩家共识，保障高共识玩家的利益。</p>
+    <p>Famland以人为本的设计初心，不依赖玩家资金投入、重视玩家在游戏中时间和智慧投入的价值，依托NFT价值养成和价值共享的算法规则，最大限度保障每名玩家在游戏中的基本权利和公平性，把利用资本损害游戏生态健康发展的不利因素降到最低。</p>
+  </div>
+  </div> 
+</section>
+
+<section class="section section-sm my-3 py-5 bg-light">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">愿景</h2>
+   <div class="row justify-content-center align-items-center text-center mt-lg-3">
+        <div class="col-lg-7 col-xl-15 ">
+        <p>400年前，“五月花”号载着102名有信仰的探险者，远涉重洋迁徙到美洲新大陆，</p>
+        <p>开创了人类历史上至今为止，依然是最强大的新国家——美利坚合众国。</p>
+        <p>400年后，“Famland”号将载着更多有共识的新人类，横跨宇宙迁徙到Famland新大陆，</p>
+        <p>开创人类历史上一个更公平、更自由、更富足、更美好的新世界。</p>
+        <p>而这个新世界，将由您来命名。</p>
+      </div>
+  </div>
+
+  </div> 
+</section>
+
   {{ end }}
 {{ end }}
 
 {{ define "sidebar-footer" }}
+
+
+
+
 <section class="section section-sm container-fluid">
   <div class="row justify-content-center text-center">
     <div class="col-lg-9">
