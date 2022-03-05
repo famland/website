@@ -1,4 +1,5 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "/"
+relativeUrls = true
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

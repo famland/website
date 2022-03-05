@@ -1,5 +1,6 @@
 .home .card,
 .contributors.list .card,
+.news.list .card,
 .blog.list .card {
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -8,6 +9,7 @@
 
 .home .card:hover,
 .contributors.list .card:hover,
+.news.list .card:hover,
 .blog.list .card:hover {
   transform: scale(1.025);
 }
