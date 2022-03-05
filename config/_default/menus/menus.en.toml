@@ -47,14 +47,14 @@
   name = "Quick Start"
   weight = 16
   identifier = "quick-start"
-  url = "/Docs/turorial/quick-start/step1/"
+  url = "/Docs/turorial/quickstart/step1/"
   parent = "turorial"
 
 [[main]]
   name = "Strategy"
   weight = 17
   identifier = "strategy"
-  url = "/docs/turorial/strategy/game-rules/"
+  url = "/docs/turorial/strategy/famland-farming-and-profit-analysis/"
   parent = "turorial"
 
 
@@ -73,7 +73,7 @@
   name = "Contribute"
   weight = 31
   identifier = "contribute"
-  url = "/Docs/turorial/How-to-contribute/"
+  url = "/Docs/contributing/How-to-contribute/"
   parent = "community"
 
 [[main]]
