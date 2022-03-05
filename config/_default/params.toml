@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Famland.World"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Famland Metaverse"
+description = "Famland Metaverse"
 
 ## Documentation
 # docsVersion = "0.3"
@@ -54,7 +54,7 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://famland.world/\">Famland Metaverse</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
@@ -62,8 +62,10 @@ copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
 # Alert
 alert = true 
 alertDismissable = true
-# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+# alertText = "Famland New Decentralized Website Lunched！<a class=\"alert-link stretched-link\" href=\"/blog/famland-decentralized-website-officially-released/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
+alertText = "全新的Famland元宇宙去中心化网站已发布上线!   The New Decentralized Website for the Famland Metaverse has been launched! <a class=\"alert-link stretched-link\" href=\"/blog/website-lunch/\">>>>></a>"
+
+
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
@@ -85,7 +87,7 @@ lastMod = true
   breadCrumb = true
   highLight = true
   kaTex = false
-  multilingualMode = false
+  multilingualMode = true
   docsVersioning = false
   fullWidth = true
 
