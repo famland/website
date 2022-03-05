@@ -16,15 +16,16 @@
 
 .home .card-body,
 .contributors.list .card-body,
+.news.list .card-body,
 .blog.list .card-body {
   padding: 0 2rem 1rem;
 }
-
+.news-header,
 .blog-header {
   text-align: center;
   margin-bottom: 2rem;
 }
-
+.news-footer,
 .blog-footer {
   text-align: center;
 }
