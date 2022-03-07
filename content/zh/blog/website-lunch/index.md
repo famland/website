@@ -1,9 +1,9 @@
 ---
 title: "全新的Famland元宇宙网站已发布上线👋"
 description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Famland's official website code has been open sourced, and all static pages have been implemented."
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+lead: "Famland网站采用共建模式打造，全球任何用户均可参与网站内容的维护和更新，网站采用IPFS去中心化存储机制，网站的每一次更新的版本记录将永久刻录在区块链上"
+date: 2022-03-07T09:19:42+08:00
+lastmod: 2022-03-07T09:19:42+08:00
 draft: false
 weight: 50
 images: ["say-hello-to-doks.png"]

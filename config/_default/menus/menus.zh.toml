@@ -54,7 +54,7 @@
   name = "玩法攻略"
   weight = 17
   identifier = "strategy"
-  url = "/docs/turorial/strategy/famland-farming-and-profit-analysis/"
+  url = "/docs/turorial/strategy/first/"
   parent = "turorial"
 
 

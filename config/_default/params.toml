@@ -40,7 +40,7 @@ schemaGitHub = "https://github.com/h-enk/doks"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 ## Chrome Browser
 themeColor = "#fff"
@@ -71,7 +71,7 @@ alertText = "全新的Famland元宇宙去中心化网站已发布上线!   The N
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/famland/doks"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = true
@@ -81,13 +81,13 @@ lastMod = true
   lazySizes = true
   clipBoard = true
   instantPage = true
-  flexSearch = true
+  flexSearch = false
   darkMode = true
   bootStrapJs = true
   breadCrumb = true
   highLight = true
   kaTex = false
-  multilingualMode = true
+  multilingualMode = false
   docsVersioning = false
   fullWidth = true
 
