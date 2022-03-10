@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
-description: "关于Famland Metaverse"
-lead: "关于Famland元宇宙"
+description: "About Famland Metaverse"
+lead: "About Famland Metaverse"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -15,20 +15,15 @@ toc: true
 
 ![2](2.PNG)
 
-## 介绍
+## Project Abstract
+Famland Metaverse is an NFT value-cultivating Play to Earn game ecosystem that integrates various components including NFT, Game, and Defi. Any player only needs an EOS wallet address to create and generate Famland NFT. Players can pledge 100-500USDT of Metaverse home ownership Fund in Famland to continuously obtain YL farming income. By consuming YL, they can continuously nurture Famland's fertility and Share the value, and get a higher return.
+The Famlands of countless homebuyers are connected to form a new continent of value in the Metaverse. This new continent, just like the earth on earth, can plant trees, build buildings, build shopping malls, build schools, build factories, develop commerce, develop economy, develop culture, develop art, and build a new human order and new civilization.
+The game is based on the original intention of people-oriented design, does not rely on capital investment, pays attention to the value of time and wisdom invested by homebuyers in the game, and relies on the algorithm rules of NFT value development and value sharing to maximize the protection of each homebuyer's basic game in the game. Rights and fairness minimize the unfavorable factors that use capital to damage the healthy development of the game ecology.
+Famland Metaverse is a completely community-based project. The founding team of the project has no pre-mining, no handling fee income, and no operating commission. All assets and income issued by the project are 100% returned to community home buyers.
 
-Famland元宇宙，是一个集合包括NFT、Game、Defi多种组成要素的NFT价值养成型Play to Earn游戏生态。任何玩家，只需要一个EOS钱包地址，即可创建生成Famland NFT，玩家只需在Famland中质押价值100-500USDT的元宇宙置业种子基金，即可源源不断获得耕种收益YL，通过消耗YL不断培育Famland的肥力和共享值，进而获得更高的收益回报。
+## Community Contact
 
-无数用户的Famland连接起来，就构成了元宇宙中的价值新大陆。这个新大陆，就像地球上的土地一样，可以在上面种树、盖楼房、盖商场、盖学校、盖工厂，可以发展商业、发展经济、发展文化、发展艺术，构建人类新秩序和新文明。
-
-游戏本着以人为本的设计初心，不依赖资金投入、重视玩家在游戏中时间和智慧投入的价值，依托NFT价值养成和价值共享的算法规则，最大限度保障每名玩家在游戏中的基本权利和公平性，把利用资本损害游戏生态健康发展的不利因素降到最低。
-
-Famland元宇宙是一个完全社区化的项目，项目创始团队无预挖、无手续费收益、无运营提成， 项目发行的所有资产和收益，100%全部回馈社区玩家。
-
-
-## 社区联系方式
-
-| 网站     | 地址                                                         |
+| Website     | URL                                                         |
 | -------- | ------------------------------------------------------------ |
 | Website  | [https://famland.world](https://famland.world)               |
 | Telegram | [https://t.me/famland_eos](https://t.me/famland_eos)         |
@@ -38,12 +33,12 @@ Famland元宇宙是一个完全社区化的项目，项目创始团队无预挖�
 | Medium   | [https://medium.com/@yle.world](https://medium.com/@yle.world) |
 | Discord  | [https://discord.gg/AaTXtuhDrb](https://discord.gg/AaTXtuhDrb) |
 
-## 智能合约地址
+## Smart contract address
 
-| 智能合约           | 地址           |
+| Smart contract     | Address        |
 | ------------------ | -------------- |
-| YL/USDT Swap合约   | 待公布合约地址 |
-| YLE 农场合约       | 待公布合约地址 |
-| YL合约             | 待公布合约地址 |
-| Famland NFT合约    | 待公布合约地址 |
-| CryptoTree NFT合约 | 待公布合约地址 |
+| YL/USDT Swap contract   | Contract address to be announced |
+| YLE Farm contract       | Contract address to be announced |
+| YL contract             | Contract address to be announced |
+| Famland NFT contract    | Contract address to be announced |
+| CryptoTree NFT contract | Contract address to be announced |
