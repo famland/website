@@ -13,9 +13,9 @@ weight: 120
 toc: true
 ---
 
-## 项目团队概览和业绩
+## Project team overview and performance
 
-Famland项目的核心团队成员主要来自于CryptoTree NFT项目团队，CryptoTree于2019年9月9日登陆波场公链，作为波场上的首批加密收藏品NFT项目，在线运营2年多时间，多次被Dappradar、Dapp.com评为优秀Dapp项目。其玩家活跃人数、交易额等指标长期保持在全球排名前三名。
+The core team members of the Famland project are mainly from the CryptoTree NFT project team. CryptoTree landed on the TRON public chain on September 9, 2019. As the first encrypted collectible NFT project on TRON, it has been operating online for more than 2 years, many times Rated as an excellent Dapp project by Dappradar and Dapp.com. Its active players, transaction volume and other indicators have maintained the top three in the world for a long time.
 
 ![](33.PNG)
 
