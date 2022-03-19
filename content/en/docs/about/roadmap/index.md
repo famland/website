@@ -13,9 +13,10 @@ weight: 110
 toc: true
 ---
 
-| 时间       | 目标                                                         | 状态 |
+| Time       | Target                                                         | progress |
 | ---------- | ------------------------------------------------------------ | ---- |
-| Q3,2021    | Famland Metaverse 立项 √ <br/>Famland Metaverse 产品规划 √ <br/>Famland Metaverse 项目研发团队组建 √ <br/>Famland Metaverse 启动原始田认购空投活动 √ <br/>Famland Metaverse 启动八宝树玩家激励空投活动 √ YLE一期研发 √ | 完成 |
-| Q4,2021    | YLE一期删档内测活动启动 √ <br/>Famland Metaverse 官网上线 √ <br/>Famland Metaverse 白皮书发布 √ <br/>Famland Metaverse 启动八宝树认购活动 <br/>YLE二期研发 <br/>YLE二期删档内测活动启动 <br/>YLE不删档内测活动启动 <br/>YLS竞拍功能开放 <br/>YLE 矿池开放 <br />Famland原始田做市开放 |      |
-| Q1,2022    | YLE 稳定池和无常滑点机制启动 <br/>YLE 矿池开放交易 <br/>YLE YL发行流速控制机制启动 <br/>Famland基本田、野田做市开放 <br/>YLE NFT交易市场开放 <br/>Famland共享农场开放 <br/>Famland农田租赁功能开放 <br/>YLE激励系统上线 <br/>Famland Metaverse 游戏场景研发 |      |
-| Q2-Q3,2022 | Famland Metaverse 生态开放 <br/>持续更新                     |      |
+| Q3,2021    | Famland Metaverse projec √ <br/> Famland Metaverse product planning √ <br/> Famland Metaverse project R&D team established √ <br/>Famland Metaverse launches original land subscription airdrop campaign √ <br/>Famland Metaverse launches CryptoTree player incentive airdrop campaign √ YLE Phase I R&D √ | Finished |
+| Q4,2021    | The first phase of YLE file deletion and internal testing activity started √ <br/>Famland Metaverse official website is online √ <br/>Famland Metaverse white paper released √ <br/>Famland Metaverse launches CryptoTree subscription activity <br/>YLE Phase II R&D <br/>YLE Phase II file deletion and internal testing activities launched  <br/>YLE does not delete files, internal testing activities start <br/>YLS auction function is open <br/>YLE mining pool is open <br />Famland Primordial Field is open to market making |      |
+| Q1,2022    | YLE stable pool and impermanent slippage mechanism start <br/>YLE mining pool open for trading  <br/>YLE YL launches flow rate control mechanism <br/>Famland basic field and Noda market making are open <br/>YLE NFT trading market is open <br/>Famland shared farm open <br/>Famland farmland rental function open <br/>YLE incentive system is online  <br/>Famland Metaverse game scene development |      |
+| Q2-Q3,2022 | FaFamland Metaverse Ecological Opening <br/>Continually updated
+                     |      |
