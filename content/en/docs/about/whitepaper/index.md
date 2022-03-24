@@ -18,13 +18,13 @@ toc: true
 
 
 
-## Project Overview
+## Ⅰ. Project Overview
 
 With the development of science and technology, the unprecedented inter-civilizational migration of mankind has begun, and more and more people have gradually shifted the focus of life and work to the virtual digital world. The economic system of the real world is also changing to the new virtual digital world economic system.
 
 Based on our enthusiasm and continuous exploration of the metaverse world, as an important infrastructure to carry the new digital economic system, we will make full use of the trustless mechanism of blockchain technology and the immutability of data to create a private domain that can be used in the digital metaverse. The Play-to-Earn ecosystem for home buying in the Territory.
 
-#### Overview
+#### ⒈Overview
 Famland Metaverse is a Play-to-Earn game ecology of NFT value development that integrates various components including NFT, Game, and DEFI. Any home buyer only needs an EOS wallet address to create and generate a Famland NFT for free. Each Famland NFT is a private domain created by the home buyer in the Famland Metaverse.
 
 By pledging Metaverse Property Seed Funds worth 100-500 USDT in Famland, home buyers can continuously obtain YL of farming income, and continuously cultivate Famland's fertility and shared value by consuming YL, thereby obtaining higher returns.
@@ -35,14 +35,14 @@ The game is based on the original intention of people-oriented design, does not 
 
 Famland Metaverse is a 100% community-based project. The development, operation and market funds involved in the project are all invested or donated by ordinary home buyers. All assets and income issued by the project are 100% returned to community home buyers.
 
-#### A new world for home buyers
+#### ⒉A new world for home buyers
 The significant difference between Famland and the Play-to-Earn mode of traditional games is that the Play-to-Earn mode of traditional games is a process from 0 to 1 and then to infinity. This model is similar to the entrepreneurial model of most real-world projects today.
 
-To buy a home in the Famland Metaverse, there is no need to go from 0 to 1. Every homeowner only needs to invest 100-500USDT of seed home buying capital in Famland, and then they can start to integrate their shared consciousness with that of other home buyers. After the integration is completed, 1 will be created, and the 1s of countless home buyers will continue to aggregate under the consensus of all home buyers. This is the process of buying a home from 1 to infinity.
+To buy a home in the Famland Metaverse, there is no need to go from 0 to 1. Every homeowner only needs to invest 100-500USDT of seed home buying capital in Famland, and then they can start to integrate their shared consciousness with that of other home buyers. After the integration is completed, 1 will be created, and innumerable 1 of countless home buyers will continue to aggregate under the consensus of all home buyers. This is the process of buying a home from 1 to infinity.
 
 Famland Metaverse home purchasing adopts the model of co-construction and sharing. The greatest significance of this economic model is that it enables every business owner in the community to achieve equality of wealth rights for everyone in the Famland Metaverse, and will no longer be controlled by capital or power. We only need to achieve financial freedom through our own hard work, and finally realize the equality of everyone in human society. This will also be the right, obligation, mission and glory of every business owner.
 
-####  How homebuyers make money
+####  ⒊How homebuyers make money
 
 - Earnings from farming Famland
 
@@ -63,8 +63,7 @@ Famland Metaverse home purchasing adopts the model of co-construction and sharin
 - Airdrop rewards for community home buyers
 
 - Stay tuned for more
-
-#### Our Mission and Mission
+#### ⒋Our Mission and Mission
 
 - Help more people to develop a piece of real estate in the Famland Metaverse, and provide an indispensable main way for all homebuyers to achieve financial freedom.
 - Let all home buyers jointly build the YLE ecology of the new continent of the Famland Metaverse through Famland, and make this new continent show infinite value and vigorous vitality, and fulfill the mission of the Metaverse of One begets two, two begets three, three beget all things.
@@ -72,13 +71,14 @@ Famland Metaverse home purchasing adopts the model of co-construction and sharin
 - Build and share the Famland metaverse project into a metaverse NFT value standard that is more open, efficient, and easier to reach consensus, uniting developers and homebuyers around the world, building and sharing, and benefiting all mankind.
 
 
-## basic concept
+## Ⅱ. Basic concept
 
 **YL**
 
 YL (Yield Land) is a new type of algorithmic stability point in the YLE ecosystem. It is the most basic unit and transaction body that carries the value of all digital assets in the YLE ecosystem. The issuance of YL is linked to the new Famland economic value in the YLE ecosystem. People farming Famland on YLE's farms can continue to earn YL benefits in perpetuity.
 
 **Famland NFT**
+
 
 Famland NFT is a carrier for people to home purchasing in the Metaverse and realize Play-to-Earn. Famland is similar to their own private farmland. After the homebuyers invest in seed property funds in Famland, they can continuously generate YL income. The core of cultivating Famland is to increase the fertility value and shared value of Famland.
 
@@ -118,6 +118,7 @@ Indefinite slippage is an uncertain transaction slippage value generated when th
 **YLE Farm Stability Pool**
 
 The YLE farm stable pool is divided into a stable fund pool and a stable bonus pool. The role of the stable fund pool is to use the funds in the stable fund pool to balance and stabilize the market transaction price of YL through automated SWAP transactions.
+
 **YLE Farm Fund Pool**
 
 The function of the stable bonus pool is to motivate YL buyers during this period when the price of YL is lower than the benchmark price, so as to ensure that the price of YL rises back to the normal stable benchmark price range of YL.
@@ -143,9 +144,9 @@ Nephrite is a kind of NFT in YLE that is produced from Famland and can be recycl
 Just like the mountains, deserts, grasslands, and arable land in the real world, although they all exist on the surface, their values are not the same for humans. This is even more true in the world of the Metaverse. Anyone can write a string of codes and declare that it is the soil that nurtures various ecology of the Metaverse. However, is this soil valuable? The digital economy nurtured by this soil. Whether the carrier is valuable or not requires an open, more efficient and easier consensus standard to measure. The Famland Metaverse Project is building a brand new YLE ecosystem through Famland NFT and YL, operating to create a digital metaverse, the technical and logical standards of the underlying value of the spiritual home. The standard will be open source, uniting all developers and home buyers to jointly maintain and upgrade the Metaverse NFT value standard.
 
 
-## Game play and rules
+## Ⅲ. Game play and rules
 
-### Sustainability of games
+### ⒈Sustainability of games
 
 Famland's ecological algorithm stability point YL is the most basic unit and transaction body that carries the value of all digital assets in the ecosystem. It is the basis for the stability of the economic value of the Famland Metaverse. Famland NFT is an important carrier for people to home purchasing in the metaverse and realize sustainable Play-to-Earn. At the same time, Famland NFT, as the basis of community DAO voting rights, can also be used for mining. Therefore, Famland will gain higher economic value in the market.
 
@@ -159,9 +160,10 @@ If you are a novice, you can make money by participating in the economic system 
 
 ---
 
-### Famland farming income
+### ⒉Famland farming income
 
 After home buyers create Famland NFT, they can obtain farming income by depositing USDT and YL seed property funds in Famland's basic fields. Of course, home buyers can also choose to deposit assets in the original fields and wild fields of Famland.
+
 **Calculation rules for farming income：**
 
 **Cultivation income = current income duration (by planting) × ((basic field market-making capital value + original field market-making capital value) × fertility value addition coefficient + wild field market-making capital value) × real-time annualized APY of the farm when the income is collected /525600**
@@ -173,9 +175,10 @@ Market-making capital value = amount of USDT deposited + amount of YL deposited 
 According to the above algorithm rules, if home buyers want to obtain higher farming income, the annualized APY of the farm at the time of collection is an important indicator, and the change in APY value will affect the actual amount of YL to be collected during this income period.
 
 If you do not collect YL produced by Famland for the time being, but continue to temporarily store it in the farm distribution pool, the accumulated balance in the distribution pool will increase, and the farm’s APY will gradually increase over a period of time. The amount of YL produced by all home buyers will also be higher.
+
 **The longer the YL produced by Famland is retained in the farm distribution pool, the higher the income for the home buyer.**
 
-#### basic field market making
+#### Basic field market making
 
 The initial investment value of the basic field is set between 100-500 USDT. After the deposit is successful, the basic field fertility value bonus coefficient increases from 1 to 2 immediately. According to the above calculation formula of farming income, the home buyer invests 1 share of capital, which is equivalent to obtaining the farming income calculated according to the capital value of the basic field.
 
@@ -232,7 +235,7 @@ The market-making funds of the wild field can be withdrawn at any time, and the 
 
 ---
 
-### Cultivate Famland
+### ⒊Cultivate Famland
 
 The main goal of cultivation of Famland is to increase the fertility value of Famland. The increase in fertility value is mainly divided into two directions. One is cumulative improvement, and the other is blessing improvement.
 
@@ -268,7 +271,7 @@ It can be seen that in Famland, the longer the farming time of Famland, the grea
 
 ---
 
-### Create a shared farm
+### ⒋Create a shared farm
 
 The Famland initially created by home buyers is cultivated in the public native farms within the YLE ecology by default. Due to the different levels of consensus among home buyers in public farms, the phenomenon of digging and selling will be common, and this result will lead to consensus. High-level home buyers and low-consensus home buyers share the same APY return with different value sharing degrees, resulting in an unfair distribution of farming income.
 
@@ -296,15 +299,13 @@ To create a shared farm, you need to pay 120YL. After the shared farm is created
 
 There are two ways to invite Famland to join a shared farm:
 
-> **Post an Invitational Advertisement** 
-> After the invitation advertisement is successfully released, the invitation order will appear on the front-end interface within the limitation period of the invitation. If the requirements of the invitation are met, the Famland of other home buyers can join the farm directly if they meet the access conditions, without paying any fees and the farm. Master approves.
+> **Post an Invitational Advertisement** After the invitation advertisement is successfully released, the invitation order will appear on the front-end interface within the limitation period of the invitation. If the requirements of the invitation are met, the Famland of other home buyers can join the farm directly if they meet the access conditions, without paying any fees and the farm. Master approves.
 >
 > 1st release invitation advertisement fee standard: 600YL for 1 month, 1600YL for 3 months, 3000YL for 6 months, 5600YL for 12 months.
 >
 > The invitation advertisement is released again, and the advertisement cost is doubled on the above price standard.
 
-> **Invite privately via invite link** 
-> After the farm is created, the system generates an invitation link address for the farmer by default. Farmers can adjust the private invitation content as needed. The private invitation address is valid for a long time.
+> **Invite privately via invite link** After the farm is created, the system generates an invitation link address for the farmer by default. Farmers can adjust the private invitation content as needed. The private invitation address is valid for a long time.
 
 60% of the fee paid by the farmer to initiate the invitation advertisement and the fee paid by the home buyer Famland to join the farm, 60% goes into the YLE farm shared fund pool, 20% goes into the reserve fund pool, and 20% goes into the stable pool.
 
@@ -318,7 +319,7 @@ After the farm is successfully created, the farmer voluntarily removes it or the
 
 ---
 
-### Famland co-governance
+### ⒌Famland co-governance
 
 The goal of Famland co-governance is to increase the shared value of Famland. The value of shared value does not act on Famland itself, but on the farm where Famland is located, which increases the YL output of the farm. The higher the shared value of the farm, the more Famland contributing to the shared value, and the more YL produced, the greater the value of the farm.
 
@@ -340,10 +341,12 @@ Shared value limit refers to the periodic upper limit of Famland shared value in
 
 #### 02 Famland merged
 
+
 Famland merging refers to merging multiple Famlands whose market-making principal value reaches 500 USDT under one's own wallet, so that the merged Famland can obtain a higher shared value.
+
 ---
 
-### Merged Famland
+### ⒍Merged Famland
 
 ####  Merge requirements
 
@@ -386,7 +389,7 @@ Each time merge charges 30YL, of which 60% enters the YLE farm shared fund pool,
 ---
 
 
-###  Nephrite collection
+###  ⒎Nephrite collection
 
 #### Collection requirements
 
@@ -409,7 +412,7 @@ The following is the percentage of nephrite that can be collected by all eligibl
 | 500-4999 | gray jade 80%, yellow jade 18%, green jade 1.8%, white jade 0.2% |
 |  ≥5000   | gray jade 80%, yellow jade 18%, green jade 1.8%, white jade 0.18%, mutton-fat jade 0.02% |
 
-### Famland Rental
+### ⒏Famland Rental
 **Rent Famland**
 
 Only the farmer of the shared farm can initiate a basic fields lease contract. During the valid lease period, the lessee and the Famland owner will share the income from the cultivation of the basic fields part of Famland according to the share of the lease contract. The farming income of the original fields and wild fields of this Famland still belongs to the farmers.
@@ -421,11 +424,12 @@ Once the farmer and the tenant have determined the lease agreement, the content 
 **Rental contract initiation fee**
 
 When the farmer generates the lease contract, he will pay the handling fee according to the number of rented Famland. The fee standard is: 30YL per Famland, that 60% into the YLE farm shared fund pool, 20% into the reserve fund pool, and 20% into the stable pool.
+
 ---
 
-## SWAP price stabilization mechanism
+## Ⅳ. SWAP price stabilization mechanism
 
-### Impermanent slippage protection mechanism
+### ⒈Impermanent slippage protection mechanism
 
 **Impermanent slippage**
 
@@ -447,7 +451,7 @@ When the transaction price of YL is 0.02USDT or more higher than the benchmark p
 
 When the impermanent slippage mechanism is activated, the impermanent slippage value starts from 0.1%. For every 0.01 USDT of price deviation, the impermanent slippage will double on the basis of the previous impermanent slippage, and the maximum impermanence slippage value does not exceed 100%.
 
-###SWAP Stable Pool Fund Pool
+### ⒉SWAP Stable Pool Fund Pool
 
 **Stable Fund Pool Automatic Trading Mechanism**
 
@@ -464,7 +468,7 @@ When the price of YL deviates, the stable fund pool will be activated, and the f
 4. 4% of the farm income in the reservoir according to the user
 5. 80% of the basic field adjustment pledge fund handling fee
 
-###SWAP Stable Pool Bonus Pool
+### ⒊SWAP Stable Pool Bonus Pool
 
 **Stable bonus pool incentive mechanism**
 
@@ -476,15 +480,16 @@ The function of the stable bonus pool is to motivate YL buyers during this perio
 3. 20% of transaction fee without constant slippage
 4. 1% of the farm income in the reservoir according to the user
 5. 20% of the basic field adjustment pledge fund handling fee
+
 Each cycle, the stable bonus pool will allocate 20% of the total funds as bonuses, 18% to regular bonuses and random bonuses, and 2% to shared bonuses.
 The stable bonus pool is divided into two types of incentives: regular bonus and random bonus. The initial share ratio of the two bonuses is 1:1.
 When the price of YL drops below the minimum value of the benchmark price range, using USDT to exchange YL in the farm SWAP fund pool will inevitably get regular bonus rewards, and may also get random bonus rewards.
+
 **Regular bonus award rules**
 
 Regular bonus = USDT paid by the user to purchase YL × (the balance of regular bonus pool funds in the current cycle / (YL transaction amount in the previous cycle × 3))
-> For example, the reward amount of the incentive pool in this cycle is 30,000 USDT. The total transaction volume in the last cycle was 10 million USDT. 3 times is 30 million U. At this time, the buyer can get a regular bonus of 1USDT for every 1000USDT traded.
+> For example, the reward amount of the incentive pool in this cycle is 30,000 USDT. The total transaction volume in the last cycle was 10 million USDT. 3 times is 30 million U. At this time, the buyer can get a regular bonus of 1USDT for every 1000USDT traded. If the purchase funds of YL in this cycle are too large, exceeding 3 times the transaction amount of the previous cycle, the share of random bonuses will be reduced proportionally to ensure the distribution of regular bonuses.
 
-> If the purchase funds of YL in this cycle are too large, exceeding 3 times the transaction amount of the previous cycle, the share of random bonuses will be reduced proportionally to ensure the distribution of regular bonuses.
 **Regular bonus settlement**
 
 The regular bonus of each farming cycle is settled manually in the next farming cycle after the end of the cycle, and it will not be able to be settled after the settlement cycle.
@@ -499,9 +504,9 @@ Each cycle will divide the total random bonus of the current cycle into several 
 
 Unfinished random bonuses in each cycle will be accumulated into the random bonus pool of the next cycle.
 
-## Game incentive
+## Ⅴ. Game incentive
 
-### Shared Farm Ranking Rewards
+### ⒈Shared Farm Ranking Rewards
 
 The YLE shared farm has established a corresponding incentive mechanism, and has specially set up a farm shared fund pool for allocating incentive bonuses. Through the incentive system, the game, entertainment and excitement of YLE are increased. Let users who participate in farm construction enjoy more fun and returns in YLE World.
 
@@ -594,7 +599,7 @@ In each Rebase cycle, users who perform basic field merge operations can have th
 | D    | 3%       | 3    | 2%       |
 | E    | 1%       | 50   | 5%       |
 
-### YLS auction and pledge dividends
+### ⒉YLS auction and pledge dividends
 
 **Shared bonus**
 YLS (Yield land share), also known as the original grain shared gold. The limited issuance of 1 million pieces is a shared credit with certain risks and benefits to ensure the stability of the value of YL. Home buyers can obtain YLS by participating in the YLS auction.
@@ -602,14 +607,16 @@ YLS (Yield land share), also known as the original grain shared gold. The limite
 4% of the total funds of the YLE stable bonus pool in each farming cycle is allocated to the YLS shared bonus pool.
 
 Homebuyers who obtain YLS through auction or through market transactions will receive shared bonus dividends for that cycle according to the proportion of pledged YLS in each farming cycle.
-## Tokens and the economy
 
-### Issuance and distribution of YL
+## Ⅵ. Tokens and the economy
+
+### ⒈Issuance and distribution of YL
 
 #### Issuance of YL
 The YL issuance system is to ensure the stability of YL value creation. The value of YL is not created out of nothing, but is based on people-oriented, and is supported by the value elements created by people and people.
 
 Except for the pre-issuance of 1.5 million YL to the community-designated airdrop wallet account (multi-signature wallet, subject to community supervision) due to the needs of airdrop activities at the initial stage of the launch of the YLE project, there is no reservation, and other parts are all generated through the issuance of smart contracts. Divided into four epoch stages.
+
 ##### Epoch 1. The increase in the number of famland cultivated by people is used as the basis for YL's additional issuance.
 
 In the first era, every 24 hours was a farming cycle. In each cycle, for every new piece of famland cultivated by the user, 693.5 YL will be issued.
@@ -660,7 +667,7 @@ Proportion of transfer to stable fund pool = (1-proportion of transfer to total 
 
 The proportion of the stable bonus pool = (1-the proportion of the total distribution pool) × 20%
 
-**YL price correction parameters:**
+**YL price correction parameters**
 
 YL price correction parameter 1=YL price^9
 
@@ -674,6 +681,7 @@ YL price correction parameter 2=YL price^(1-YL price)
 **Maximum flow rate=YL balance of YLE reservoir in last farming cycle × 30%/86400**
 
 When the total flow rate is greater than the maximum flow rate, it is divided into the total distribution pool according to the maximum flow rate, and when the total flow rate is less than the maximum flow rate, it is divided into the total distribution pool according to the total flow rate.
+
 **Diversion index of sub-farms**
 
 **Sub-farm diversion index = (average value of the farm’s Famland shared value / YLE number of Famland that has already made a market in the base field) × flow rate coefficient**
@@ -704,7 +712,7 @@ When M≤K, the farm's real-time annualized APY=3000% (maximum income)
 When M＞K, the farm’s real-time annualized APY=(K/M)×3000%
 
 
-### YLS Shared Gold
+### ⒉YLS Shared Gold
 
 #### Original Grain Shared Gold (YLS)
 
