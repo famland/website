@@ -2,8 +2,8 @@
 title: "WhitePaper"
 description: ""
 lead: ""
-date: 2020-11-16T13:59:39+01:00
-lastmod: 2020-11-16T13:59:39+01:00
+date: 2022-03-22 T13:59:39+01:00
+lastmod: 2022-03-22 T13:59:39+01:00
 draft: false
 images: []
 menu:
@@ -18,349 +18,331 @@ toc: true
 
 
 
-## 项目概况
+## Project Overview
 
-随着科学技术的发展，人类史无前例的跨文明大迁徙已经开始，越来越多的人，已经将生活、工作的重心逐步转移到虚拟的数字世界中。现实世界的经济体系也在向新的虚拟数字世界经济体系转变。
+With the development of science and technology, the unprecedented inter-civilizational migration of mankind has begun, and more and more people have gradually shifted the focus of life and work to the virtual digital world. The economic system of the real world is also changing to the new virtual digital world economic system.
 
-基于我们对元宇宙世界热情和不断探索，作为承载全新数字经济体系重要的基础设施，我们将充分利用区块链技术的去信任机制和数据不可篡改的特性，打造一个可以在数字元宇宙私域领土上进行置业的Play-to-Earn生态系统。
+Based on our enthusiasm and continuous exploration of the metaverse world, as an important infrastructure to carry the new digital economic system, we will make full use of the trustless mechanism of blockchain technology and the immutability of data to create a private domain that can be used in the digital metaverse. The Play-to-Earn ecosystem for home buying in the Territory.
 
-#### 概述
-Famland元宇宙，是一个集合包括NFT、Game、Defi多种组成要素的NFT价值养成型Play-to-Earn游戏生态。任何玩家，只需要一个EOS钱包地址，即可免费创建生成一个Famland NFT，每一个Famland NFT即是置业者在Famland元宇宙中创建的一块私域领土。
+#### Overview
+Famland Metaverse is a Play-to-Earn game ecology of NFT value development that integrates various components including NFT, Game, and DEFI. Any home buyer only needs an EOS wallet address to create and generate a Famland NFT for free. Each Famland NFT is a private domain created by the home buyer in the Famland Metaverse.
 
-玩家在Famland中质押价值100-500USDT的元宇宙置业种子基金，即可源源不断获得耕种收益YL，通过消耗YL不断培育Famland的肥力和共享值，进而获得更高的收益回报。
+By pledging Metaverse Property Seed Funds worth 100-500 USDT in Famland, home buyers can continuously obtain YL of farming income, and continuously cultivate Famland's fertility and shared value by consuming YL, thereby obtaining higher returns.
 
-无数用户的Famland连接起来，就构成了元宇宙中的价值新大陆YLE。这个新大陆，就像地球上的土地一样，可以在上面种树、盖楼房、盖商场、盖学校、盖工厂，可以发展商业、发展经济、发展文化、发展艺术，构建人类新秩序和新文明。
+Connecting the Famlands of countless home buyers constitutes a new continent of value, YLE, in the Metaverse. This new continent, just like the earth on earth, can plant trees, build buildings, build shopping malls, build schools, build factories, develop commerce, develop economy, develop culture, develop art, and build a new human order and new civilization.
 
-游戏本着以人为本的设计初心，不依赖资金投入、重视玩家在游戏中时间和智慧投入的价值，依托NFT价值养成和价值共享的算法规则，最大限度保障每名玩家在游戏中的基本权利和公平性，把利用资本损害游戏生态健康发展的不利因素降到最低。
+The game is based on the original intention of people-oriented design, does not rely on capital investment, pays attention to the value of time and wisdom invested by homebuyers in the game, and relies on the algorithm rules of NFT value development and value sharing to maximize the protection of each homebuyer's basic game in the game. Rights and fairness minimize the unfavorable factors that use capital to damage the healthy development of the game ecology.
 
-Famland元宇宙是一个100%完全社区化的项目，项目所涉及的开发、运营、市场经费全部来自普通用户投资或捐助， 项目发行的所有资产和收益，100%全部回馈社区玩家。
+Famland Metaverse is a 100% community-based project. The development, operation and market funds involved in the project are all invested or donated by ordinary home buyers. All assets and income issued by the project are 100% returned to community home buyers.
 
-#### 置业者的新世界
-Famland与传统游戏的Play-to-Earn模式的显著区别在于，传统游戏的Play-to-Earn模式是一个0到1，再到无穷大的过程。这种模式和今天绝大多数现实世界项目的创业模式类似。
+#### A new world for home buyers
+The significant difference between Famland and the Play-to-Earn mode of traditional games is that the Play-to-Earn mode of traditional games is a process from 0 to 1 and then to infinity. This model is similar to the entrepreneurial model of most real-world projects today.
 
-在Famland元宇宙中置业，无需从0到1，每一位置业者，只需要在Famland中投入100-500USDT的的种子置业资金，就可以开始将自己共享意识和其他置业者的共享意识进行融合，融合完成以后，1就产生了，无数个置业者的1，在所有置业者的共识作用下不断聚合起来，这就是1到无穷大的置业过程。
+To buy a home in the Famland Metaverse, there is no need to go from 0 to 1. Every homeowner only needs to invest 100-500USDT of seed home buying capital in Famland, and then they can start to integrate their shared consciousness with that of other home buyers. After the integration is completed, 1 will be created, and the 1s of countless home buyers will continue to aggregate under the consensus of all home buyers. This is the process of buying a home from 1 to infinity.
 
-Famland元宇宙置业，是采用共建共享的模式，这样一种经济模型，最大的意义在于能让社区的每一位置业者能在Famland元宇宙中达成人人财富权的平等，不再会被资本或权势控制，只需要通过自身努力耕耘实现财务自由，最终实现人类社会的人人平等。这也将是每位置业者的权利、义务、使命和荣耀。
+Famland Metaverse home purchasing adopts the model of co-construction and sharing. The greatest significance of this economic model is that it enables every business owner in the community to achieve equality of wealth rights for everyone in the Famland Metaverse, and will no longer be controlled by capital or power. We only need to achieve financial freedom through our own hard work, and finally realize the equality of everyone in human society. This will also be the right, obligation, mission and glory of every business owner.
 
-####  置业者的盈利方式
+####  How homebuyers make money
 
-- 耕种Famland的收益
+- Earnings from farming Famland
 
-- 培育Famland NFT
+- Cultivate Famland NFT
 
-- 持续采集Nephrite NFT
+- Continuous collection of Nephrite NFTs
 
-- 在市场上交易生态内的 NFT
+- Trading NFTs within the ecosystem on the market
 
-- 质押YLS获得共享奖金分红
+- Stake YLS to get shared bonus dividends
 
-- 投资共享农场获得农场耕种收益分红
+- Invest in shared farms to receive dividends from farm farming income
 
-- 获得共享农场激励基金奖励
+- Receive shared farm incentive fund rewards
 
-- 投资Famland原始田的空投奖励
+- Airdrop rewards for investing in the original fields of Famland
 
-- 社区置业者的空投奖励
+- Airdrop rewards for community home buyers
 
-- 敬请期待更多
+- Stay tuned for more
+#### Our Mission and Mission
 
-#### 我们的任务和使命
-
-- 帮助更多的人在Famland元宇宙中开拓一块真正属于自己的私域领土上置业，为所有置业者提供一个实现财务自由不可获缺的主要途径。
-- 让所有置业者通过Famland共同构建Famland元宇宙的新大陆YLE生态，并让这个新的大陆呈现出无限价值和蓬勃生机，履行一生二、二生三、三生万物的元宇宙使命。
-- 通过Famland元宇宙置业过程，实现人人财富权平等、打造一个人人享受公平正义的开放世界。
-- 将Famland元宇宙项目打造并共享成一个更开放、更有效率、更容易达成共识的元宇宙NFT价值标准，团结全球开发者和用户，共建共享，造福全人类。
-
+- Help more people to develop a piece of real estate in the Famland Metaverse, and provide an indispensable main way for all homebuyers to achieve financial freedom.
+- Let all home buyers jointly build the YLE ecology of the new continent of the Famland Metaverse through Famland, and make this new continent show infinite value and vigorous vitality, and fulfill the mission of the Metaverse of One begets two, two begets three, three beget all things.
+- Through the Famland Metaverse property purchase process, we will realize the equality of everyone's wealth rights and create an open world where everyone enjoys fairness and justice.
+- Build and share the Famland metaverse project into a metaverse NFT value standard that is more open, efficient, and easier to reach consensus, uniting developers and homebuyers around the world, building and sharing, and benefiting all mankind.
 
 
-## 基本概念
+## basic concept
 
 **YL**
 
-YL（Yield Land）是YLE生态中新型的算法稳定积分，是承载YLE生态中所有数字资产价值的最基本的单位和交易体。YL的发行和YLE生态内新增的Famland经济价值挂钩。人们在YLE的农场中耕种Famland可以持续永久获得YL收益。
+YL (Yield Land) is a new type of algorithmic stability point in the YLE ecosystem. It is the most basic unit and transaction body that carries the value of all digital assets in the YLE ecosystem. The issuance of YL is linked to the new Famland economic value in the YLE ecosystem. People farming Famland on YLE's farms can continue to earn YL benefits in perpetuity.
 
 **Famland NFT**
 
-Famland NFT是人们在元宇宙中进行置业，实现Play-to-Earn的载体，Famland就类似是自己的私人农田，置业者在Famland上投入种子置业资金后，即可源源不断产出YL收益。培植Famland的核心是提升Famland的肥力值和共享值。
 
+Famland NFT is a carrier for people to home purchasing in the Metaverse and realize Play-to-Earn. Famland is similar to their own private farmland. After the homebuyers invest in seed property funds in Famland, they can continuously generate YL income. The core of cultivating Famland is to increase the fertility value and shared value of Famland.
 
-**YLE生态**
+**YLE Ecology**
 
-无数置业者创建的Famland NFT共同构建成了YL生态（YLE，Yield Land Ecology），YLE是Famland元宇宙的新大陆，Famland以及其它各类NFT，将在这里不断生成、发育、迁徙、变化和融合。而这个变化和融合的过程，就是YLE的构建过程。YLE将承载一个全新的人类社会和人类文明。
+The Famland NFTs created by countless home buyers have jointly built the YL Ecology (YLE, Yield Land Ecology). YLE is the new continent of the Famland Metaverse. Famland and other types of NFTs will continue to generate, develop, migrate, change and integrate here. And this process of change and integration is the construction process of YLE. YLE will carry a brand new human society and human civilization.
 
-**原生农场**
+**Native Farm**
 
-原生农场是YLE生态内的公共农场，所有置业者新创建的Famland，默认情况下都从属于原生农场下耕种，并按照该农场的APY收益率获得耕种收益。如果置业者将Famland加入共享农场后，也将从原来从属的农场中退出。
+The native farm is a public farm in the YLE ecosystem. All newly created Famland by home buyers are cultivated under the native farm by default, and the farming income is obtained according to the APY rate of the farm. If the home buyer adds Famland to the shared farm, he will also withdraw from the original subordinate farm.
 
-**共享农场**
+**Shared farm**
 
-YLE生态除了公共的原生农场外，置业者们可以自由组合自己的Famland形成新的共享农场，只要已经在基本田存入种子置业基金的Famland数量达到30，即可创建新的共享农场。不同的农场，享有不同的APY收益。
+In addition to the public native farms, home buyers can freely combine their own farms to form new shared farms. As long as the number of farms that have deposited seed property funds in the basic farms reaches 30, new shared farms can be created. Different farms enjoy different APY benefits.
+**Famland's Basic Field**
 
-**Famland的基本田**
+The core of Famland cultivation in the Metaverse is mainly reflected in the cultivation of basic fields. The cultivation of basic fields requires the careful management and configuration of the homebuyer, which determines the value, honor and status of the homebuyer and the future of this piece of Famland. Home buyers can only generate YL income if they meet the priority of depositing seed property funds in the basic fields. Original Field and Wild Field don't need to worry too much, just invest as needed.
+**Famland Basic Field Market Making Funds Compensation**
 
-元宇宙中的Famland耕种，核心主要体现在基本田的耕种，基本田耕种需要置业者用心经营和配置，它决定着置业者个人以及这块Famland未来的价值、荣誉和地位。置业者只有满足优先在基本田存入种子置业基金，才能产出YL收益。原始田和野田无须太多操心，只需按需投资就行。
+After the principal of the Famland basic field deposited by the home buyer, if the market-making assets lose due to the decrease in the price of YL, when all the basic field market-making assets are retrieved, 100% of the loss amount can be compensated. Therefore, home buyers in Famland do not need to worry about the risk of basic land cultivation.
+**USDT/YL LP Farm Pool**
 
-**Famland基本田做市资金赔付**
+After the home buyers deposit the seed property fund on Famland, all the deposited funds will automatically enter the USDT/YL LP farm pool. As long as you have USDT or YL, you can get farming income YL by creating a new Famland NFT and staking both USDT and YL in its basic field.
+**YL's Price Stabilization Mechanism**
 
-置业者存入Famland基本田的本金，如果因YL价格降低，导致做市资产亏损时，在取回全部基本田做市资产时，可以100%获得亏损额度的赔付。所以Famland的置业者，无需担心基本田耕种的风险。
+YL is an algorithmic stability point in the YLE ecosystem, and the relative stability of its value is achieved through the YL price stability algorithm mechanism in YLE. This algorithmic mechanism will play a certain role in preparing the overheated buying or selling market in the trading market within a certain period of time. At the same time, when the price of YL is lower than the benchmark price, the buyers of YL will be motivated through the fund bonus, so that YL will be rewarded. The price is in a relatively stable price range.
+YL's price stability mechanism is mainly composed of the following three parts: 1. SWAP transaction impermanent slippage mechanism; 2. Stable fund pool working mechanism; 3. Stable bonus pool working mechanism;
+**SWAP transactions have invariable slippage**
 
-**USDT/YL LP 农场池**
+Indefinite slippage is an uncertain transaction slippage value generated when the transaction price of YL deviates from the normal floating range in the SWAP transaction process. The higher the value, the higher the impermanent slippage fee. This algorithmic mechanism will inhibit overheated buying or concentrated selling in the trading market for a period of time.
+**YLE Farm Stability Pool**
 
-置业者们在Famland上存入的种子置业基金后，所有存入的资金将自动进入到USDT/YL LP 农场池中。只要你有USDT或者YL，就可以通过创建一个新的FamlandNFT，并在其基本田内同时质押USDT和YL，获得耕种收益YL。
+The YLE farm stable pool is divided into a stable fund pool and a stable bonus pool. The role of the stable fund pool is to use the funds in the stable fund pool to balance and stabilize the market transaction price of YL through automated SWAP transactions.
+**YLE Farm Fund Pool**
 
-**YL的价格稳定机制**
+The function of the stable bonus pool is to motivate YL buyers during this period when the price of YL is lower than the benchmark price, so as to ensure that the price of YL rises back to the normal stable benchmark price range of YL.
+**Famland's Fertility Value**
 
-YL是YLE生态中的算法稳定积分，其价值的相对稳定性，是通过YLE内YL价格稳定算法机制来实现。这种算法机制会在一个时间段内，对交易市场过热的买入或抛售行情起到一定拟制作用，同时当YL价格低于基准价时间段，通过基金奖金激励YL的购买者，使得YL的价格处于一个相对稳定的价格区间范围内。
+Fertility value is an important key value attribute in the YLE ecology. For the entire YLE ecology, the increment of Famland's fertility value determines the flow rate of newly issued YL in each farming cycle to transfer YL to the farm's distribution pool. The faster the YL flow rate of each farm distribution pool will be, the higher the YL output by the farm will be.
+**Famland Blesses NFT**
 
-YL的价格稳定机制主要由以下三个部分组成：1、SWAP交易无常滑点机制；2、稳定基金池工作机制；3、稳定奖金池工作机制；
-
-**SWAP交易无常滑点**
-
-无常滑点，是在SWAP交易过程中，如果YL的交易价格偏离正常浮动区间时，产生的一种不确定的交易滑点值，交易价格偏离基准价格越远，无常滑点可能产生的不确定值就越高，无常滑点手续费就越高。这种算法机制会在一个时间段内，对交易市场过热的买入或集中抛售行为起到拟制作用。
-
-**YLE农场稳定池**
-
-YLE农场稳定池分为稳定基金池和稳定奖金池。其中稳定基金池的作用是其作用是使用稳定基金池内的资金，通过自动化SWAP交易平衡和稳定YL的市场交易价格。
-
-**YLE农场基金池**
-
-稳定奖金池的作用是当YL的价格低于基准价格时，激励这个期间YL的购买者，从而保障YL的价格回升到YL正常的稳定基准价区间内。
-
-**Famland的肥力值**
-
-肥力值是YLE生态中重要关键性价值属性。对于整个YLE生态而言，Famland肥力值的增量决定每个耕种周期内新增发的YL向所在农场分发池划转YL的流速，Famland的肥力值增量越多，从YLE蓄水池流入各个农场分发池的YL流速将越快，农场产出的YL越高。
-
-**Famland加持NFT**
-
-根据Famland肥力值的计算规则，要想提升肥力值，由于受到做市资金的额度限制，只能通过延长基本田的耕种时长达到目的。而Famland如果一旦通过NFT进行加持操作，就可激活NFT肥力加成系数的永久性提升的通道。
-
+According to the calculation rules of Famland's fertility value, in order to increase the fertility value, due to the limitation of the amount of market-making funds, the purpose can only be achieved by extending the cultivation time of the basic fields. And if Famland performs a blessing operation through NFT, it can activate the channel of permanent increase of NFT fertility bonus coefficient.
 **CryptoTree NFT**
 
-CryptoTree是第一代可用于对Famland加持的NFT，加持成功后，Famland的肥力加成系数可立即获得提升，未来，哪些NFT可以为Famland进行加持提升，肥力加成提升多少数额，将有社区投票决定。
-
+CryptoTree is the first generation of NFTs that can be used for blessing on Famland. After the blessing is successful, Famland's fertility bonus coefficient can be increased immediately. In the future, which NFTs can be blessed for Famland, and how much the fertility bonus will be increased, there will be community votes Decide.
 **Nephrite NFT**
 
-和田玉是YLE中一种产自Famland并可循环使用的NFT，其主要作用是合并两个或多个Famland时，消耗Nephrite NFT，提高合并的成功率和合田后Famland的共享值。
+Nephrite is a kind of NFT in YLE that is produced from Famland and can be recycled. Its main function is to consume Nephrite NFT when merging two or more Famlands, increasing the success rate of the merger and the shared value of Famland after combining.
 
-**元宇宙NFT价值标准**
+**Metaverse NFT Value Standard**
 
-如同现实世界中的山地、沙漠、草原、耕地虽然都存在与地表，但其价值对于人类来说是不相同的。在元宇宙的世界中更是如此，任何人都可以写一串代码就宣称，它是孕育元宇宙各种生态的土壤，但是，这块土壤有没有价值，这块土壤所孕育出的数字经济载体是否有价值，则需要一个开放的、更有效率、更容易达成共识的标准来衡量。Famland元宇宙项目是在通过Famland NFT和YL构建一个全新的YLE生态，运作去创建一个数字元宇宙、精神家园的底层价值的技术和逻辑标准。该标准将开源，团结所有开发者和用户，共同维护升级元宇宙NFT价值标准。
-
-
-
-## 游戏玩法及规则
-
-### 游戏的可持续性发展
-
-Famland的生态的算法稳定积分YL，是承载生态中所有数字资产价值的最基本的单位和交易体。是Famland元宇宙的经济价值稳定的基础。而Famland NFT是人们在元宇宙中置业，实现可持续性Play-to-Earn的重要载体，同时Famland NFT作为社区 DAO投票权的基础，也可以用于挖矿。因此，Famland将在市场上将获得更高的经济价值。
-
-如果你是新手，你可以通过以下方式参与YLE生态的经济系统赚钱。
-
-1、耕种Famland赚钱
-
-2、培植Famland赚钱
-
-3、质押YLS赚钱。
-
----
-
-### Famland耕种收益
-
-置业者创建Famland NFT后，通过在Famland的基本田存入USDT和YL种子置业资金，获得耕种收益。当然置业者也可以选择在Famland原始田和野田中存入资产。
-
-**耕种收益的计算规则：**
-
-**耕种收益=当前收益时长（分种）×（（基本田做市资金价值+原始田做市资金价值）×肥力值加成系数+野田做市资金价值）× 收取收益时农场实时的年化APY/525600**
-
-当前收益时长=上一次收益时间 或 首次做市起点时间 至 收取收益时间 的总时长（分钟）
-
-做市资金价值=存入的USDT数量+存入的YL数量*YL实时价格
-
-根据以上算法规则可知，置业者如果希望获得更高的耕种收益，收取时刻的农场年化APY是一个重要的指标，APY的数值变化将会影响本次收益期内待收取YL的实际数量。
-
-Famland产出的YL，如果大家暂不去收取，而是继续暂存在农场分发池内，分发池内所积累的余额将越来越多，随后一段时间内，农场的APY将会逐步提高，这样农场内所有置业者所产出的YL数量也会更多一些。**Famland产出的YL留置在农场分发池的时间越长，置业者的收益越高。**
-
-#### 基本田做市
-
-基本田初次投入资金价值范围设定在100-500 USDT之间，存入成功后，基本田肥力值加成系数立即增加1变为2。根据以上耕种收益的计算公式得知，置业者投入1份的资金，相当于获得了按基本田双份资金价值计算耕种收益。
-
-置业者在基本田地块投入做市资金后，如果要新增资金或取回基本田的资金均需要支付手续费。费率标准如下：
-
-1、取回基本田资金，按照取回的资金数额，支付1%手续费。每次不论做市资金取回多少，Famland耕种时长将清零重新开始累积计算。
-
-2、基本田二次做市或增加基本田资金，将按照增加的资金数额，支付100%的手续费。但增加后的资金的总额价值不超过500USDT。
-
-**基本田做市资金损失100%赔付机制**
-
-本着以人为本的初衷，YLE对置业者在基本田做市资金的损失采取全额赔付的机制，最高赔付额度为500USDT。也就是说因YL价格下降，造成基本田做市资金出现损失，损失的资金将由YLE的100%赔付，当用户全部取回基本田做市资金时，赔付资金按照亏损的金额以YL的实时价格计算成等价值的YL数额，从稳定基金池内支付。
-
-赔付机制的目的就是希望用户安心耕种基本田，即便出现价格大幅降低，也无须担心基本田做市资金的风险。同时YLE生态内所有用户的基本田的资金，也为整个YLE的资金池交易提供充足的流动性保障。
-
-玩家在原始田和野田做市资金因价格波动造成做市损失，无赔付。
-
-**基本田做市赔付产生的时机**
-
-用户取回基本田全部做市本金时，触发赔付机制。
-
-**赔付额度**
-
-基本田的赔付额度=基本田存入的本金价值-当前实时做市价值-每次取回的做市资金价值-每次提取的收益价值。赔付额度最高500U，最低不限，赔付额度低于0时，界面始终显示0。
-
-**赔付的资产、数量和资金来源**
-
-用户取回全部做市资产后，除了从流动池中取回相应数量的U+YL外，触发赔付机制。赔付是按照赔付资金的U价值根据触发机制时的YL实时交易价格，换算成相应数量的YL，从稳定池支付给用户。稳定池如果YL余额不足，赔付将终止。
+Just like the mountains, deserts, grasslands, and arable land in the real world, although they all exist on the surface, their values are not the same for humans. This is even more true in the world of the Metaverse. Anyone can write a string of codes and declare that it is the soil that nurtures various ecology of the Metaverse. However, is this soil valuable? The digital economy nurtured by this soil. Whether the carrier is valuable or not requires an open, more efficient and easier consensus standard to measure. The Famland Metaverse Project is building a brand new YLE ecosystem through Famland NFT and YL, operating to create a digital metaverse, the technical and logical standards of the underlying value of the spiritual home. The standard will be open source, uniting all developers and home buyers to jointly maintain and upgrade the Metaverse NFT value standard.
 
 
+## Game play and rules
 
-#### 原始田做市
+### Sustainability of games
 
-Famland的原始田地块是具有一定风险耕种收益的土地，但也是收益最高的地块，用户只有取得原始田做市资格白名单后才能在原始田中做市。（如何获得Famland原始田做市资格白名单，可查看社区最新活动）
+Famland's ecological algorithm stability point YL is the most basic unit and transaction body that carries the value of all digital assets in the ecosystem. It is the basis for the stability of the economic value of the Famland Metaverse. Famland NFT is an important carrier for people to home purchasing in the metaverse and realize sustainable Play-to-Earn. At the same time, Famland NFT, as the basis of community DAO voting rights, can also be used for mining. Therefore, Famland will gain higher economic value in the market.
 
- 一块原始田用户最多可投入500USDT，系统将按照原始田投入的USDT的数量赠送同等价值数量的YL，系统将用户投入的USDT和系统赠送的YL一同投入到资金池做市。
+If you are a novice, you can make money by participating in the economic system of the YLE ecosystem in the following ways.
 
-原始田做市资金一旦投入，Famland的肥力值加成系数立即增加1，变为2（原始田和基本田奖励共享肥力加成系数增加额度，两个地块同时做市时，肥力加成系数只增加1）。也意味着，用户在原始田投入的500USDT，可以直接获得相当于2000USDT做市资金价值，如果用户的Famland栽种了加密树NFT，肥力值加成系数还可再增加1，变为3。那么用户实际投入的500USDT，相当于获得了相当于6倍本金的做市价值，也就是当计算耕种收益时，是按照3000USDT的做市资金来计算耕种收益。
+1. Farm Famland to make money
 
-**投资风险警示：**
+2. Cultivate Famland to make money
 
-**用户在原始田地块投入的做市资金，一旦投入，无论项目成败，永久不能取回。**
-
-
-
-
-#### 野田做市
-
-野田地块初始做市价值最高不超过1万USDT，做市额度上限可随着肥力值提升而提升，野田做市没有肥力加成，也没有本金赔付保障。
-
-野田做市额度可按照500USDT为单位进行提升，首次提升500USDT的做市额度，肥力值须提升至20000，以后再次提升，肥力值再之前提升值基础值增加3‰。
-
-野田地块做市资金可随时抽出，抽出做市资金后也不影响Famland耕种时长。
+3. Pledge YLS to make money.
 
 ---
 
-### 培植Famland
+### Famland farming income
 
-Famland的培植，主要目标是提升Famland的肥力值。肥力值提升主要分为两个方向。一是累积提升、二是加持提升。
+After home buyers create Famland NFT, they can obtain farming income by depositing USDT and YL seed property funds in Famland's basic fields. Of course, home buyers can also choose to deposit assets in the original fields and wild fields of Famland.
+**Calculation rules for farming income：**
 
-#### 累积提升
+**Cultivation income = current income duration (by planting) × ((basic field market-making capital value + original field market-making capital value) × fertility value addition coefficient + wild field market-making capital value) × real-time annualized APY of the farm when the income is collected /525600**
 
-Famland累积提升，取决于Famland所存入基本田种子基金做市的耕种时长和基本田做市资金数额。
+Current revenue duration = total duration from the last revenue time or the start time of the first market making to the revenue collection time (minutes)
 
-具体算法如下：
+Market-making capital value = amount of USDT deposited + amount of YL deposited * real-time price of YL
 
-**肥力值=耕种时长×3%×（基本田和原始田做市资金价值×3%×加成系数+净投入资产×0.03%）**
+According to the above algorithm rules, if home buyers want to obtain higher farming income, the annualized APY of the farm at the time of collection is an important indicator, and the change in APY value will affect the actual amount of YL to be collected during this income period.
 
-加成系数：默认为1，基本田存入资金后，加成系数将提升1，Famland加持NFT后累积肥力值将根据肥力值增长量按规则转成一定的加成系数数额。
+If you do not collect YL produced by Famland for the time being, but continue to temporarily store it in the farm distribution pool, the accumulated balance in the distribution pool will increase, and the farm’s APY will gradually increase over a period of time. The amount of YL produced by all home buyers will also be higher.
+**The longer the YL produced by Famland is retained in the farm distribution pool, the higher the income for the home buyer.**
 
-**耕种时长**
-用户在Famland基本田地块做市成功后，耕种时长开始按分累计，在基本田取回做市资金，不论取回多少，耕种时长清零重新计算。肥力值受耕种时长的影响也会重新开始计算。在基本田增加做市资金或在野田取回做市资金不影响耕种时长。
+#### basic field market making
+
+The initial investment value of the basic field is set between 100-500 USDT. After the deposit is successful, the basic field fertility value bonus coefficient increases from 1 to 2 immediately. According to the above calculation formula of farming income, the home buyer invests 1 share of capital, which is equivalent to obtaining the farming income calculated according to the capital value of the basic field.
+
+After the home buyer invests the market-making funds in the basic field plot, if they want to increase the funds or get back the funds of the basic field, they need to pay a handling fee. The rates are as follows:
+
+1. To retrieve the basic field funds, a 1% handling fee will be paid according to the amount of funds retrieved. No matter how much the market-making funds are retrieved each time, the farming time of Famland will be reset to zero and start the accumulation calculation again.
+
+2. For the secondary market making of the basic field or to increase the capital of the basic field, 100% of the handling fee will be paid according to the amount of the increased funds. However, the total value of the increased funds does not exceed 500 USDT.
+
+**100% compensation mechanism for the loss of market-making funds in the basic field**
+
+In line with the original intention of people-oriented, YLE adopts a mechanism of full compensation for the loss of home buyers' market-making funds in basic fields, with a maximum compensation amount of 500USDT. That is to say, due to the decline in the price of YL, the market-making funds of the basic field are lost, and the lost funds will be compensated by 100% of YLE. When the user fully retrieves the market-making funds of the basic field, the compensation funds will be based on the amount of the loss. The real-time price of YL Calculated as an equivalent YL amount, paid from the stable fund pool.
+
+The purpose of the compensation mechanism is to hope that users can focus on cultivating basic fields, and even if the price drops significantly, they do not need to worry about the risk of market-making funds for basic fields. At the same time, the basic funds of all users in the YLE ecosystem also provide sufficient liquidity protection for the entire YLE fund pool transaction.
+
+Home buyers in Original Field and Wild Field market-making funds cause market-making losses due to price fluctuations, and there is no compensation.
+
+**The timing of base field market making compensation**
+
+When the user retrieves all the market-making principal of the basic field, the compensation mechanism is triggered.
+
+**Amount of compensation**
+
+The compensation limit of the basic field = the value of the principal deposited in the basic field - the current real-time market-making value - the value of the market-making funds retrieved each time - the value of the income for each withdrawal. The maximum compensation amount is 500U, and the minimum is unlimited. When the compensation amount is lower than 0, the interface will always display 0.
+
+**Assets, amounts and sources of funds paid**
+
+After the home buyer retrieves all the market-making assets, in addition to retrieving the corresponding amount of U+YL from the liquidity pool, the compensation mechanism will be triggered. The compensation is based on the U value of the compensation fund and the real-time transaction price of YL when the mechanism is triggered, converted into the corresponding amount of YL, and paid to the home buyer from the stable pool. If the balance of YL in the stable pool is insufficient, the compensation will be terminated.
 
 
 
-#### 加持提升
+#### Original field market making
 
-元宇宙是人类精神文明的世界，在现实世界中耕种土地，人们需要付出的是体力劳动，而在元宇宙的Famland上耕种，人们需要付出的是脑力劳动。
+The original fields of Famland are land with certain risk farming benefits, but they are also the most profitable plots. Home buyers can only make markets in the original fields after obtaining the white list of the original field market making qualifications. (How to get the whitelist of Famland original field market making qualification, you can check the latest community activities)
 
-所以，在Famlan元宇宙中，所有凝聚人类精神、意识、文化、艺术等元素的NFT都可以为Famland进行肥力加持。包括但不限于加密树、加密农作物、加密房产、加密动植物等等。
+ Home buyers can invest up to 500 USDT in each original field, and the system will give away YL of the same value according to the amount of USDT invested in the original field.
 
-Famland的肥力加持提升，取决于所加持NFT的属性。只要将NFT对Famland完成加持操作，就能立即获得对加成系数的提升，CryptoTree是YLE中第一代可用于对Famland加持的NFT，加持成功后加成系数可立即提升1，未来，哪些NFT可以为Famland进行加持提升，肥力加成提升多少数额，将有社区投票决定。
+Once the original field market-making funds are invested, the Famland's fertility value bonus coefficient will immediately increase by 1 to 2 (the original field and the basic field will share the fertility bonus coefficient increase amount. When two plots make markets at the same time, the fertility bonus coefficient will be Only increase 1). It also means that the 500USDT invested by the home buyer in the original field can directly obtain a market-making capital value equivalent to 2000USDT. If the home buyer's family planted an encrypted tree NFT, the fertility value bonus factor can be increased by 1 to 3. Then the 500 USDT actually invested by the home buyer is equivalent to obtaining a market making value equivalent to 6 times the principal, that is, when calculating the farming income, the farming income is calculated based on the market making funds of 3000 USDT.
 
-同时Famland加持NFT后，Famland将激活肥力值增量转化提升加成系数的通道。
+**Investment Risk Warning:**
 
-Famland加持NFT后的肥力值转化加成系数规则：
+**The market-making capital invested by the homebuyers in the original land plots, once invested, can never be retrieved regardless of the success or failure of the project.**
 
-Famland加持YLE生态内的CryptoTree NFT后，肥力加成可以按照0.001为单位进行提升，首次肥力加成提升0.001，肥力值须提升20000，肥力加成再次提升0.001，需提升的肥力值在之前的提升的基础值上提升3‰。
 
-由此可见，Famland中，Famland的耕种时长越长、投入资金越大、肥力值越高、加持NFT后，进而转化的加成系数越多，耕种收益越高。
+
+
+#### Wild Field Market Making
+
+The initial market-making value of the wild field shall not exceed 10,000 USDT, and the upper limit of the market-making quota can be increased with the increase of the fertility value. There is no fertility bonus or principal compensation guarantee for the wild field market-making.
+
+Wild field's market making quota can be increased in units of 500USDT. To increase the market making quota of 500USDT for the first time, the fertility value must be increased to 20,000, and then increase again, and the fertility value will increase by 3‰ to the base value.
+
+The market-making funds of the wild field can be withdrawn at any time, and the farming time of Famland will not be affected after the market-making funds are withdrawn.
 
 ---
 
-### 打造共享农场
+### Cultivate Famland
 
-置业者初始创建的Famland是默认是在YLE生态内的公共原生农场内进行耕种的，由于公共农场置业者的共识程度不一，挖提卖的现象将会很普遍，这种结果会导致共识度高的置业者和共识度低的置业者，所付出的价值共享程度不一而共享同一个APY收益回报，导致耕种收益分配不公的现象。
+The main goal of cultivation of Famland is to increase the fertility value of Famland. The increase in fertility value is mainly divided into two directions. One is cumulative improvement, and the other is blessing improvement.
+#### Cumulative boost
 
-因此，YLE生态除了公共的原生农场外，置业者们可以自由组合自己的Famland形成新的共享农场，只要已经在基本田存入种子置业基金的Famland数量达到30，即可创建新的共享农场。这样YLE生态为共识度高的置业者们提供了一个凝聚共识的机制，通过创建共享农场，享有不同的APY收益，达到Famalnd共置的目的。
+The cumulative increase of Famland depends on the cultivation time of the basic field seed funds deposited by Famland and the amount of basic field market making funds.
 
-共享农场，是Famland元宇宙价值共享的核心。价值共享越多的人，在后期获得的回报越来越多，而价值共享越少的人，在后期获得的收益也会越来越少。这就是共享农场设计和建设的基本原理。
+The specific algorithm is as follows:
 
-共享农场的APY收益率高低，取决于该农场的分流指数，而该农场的分流指数又由该农场的平均共享值决定。
+**Fertility value = cultivation time × 3% × (market-making capital value of basic fields and original fields × 3% × bonus coefficient + net investment assets × 0.03%)**
 
-共享农场是在原生农场之外，又增加了一个与它相平行的农场。同样道理，平行的新农场，也有自己的分发池。 这时候，YLE蓄水池中的YL，将根据每个农场（含原生农场和共享农场）的分流指数占比，分别流向各个农场的分发池中。
+Bonus coefficient: The default value is 1. After depositing funds in the basic field, the bonus coefficient will increase by 1. After Famland has blessed NFT, the accumulated fertility value will be converted into a certain bonus coefficient amount according to the rules of the increase in fertility value.
 
-按照分流指数的算法规则，共享值越高的分发池，从蓄水池流入到分发池的流速越快。这就意味着，总分池流向不同共享农场的的流速，也是不一样的。
-
-共享值是衡量Famland价值共享大小的重要指标，共享值越高，代表对YLE生态的贡献越大，反之，贡献越小。由此，为了激励用户参与YLE生态共享经济建设，YLE生态内的Famland可以脱离原生农场，自由组建新的共享农场参与耕种。同样的肥力值，共享值高的农场将比共享值低的农场获得更高的APY收益回报。
-
+**Cultivation time**
+After the home buyer successfully makes a market in the basic field of Famland, the cultivation time starts to accumulate in minutes, and the market-making funds are retrieved from the basic field. Fertility values are also recalculated due to farming time. Increasing market-making funds in basic fields or withdrawing market-making funds in wild fields does not affect the farming time.
 
 
-#### 创建共享农场 
+#### Blessing
 
-创建农场需要支付120YL，共享农场创建后，创建人即为农场主，农场状态为筹备中的状态。此时农场还不能正常工作，农场内的Famland也没有耕种收益。农场主还需要邀约其他Famland加入农场，待参与邀约的已在基本田做市的Famland NFT达到30个后，农场主可以正式激活共享农场。激活成功后，共享农场的状态变更为正常状态。
+The Metaverse is the world of human spiritual civilization. To cultivate the land in the real world, people need to pay physical labor, but to cultivate on the Famland of the Metaverse, people need to pay mental labor.
 
-创建农场支付的费用，60%进入YLE农场共享基金池，20%进入储备基金池，20%进入稳定池。
+Therefore, in the Famland Metaverse, all NFTs that condense elements of human spirit, consciousness, culture, art, etc. can fertilize Famland. Including but not limited to encrypted trees, encrypted crops, encrypted real estate, encrypted animals and plants, etc.
 
-#### 邀请Famland加入农场 
+The enhancement of Famland's fertility blessing depends on the attributes of the NFT being blessed. As long as the NFT is blessed on Famland, the bonus factor can be increased immediately. CryptoTree is the first generation of NFT in YLE that can be used to support Famland. After the blessing is successful, the bonus factor can be increased by 1 immediately. In the future, which NFTs The number of blessings that can be increased for Famland, and the amount of the fertility bonus will be decided by the community.
 
-邀请Famland加入共享农场有以下两种方式：
+At the same time, after Famland blesses NFT, Famland will activate the channel of increasing the fertility value to increase the bonus coefficient.
 
-> **发布邀约广告** 邀约广告发布成功后，邀约订单将在邀约时效期限内，出现在前台界面，在符合邀约条件的要求下，其他用户的Famland如果符合准入条件可直接加入农场，无须支付任何费用，也无须该农场主批准。
+Fertility value conversion bonus coefficient rules after Famland blessing NFT:
+
+After Famland blesses CryptoTree NFT in the YLE ecosystem, the fertility bonus can be increased in units of 0.001. The first fertility bonus is increased by 0.001, the fertility value must be increased by 20,000, and the fertility bonus is increased by 0.001 again. The fertility value that needs to be increased is the previous increase The base value is increased by 3‰.
+
+It can be seen that in Famland, the longer the farming time of Famland, the greater the investment, the higher the fertility value, and the more conversion coefficients after the blessing of NFT, the higher the farming income.
+
+---
+
+### Create a shared farm
+
+The Famland initially created by home buyers is cultivated in the public native farms within the YLE ecology by default. Due to the different levels of consensus among home buyers in public farms, the phenomenon of digging and selling will be common, and this result will lead to consensus. High-level home buyers and low-consensus home buyers share the same APY return with different value sharing degrees, resulting in an unfair distribution of farming income.
+
+Therefore, in addition to the public native farms in YLE ecology, home buyers can freely combine their own Famland to form a new shared farm. As long as the number of Famland that has deposited the seed property fund in the basic field reaches 30, a new shared farm can be created. In this way, YLE ecology provides a consensus-building mechanism for home buyers with a high degree of consensus. By creating shared farms, they can enjoy different APY benefits and achieve the purpose of co-location of Famland.
+
+Shared farms are the core of value sharing in the Famland Metaverse. People who share more value will get more and more returns in the later stage, and those who share less value will get less and less benefits in the later stage. This is the rationale for the design and construction of shared farms.
+
+The APY yield of a shared farm depends on the diversion index of the farm, which in turn is determined by the average shared value of the farm.
+
+A shared farm is a farm that is parallel to it in addition to the original farm. In the same way, parallel new farms also have their own distribution pools. At this time, the YL in the YLE reservoir will flow to the distribution pool of each farm according to the proportion of the diversion index of each farm (including native farms and shared farms).
+
+According to the algorithm rule of the diversion index, the distribution pool with the higher sharing value, the faster the flow rate from the reservoir to the distribution pool. This means that the flow rate of the total pool to different shared farms is also different.
+
+Shared value is an important indicator to measure the size of Famland's value sharing. The higher the shared value, the greater the contribution to the YLE ecology, and vice versa, the smaller the contribution. As a result, in order to encourage users to participate in the construction of the YLE ecological sharing economy, Famland in the YLE ecosystem can break away from the original farm and freely form a new shared farm to participate in farming. For the same fertility value, a farm with a high share value will get a higher APY return than a farm with a low share value.
+
+
+
+#### Create a shared farm 
+
+To create a shared farm, you need to pay 120YL. After the shared farm is created, the creator is the farmer, and the farm status is in preparation. At this time, the farm is not working properly, and the Famland on the farm has no income from farming. The farmer also needs to invite other Famland to join the farm. After the number of Famland NFTs that have participated in the invitation and have already made the market in the basic field reaches 30, the farmer can officially activate the shared farm. After the activation is successful, the status of the shared farm changes to normal.
+
+60% of the fees paid for creating a farm enter the YLE farm shared fund pool, 20% enter the reserve fund pool, and 20% enter the stable pool.
+
+#### Invite Famland to join the farm
+
+There are two ways to invite Famland to join a shared farm:
+
+> **Post an Invitational Advertisement** After the invitation advertisement is successfully released, the invitation order will appear on the front-end interface within the limitation period of the invitation. If the requirements of the invitation are met, the Famland of other home buyers can join the farm directly if they meet the access conditions, without paying any fees and the farm. Master approves.
 >
-> 首次发布邀约广告费用标准： 1个月600YL，3个月1600YL，6个月3000YL，12个月5600YL
+> 1st release invitation advertisement fee standard: 600YL for 1 month, 1600YL for 3 months, 3000YL for 6 months, 5600YL for 12 months.
 >
-> 再次发布邀约广告，广告费用在以上价格标准上翻倍。
+> The invitation advertisement is released again, and the advertisement cost is doubled on the above price standard.
 
-> **通过邀请链接私下邀请** 农场创建后，系统默认给农场主生成好了邀约链接地址。农场主可根据需要调整私人邀约内容。私人邀约地址长期有效。
+> **Invite privately via invite link** After the farm is created, the system generates an invitation link address for the farmer by default. Farmers can adjust the private invitation content as needed. The private invitation address is valid for a long time.
 
-农场主发起邀约广告支付的费用以及用户Famland加入农场所支付的费用，60%进入YLE农场共享基金池，20%进入储备基金池，20%进入稳定池。
+60% of the fee paid by the farmer to initiate the invitation advertisement and the fee paid by the home buyer Famland to join the farm, 60% goes into the YLE farm shared fund pool, 20% goes into the reserve fund pool, and 20% goes into the stable pool.
 
-#### 退出农场 
+#### Exit the shared farm
 
-用户Famland加入农场后，如果希望退出农场，只需要支付120YL可退出该共享农场，其中60YL支付给农场主，另外60YL中的60%进入YLE农场共享基金池，20%进入储备基金池，20%进入稳定池。
+After the buyer's Famland joins the farm, if he wants to leave the farm, he only needs to pay 120YL to exit the shared farm, of which 60YL is paid to the farmer, and 60% of the other 60YL goes into the YLE farm shared fund pool, and 20% goes into the reserve fund pool. 20% goes into the stability pool.
 
-农场主也可以直接移除成员Famland，农场主支付120YL可移除共享农场中的成员，60YL支付给离场成员，另外60YL中的60%进入YLE农场共享基金池，20%进入储备基金池，20%进入稳定池。
+The farmer can also directly remove the member Famland, the farmer pays 120YL to remove the members from the shared farm, 60YL is paid to the leaving member, and 60% of the other 60YL goes into the YLE farm shared fund pool, and 20% goes into the reserve fund pool, 20% goes into the stability pool.
 
-农场创建成功后，农场主主动移除或农场成员自行退出，农场Famland数量即便低于30个，农场成员基本田提取做市资金，低于500U也不受影响农场正常工作。
-
----
-
-### Famland共置
-
-Famland共置的目标是提升Famland共享值，共享值的价值并不作用于Famland本身，而是作用在Famland所在的农场，提升的是所在农场的YL产量。农场的共享值越高、贡献共享值的Famland越多、产出的YL数量越多，农场的价值越大。
-
-**共享值**
-
-置业者在Famland基本田存入资产后，即可获得Famland的共享值。Famland默认的共享值最高不超过500，共享值将作用于所在农场，农场的共享值越高，农场获得的分流指数越多，流入农场分发池的YL越多，农场所产出的YL越多，置业者耕种收益的年化APY越高。
-
-提升共享值有以下2种方式
-
-#### 01 做市资金额度转化为共享值
-
-**共享金额度**
-
-共享金额度可以转化为共享值。玩家在名下所有Famland中每投入价值1USDT的做市资金，玩家累计的共享金额额度就增加1USDT，而从名下所有Famland中每提取价值1USDT的做市资金，共享金额额度就减少1USDT。置业者累计的共享金额度余额，在共享值限额的范围内，可按照1USDT的共享金额度转化1个单位的共享值。
-
-**共享值限额**
-
-共享值限额，是指Famland共享值每个周期阶段性的上限额度，由用户在该Famland基本田收取YL数量决定，置业者每从Famland基本田收取价值1USDT的YL，共享值限额可提升1，这个限额决定着Famland的在当前Famland最高共享值上限。
-
-#### 02 famland合并
-
-Famland合并是指将自己钱包名下多个基本田做市本金价值达到500USDT的Famland进行合并，从而使合并后的Famland获得更高共享值的一种玩法。
+After the farm is successfully created, the farmer voluntarily removes it or the farm members withdraw by themselves. Even if the number of farms on the farm is less than 30, the farm members will basically withdraw the market-making funds from the farm, and the normal operation of the farm will not be affected if it is less than 500U.
 
 ---
 
-### 合并Famland
+### Famland co-governance
 
-####  合并要求
+The goal of Famland co-governance is to increase the shared value of Famland. The value of shared value does not act on Famland itself, but on the farm where Famland is located, which increases the YL output of the farm. The higher the shared value of the farm, the more Famland contributing to the shared value, and the more YL produced, the greater the value of the farm.
 
-- 参与合并的Famland，暂不支持已在原始田和野田做市的Famland。
+**Shared value**
 
-- 参与合并的Famland，Famland基本田地块做市本金价值必须达到500USDT。
+Home buyers can get Famland's shared value after depositing assets in the Famland base. The default shared value of Famland does not exceed 500. The shared value will act on the farm where it is located. The higher the shared value of the farm, the more diversion index the farm obtains, the more YL flowing into the farm distribution pool, and the more YL the farm produces. , the higher the annualized APY of the home buyer's farming income.
 
-- 每次合并Famland必须使用1个Nephrite NFT（和田玉），并支付合田手续费。
+There are two ways to increase the shared value:
 
-#### Famland合并规则
+#### 01 The market-making capital quota is converted into shared value
 
-| 合并方式 |   使用和田玉    | 成功率 | 合并后的共享值 |
+**share amount**
+
+Share amount can be converted into share value. For every 1USDT worth of market-making capital invested by the home buyer in all the Famlands under the name, the accumulated share amount of the home buyer will increase by 1USDT, and for every 1USDT worth of market-making capital withdrawn from all the Famland under the name, the shared amount will be reduced by 1USDT . The accumulated share price balance of home buyers, within the range of the share value limit, can be converted into 1 unit of share value according to the share price of 1USDT.
+
+**Shared Value Limit**
+
+Shared value limit refers to the periodic upper limit of Famland shared value in each cycle, which is determined by the amount of YL the home buyer collects in the Famland basic land. The shared value limit can be increased by 1 for each YL worth 1USDT collected by the home buyer from the Famland basic land. , this limit determines Famland's current maximum shared value cap for Famland.
+
+#### 02 Famland merged
+
+Famland merging refers to merging multiple Famlands whose market-making principal value reaches 500 USDT under one's own wallet, so that the merged Famland can obtain a higher shared value.
+---
+
+### Merged Famland
+
+####  Merge requirements
+
+- Famland that has been marketed in original field and wild field cannot participate in famland merge.
+
+- The market-making capital of the basic field in the famland must reach 500 USDT.
+
+- Each merge must use 1 Nephrite NFT and pay the merge handling fee.
+
+#### Famland Merge Rules
+
+| Merge way |   Use Nephrite    | Success rate | Merge shared value |
 | :------: | :-------------: | :----: | :------------: |
 |  2 in 1  |    gray jade    |  30%   |      65%       |
 |  2 in 1  |   yellow jade   |  45%   |      70%       |
@@ -376,39 +358,37 @@ Famland合并是指将自己钱包名下多个基本田做市本金价值达到5
 |  3 in 2  | mutton-fat jade |  60%   |     60%*2      |
 |  5 in 3  | mutton-fat jade |  30%   |     45%*3      |
 
-合并共享值是指最终合并后的Famland共享值是将多块Famland的共享值，合并结束后，最终得到的Famland相加后再乘以相应的系数。
+The merged shared value refers to the final merged famland shared value. After merging the shared values of multiple pieces of famland, the final famland is added and then multiplied by the corresponding coefficient.。
 
-#### 合并手续费
+#### Merge handling fee
 
-每次合田收取30YL，60%进入YLE农场共享基金池，20%进入储备基金，20%进入稳定池。
+Each time merge charges 30YL, of which 60% enters the YLE farm shared fund pool, 20% enters the reserve fund, and 20% enters the stable pool.
 
+#### Famland Merge results
 
-#### Famland合并结果
-
-- 不论合并成功还是失败，合田所使用的和田玉NFT将收回至YLE农场共享基金池中，继续重新被采集分配。
-- 合并成功后，将根据合田规则生成相应数量的Famland，每个Famland的基本田都将自动存入500U做市资金，共享值也按规则更新为最新数值。
-- 被合并掉的Famland基本田做市资金将全部转入YLE农场共享基金，被合并的Famland将被销毁。
+- Regardless of the success or failure of merge, the Nephrite NFT used by merge will be returned to the YLE farm shared fund pool and continue to be collected and distributed again.
+- After the successful merge, the corresponding amount of famland will be generated according to the rules of the merge. The basic field of each famland will be automatically deposited with 500U of market-making capital, and the shared value will be updated to the latest value according to the rules.
+- All the basic market-making capital for the merged famland will be transferred to the YLE Farm Sharing Fund, and the merged famland will be destroyed.
 
 ---
 
 
-###  Nephrite的采集
+###  Nephrite collection
 
-#### 采集要求
+#### Collection requirements
 
-基本田做市满500USDT的Famland，每个rebase周期会增加一次和田玉原石采集机会，错过采集机会，该采集机会将失效。
+The basic field with market-making of 500USDT, each rebase cycle will increase the opportunity of collecting nephrite rough stones. If the collecting opportunity is missed, the collecting opportunity will be invalid.
 
-#### 采集费用
+#### Collection fee
 
-第一个耕种周期，采集费30YL，以后，每个rebase周期采集费在上一个rebase周期基础上提升0.1YL。
-采集费用，60%进入YLE农场共享基金池，20%进入YLE储备基金池，20%进入YLE稳定池。
-租赁人代农场主采集和田玉的费用，从Famland所在农场主基金中支付。
+After YLE goes online, the first rebase cycle will cost 30 YL for collection. After that, the collection fee for each rebase cycle will increase by 0.1 YL on the basis of the previous rebase cycle.。
+For collection fees, 60% enter the YLE farm shared fund pool, 20% enter the YLE reserve fund pool, and 20% enter the YLE stable pool.
+The cost of collecting nephrite by the leaser shall be paid from the farmer's fund where the famland is located.
 
-#### 采集规则
+#### Collection rules
 
-以下为每个耕种周期所有符合条件玩家采集次数对应可以采集的和田玉的比例。
-
-| 采集次数 |                        采集和田玉占比                        |
+The following is the percentage of nephrite that can be collected by all eligible players in each rebase cycle.
+| Collection times |         Proportion of collected nephrite                        |
 | :------: | :----------------------------------------------------------: |
 |   0-4    |                        gray jade 100%                        |
 |   5-49   |                gray jade 80%, yellow jade 20%                |
@@ -416,178 +396,171 @@ Famland合并是指将自己钱包名下多个基本田做市本金价值达到5
 | 500-4999 | gray jade 80%, yellow jade 18%, green jade 1.8%, white jade 0.2% |
 |  ≥5000   | gray jade 80%, yellow jade 18%, green jade 1.8%, white jade 0.18%, mutton-fat jade 0.02% |
 
-### Famland租赁
-**出租Famland**
+### Famland Rental
+**Rent Famland**
 
-只有共享农场的农场主可以发起基本田租赁合同，有效租赁期间，Famland基本田部分的耕种收益，承租人和Famland主按租赁合同的分成比例分账。该Famland的原始田、野田的耕种收益仍然归农田主。
+Only the farmer of the shared farm can initiate a basic fields lease contract. During the valid lease period, the lessee and the Famland owner will share the income from the cultivation of the basic fields part of Famland according to the share of the lease contract. The farming income of the original fields and wild fields of this Famland still belongs to the farmers.
 
-**租赁合约内容**
+**Contents of the rental contract**
 
-租赁合约将对Famland的租赁期限、收益分成比例、收益冻结比例、和田玉采集奖励规则、租赁合同终止条件及其他内容进行约定。
-农场主和租户一旦确定租赁合约，在租赁合约到期前，合同内容无法修改。同一块田发起租赁合约后，无法再次发起租赁合约，必须等到租赁期结束后才能再次发起租赁。
+The lease contract will stipulate Famland's lease term, revenue sharing ratio, revenue freezing ratio, nephrite collection reward rules, lease contract termination conditions and other contents.
+Once the farmer and the tenant have determined the lease agreement, the content of the lease cannot be modified until the lease agreement expires. After the lease contract is initiated for the same field, the lease contract cannot be initiated again, and the lease cannot be initiated again until the end of the lease period.
+**Rental contract initiation fee**
 
-**租赁合约发起费用**
-
-农场主生成租赁合同时，将按照出租Famland的数量支付手续费，费用标准为：支付30YL/Famland，60%进入YLE农场共享基金池，20%进入储备基金池，20%进入稳定池。
-
+When the farmer generates the lease contract, he will pay the handling fee according to the number of rented Famland. The fee standard is: 30YL per Famland, that 60% into the YLE farm shared fund pool, 20% into the reserve fund pool, and 20% into the stable pool.
 ---
 
-## SWAP价格稳定机制
+## SWAP price stabilization mechanism
 
-### 无常滑点保护机制
+### Impermanent slippage protection mechanism
 
-**无常滑点**
+**Impermanent slippage**
 
-无常滑点，是在YLE内 USDT/YL LP 农场池的SWAP交易过程中，如果YL的实时交易价格偏离基准价（±0.02USDT含）时，产生的一种不确定的交易滑点值，交易价格偏离基准价格越远，无常滑点可能产生的不确定值就越高，无常滑点手续费就越高。
+Impermanent slippage is an uncertain transaction slippage value generated when the real-time transaction price of YL deviates from the benchmark price (including ±0.02USDT) during the SWAP transaction process of the USDT/YL LP liquidity pool in YLE. The farther the price deviates from the benchmark price, the higher the uncertainty value that may be generated by impermanent slippage, and the higher the fee for impermanent slippage.
 
-> 例如，当YL当前基准价为1.00USDT，YL实时交易价格为1.02USDT时，买方的正常交易滑点为0.03%。而无常滑点显示为0.1%-1%。可当交易价格为1.05USDT时，正常交易滑点依然是0.03%，而无常滑点显示为0.4%-4%。也就是说，此时交易，产生的最低总滑点可能是0.43%，而最高滑点将能达到4.03%。如果价格涨到1.06USDT，最高总滑点可能达到8.03%。以此类推。
+> For example, when the current benchmark price of YL is 1.00USDT and the real-time trading price of YL is 1.02USDT, the normal transaction slippage of the buyer is 0.03%. The impermanent slippage is displayed as 0.1%-1%. However, when the transaction price is 1.05USDT, the normal transaction slippage is still 0.03%, while the irregular slippage is displayed as 0.4%-4%. That is to say, at this time, the minimum total slippage generated may be 0.43%, and the maximum slippage will be 4.03%. If the price rises to 1.06USDT, the maximum total slippage may reach 8.03%. And so on.
 
-**基准价**
+**Benchmark price**
 
-基准价是SWAP无常滑点机制和稳定池运作的参考指标。从第1纪元第1个耕种周期开始，YL的初始基准价为1USDT，下一个耕种周期将按照上一个周期的YL交易的的中间价作为基准价。
+The benchmark price is a reference indicator for SWAP’s non-constant slippage mechanism and the operation of the stable pool. Starting from the first farming cycle of the 1st epoch, the initial benchmark price of YL is 1USDT, and the next farming cycle will be based on the middle price of YL traded in the previous cycle as the benchmark price.
 
->例如：第一个周期YL的市场交易价格波动在1.00-1.06USDT之间，交易中间价为1.03USDT，那么，下一个耕种周期的YL的基准价就是1.03USDT。
+>For example: the market trading price of YL in the first cycle fluctuates between 1.00-1.06USDT, and the middle price of the transaction is 1.03USDT, then the benchmark price of YL in the next farming cycle is 1.03USDT.
 
-**无常滑点手续费承担者**
+**Impermanent slippage fee bearer**
 
-当YL交易价格相对基准价偏高0.02USDT及以上时，买方在交易时承但无常滑点手续费，卖方交易不受影响；反之，当YL交易价格相对基准价偏低0.02USDT及以下时，卖方在交易时承担无常滑点手续费，买方交易不受影响。
+When the transaction price of YL is 0.02USDT or more higher than the benchmark price, the buyer bears the invariable slippage fee during the transaction, and the seller's transaction is not affected; on the contrary, when the transaction price of YL is lower than the benchmark price by 0.02USDT or less, the seller In the transaction, the impermanent slippage fee is borne, and the buyer's transaction is not affected.
 
-**无常滑点值算法规则**
+**Impermanent slippage value algorithm rules**
 
-当无常滑点机制启动时，无常滑点值从0.1%启动，价格偏离每增加0.01USDT，无常滑点都将在前一个无常滑点基础上翻倍，无常滑点值最高不超过100%。
+When the impermanent slippage mechanism is activated, the impermanent slippage value starts from 0.1%. For every 0.01 USDT of price deviation, the impermanent slippage will double on the basis of the previous impermanent slippage, and the maximum impermanence slippage value does not exceed 100%.
 
-### SWAP稳定池基金池
+###SWAP Stable Pool Fund Pool
 
-**稳定基金池自动交易机制**
+**Stable Fund Pool Automatic Trading Mechanism**
 
-YLE内设立了稳定基金池，其作用是使用稳定基金池内的资金，通过自动化SWAP交易平衡和稳定YL的市场交易价格。
+A stable fund pool has been established in YLE, and its role is to use the funds in the stable fund pool to balance and stabilize the market transaction price of YL through automated SWAP transactions.
+When the price of YL is within the benchmark price range (±0.02USDT), the stable fund pool will not act.
+When the price of YL deviates, the stable fund pool will be activated, and the funds of 0.1% of the TOKEN being traded in the fund pool will be used first, and orders will be placed first. After the transaction is completed, if the corresponding amount of funds in the stable fund pool is not enough to complete the transaction, the insufficient part will be obtained from the Swap transaction in the farm fund pool. Every time the deviation of the transaction price increases by 0.01, the total funds used by the fund pool are doubled from the previous amount of funds.
+> For example, when the price of YL rises to 1.02USDT, the stable fund pool will give priority to sell 0.1% of the YL in the pool according to the current order price. When the price rises to 1.03USDT, 0.2% of the YL in the pool will be sold first. At 1.04USDT, 0.4%YL will be sold first. For every 0.1% increase in price, the priority sales ratio of the stabilization fund doubles.
 
-当YL的价格在基准价格区间（±0.02USDT）内，稳定基金池不作为。
+**Sources of funding for stable fund pools**
 
-当YL价格发生偏离时，稳定基金池开始启动，先动用基金池内被交易TOKEN 0.1%的资金，优先成交偏离价订单。成交完，如果稳定基金池相应的资金量不足以完全成交，不足的部分再从农场资金池的Swap交易中获得。交易价格每偏离加大0.01，基金池动用的总资金在上一次的资金数额上翻倍。
+1. 80% of YLS stable share points auction revenue
+2. 80% of transaction fees in the YLE ecosystem
+3. 80% of transaction fee without constant slippage
+4. 4% of the farm income in the reservoir according to the user
+5. 80% of the basic field adjustment pledge fund handling fee
 
-比如，当YL价格涨到1.02USDT时，稳定基金池按照当时订单价格，优先出售池中0.1%的YL。价格涨到1.03USDT时，优先出售池中0.2%的YL。1.04USDT时，优先出售0.4%YL。价格每涨0.1%，稳定基金优先出售比例翻倍。
+###SWAP Stable Pool Bonus Pool
 
-**稳定基金池的资金来源**
+**Stable bonus pool incentive mechanism**
 
-1. YLS稳定共享积分拍卖收入的80%
-2. YLE生态内交易手续费的80%
-3. 无常滑点交易手续费的80%
-4. 蓄水池按用户耕种收益的4%划拨
-5. 本田调整质押资金手续费的80%
+The function of the stable bonus pool is to motivate YL buyers during this period when the price of YL is lower than the benchmark price, thereby ensuring that the price of YL rises back to the normal benchmark price range of YL.
+**Source of funding for stable bonus pools** 
 
-### SWAP稳定池奖金池
+1. 18% of YLS stable share points auction revenue
+2. 20% of transaction fees in the YLE ecosystem
+3. 20% of transaction fee without constant slippage
+4. 1% of the farm income in the reservoir according to the user
+5. 20% of the basic field adjustment pledge fund handling fee
+Each cycle, the stable bonus pool will allocate 20% of the total funds as bonuses, 18% to regular bonuses and random bonuses, and 2% to shared bonuses.
+The stable bonus pool is divided into two types of incentives: regular bonus and random bonus. The initial share ratio of the two bonuses is 1:1.
+When the price of YL drops below the minimum value of the benchmark price range, using USDT to exchange YL in the farm SWAP fund pool will inevitably get regular bonus rewards, and may also get random bonus rewards.
+**Regular bonus award rules**
 
-**稳定奖金池激励机制**
+Regular bonus = USDT paid by the user to purchase YL × (the balance of regular bonus pool funds in the current cycle / (YL transaction amount in the previous cycle × 3))
+> For example, the reward amount of the incentive pool in this cycle is 30,000 USDT. The total transaction volume in the last cycle was 10 million USDT. 3 times is 30 million U. At this time, the buyer can get a regular bonus of 1USDT for every 1000USDT traded.
 
-稳定奖金池的作用是当YL的价格低于基准价格时，激励这个期间YL的购买者，从而保障YL的价格回升到YL正常的基准价区间内。
+> If the purchase funds of YL in this cycle are too large, exceeding 3 times the transaction amount of the previous cycle, the share of random bonuses will be reduced proportionally to ensure the distribution of regular bonuses.
+**Regular bonus settlement**
 
-**稳定奖金池的资金来源** 
+The regular bonus of each farming cycle is settled manually in the next farming cycle after the end of the cycle, and it will not be able to be settled after the settlement cycle.
 
-1. YLS稳定共享积分拍卖收入的18%
-2. YLE生态内交易手续费的20%
-3. 无常滑点交易手续费的20% 
-4. 蓄水池按用户耕种收益的1%划拨
-5. 基本田调整质押资金手续费的20%
+The unallocated part of the regular bonus in each cycle and the unsettled part will be accumulated into the regular bonus pool of the next cycle.
 
-每个周期，稳定奖金池会将总资金的20%作为奖金进行分配，18%分配给常规奖金和随机奖金，2%分配给共享奖金。
+**Random Bonus Reward Rules**
 
-稳定奖金池分为常规奖金和随机奖金两种激励方式。两种奖金的初始份额比例为1:1。
+When the user settles the regular bonus in the previous cycle, there will be a chance to draw a random bonus.
 
-当YL价格下降到基准价格区间最低值以下时，在农场SWAP资金池内使用USDT兑换YL，必然可以获得常规奖金奖励，同时还有可能获得随机奖金奖励。
+Each cycle will divide the total random bonus of the current cycle into several equal parts. Among them, 1 special prize, 15% bonus; 3 1st prize, 15% bonus; 9 2nd prize, 15% bonus, 30 3rd prize, 15% bonus, 300 incentive awards, bonus 40%.
 
-**常规奖金奖励规则**
+Unfinished random bonuses in each cycle will be accumulated into the random bonus pool of the next cycle.
 
-常规奖金=用户购买YL支付的USDT×（当前周期常规奖金池资金余额/（上一个周期YL交易额×3））
+## Game incentive
 
-例如，这个周期激励库的奖金额为3万USDT。上个周期的交易总额为1000万USDT。3倍就是3000万U。那么这时候，买方每交易1000USDT，就可以获得1USDT的常规奖金。
+### Shared Farm Ranking Rewards
 
-如果该周期内YL的购买资金过大，超过了上一个周期交易额的3倍，将按比例缩减随机奖金的份额，以确保常规奖金的分配。
+The YLE shared farm has established a corresponding incentive mechanism, and has specially set up a farm shared fund pool for allocating incentive bonuses. Through the incentive system, the game, entertainment and excitement of YLE are increased. Let users who participate in farm construction enjoy more fun and returns in YLE World.
 
-**常规奖金结算：**
+**Source of funds for YLE shared fund pool**
 
-每个耕种周期的常规奖金都在该周期结束后，下一个耕种周期内手动进行结算，超过结算周期后将无法进行结算。
+Farm construction fees: including Famland invitation advertising fees, entry fees, exit fees, etc.;
 
-每个周期常规奖金未分配完的部分以及未结算的部分，将累计到下一个周期的常规奖金池中。
+Farm handling fees: including Famland rental fees, famland merged fees, etc.;
 
-**随机奖金奖励规则：**
+Famland merged fee: including the collection fee of nephrite.
 
-当用户进行上一个周期常规奖金结算时，将有一次抽取随机奖励的机会。
+The YLE shared farm incentive system is divided into three parts.
 
-每个周期将会将当前周期随机奖金总额划分若干等分。其中特等奖1个，奖金占15%；1等奖3个，奖金占15%；2等奖9个，奖金占15%，3等奖30个，奖金占15%，激励奖300个，奖金占40%。
+- Farm Shared Value Ranking Rewards (40% bonus)
 
-每个周期未发放完的的随机奖金，将累计到下一个周期的随机奖金池中。
+- Nephrite rough stone collection reward (30% bonus)
 
-## 游戏激励
+- Famland merge reward (30% bonus)
 
-### 共享农场排名奖励
+**Farm Shared Value Ranking Rewards**
 
-YLE 共享农场设立了相应的激励机制，并专门设置了用于分配激励奖金的农场共享基金池。通过激励系统，增加YLE的博弈性、娱乐性和刺激性。让参与农场建设的用户在YLE World中能享受到更多的乐趣和收益回报。
+**Farm Share Value Ranking (Bonus Percentage: 22%)**
 
-**YLE共享基金池资金来源**
-
-农场建设费类：包括Famland邀约广告费，进场费、离场费等等；
-
-农场手续费类：包括Famland租赁手续费、合田手续费等等；
-
-农场合田费类：包括和田玉采集费。
-
-YLE共享农场激励系统分为三个部分。
-
-- 农场共享值排名奖励（奖金占比40%）
-
-- 和田玉原石采集奖励（奖金占比30%）
-
-- 合田奖励（奖金占比30%）
-
-
-**农场共享值排名奖励**
-
-**农场共享值排名（奖金占比：22%）**
-
-排名奖励给每个Rebase周期农场共享值排名前10名的农场主。
-
-| 排名     | 奖励数额 |
+Ranking rewards are given to the top 10 farmers in each Rebase cycle by Farm Share Value.
+| Ranking     | Reward amount |
 | -------- | -------- |
-| 第1名    | 7%       |
-| 第2名    | 5%       |
-| 第3名    | 3%       |
-| 第4-10名 | 1%       |
+| 1st    | 7%       |
+| 2nd    | 5%       |
+| 3rd    | 3%       |
+| 4-10th | 1%       |
 
-**Famland共享值平均值排名（奖金占比：26%）**
+**Ranking of average famland share value (bonus accounts for: 22%)**
 
-排名奖励给每个Rebase周期农场共享值平均值排名前10的农场主。
+Ranking rewards are given to the top 10 farmers with the average farm shared value in each Rebase cycle.
+| Ranking     | Reward amount |
+| -------- | -------- |
+| 1st    | 7%       |
+| 2nd    | 5%       |
+| 3rd    | 3%       |
+| 4-10th | 1%       |
 
-| 排名       | 奖励数额 |
+**Famland ranking rewards (bonus accounts for: 26%)**
+
+Ranking rewards are given to the top 100 users with shared value in each Rebase cycle YLE.
+| Ranking       | Reward amount |
 | ---------- | -------- |
-| 第1名      | 5%       |
-| 第2名      | 3%       |
-| 第3名      | 2%       |
-| 第4-10名   | 1%       |
-| 第11-20名  | 0.5%     |
-| 第21-50名  | 0.1%     |
-| 第51-100名 | 0.02%    |
+| 1st       | 5%       |
+| 2nd      | 3%       |
+| 3rd      | 2%       |
+| 4-10th   | 1%       |
+| 11th-20th  | 0.5%     |
+| 21-50th  | 0.1%     |
+| 51-100th | 0.02%    |
 
-**新人农田排名奖励（奖金占比：30%）**
+**Famland ranking reward for newcomers (bonus accounts for: 30%)**
 
-排名奖励给每个Rebase周期共享值排名前50的新人农田，农田加入农场时长不超过30天。
-
-| 排名      | 奖励数额 |
+Ranking rewards are given to newcomers who share the top 50 famland in each Rebase cycle, and the famland is added to the farm for no more than 30 days.
+| Ranking      | Reward amount |
 | --------- | -------- |
-| 第1名     | 5%       |
-| 第2名     | 2%       |
-| 第3名     | 1%       |
-| 第4-10名  | 0.8%     |
-| 第11-20名 | 0.2%     |
-| 第21-50名 | 0.1%     |
+| 1st      | 5%       |
+| 2nd      | 2%       |
+| 3rd     | 1%       |
+| 4-10th  | 0.8%     |
+| 11-20th  | 0.2%     |
+| 21-50th | 0.1%     |
 
 
 
-**和田玉原石采集奖励**
+**Nephrite Rough Stone Collection Reward**
 
-每个Rebase周期符合资格的用户，按中奖人数均分该奖项的奖金，如果只有1个人独中奖项，可以分掉该奖项全部奖金。采集次数越多可获得的中奖奖项越多，例如：连续采集100次以上，可以同时获得ABCDE五个奖项的奖金。
-
-| 等级 | 连续采集次数 | 奖金占比 | 数量 |
+Qualified users in each Rebase cycle divide the prize money equally according to the number of winners. If there is only one individual winning prize, all the prizes of the prize can be obtained. The more you collect, the more prizes you can get. For example, if you collect more than 100 times in a row, you can win five ABCDE prizes at the same time.
+| Leve | Number of consecutive collections | Percentage of bonuses | quantity |
 | ---- | ------------ | -------- | ---- |
 | A    | 100          | 20%      | 2    |
 | B    | 60           | 20%      | 4    |
@@ -597,11 +570,10 @@ YLE共享农场激励系统分为三个部分。
 
 
 
-**农田合田奖励**
+**Famland Merge Rewards**
 
-每个Rebase周期用户对基本田合田操作均可以有机会获得奖励，不论是否满额做市，中奖几率按照合田手续费来计算比例。
-
-| 等级 | 奖金占比 | 数量 | 中奖几率 |
+In each Rebase cycle, users who perform basic field merge operations can have the opportunity to get rewards. Regardless of whether the market-making capital is full or not, the probability of winning is calculated based on the famland merge handling fee.
+| Level | Percentage of prize money | Number | Chance of winning |
 | ---- | -------- | ---- | -------- |
 | A    | 20%      | 1    | 0.01%    |
 | B    | 10%      | 1    | 0.1%     |
@@ -609,144 +581,130 @@ YLE共享农场激励系统分为三个部分。
 | D    | 3%       | 3    | 2%       |
 | E    | 1%       | 50   | 5%       |
 
-### YLS竞拍与质押分红
+### YLS auction and pledge dividends
 
-**共享奖金**
-YLS（Yield land share），又称原粒共享金。限量发行100万枚，是一种为保障YL价值稳定性，而具有一定风险收益的共享积分。置业者可通过参与YLS竞拍获得YLS。
+**Shared bonus**
+YLS (Yield land share), also known as the original grain shared gold. The limited issuance of 1 million pieces is a shared credit with certain risks and benefits to ensure the stability of the value of YL. Home buyers can obtain YLS by participating in the YLS auction.
+**The source of the bonus for the YLS shared bonus pool**
+4% of the total funds of the YLE stable bonus pool in each farming cycle is allocated to the YLS shared bonus pool.
 
-**YLS共享奖金池的奖金来源**
-每个耕种周期YLE稳定奖金池总资金的4%划拨到YLS共享奖金池。
+Homebuyers who obtain YLS through auction or through market transactions will receive shared bonus dividends for that cycle according to the proportion of pledged YLS in each farming cycle.
+## Tokens and the economy
 
-通过竞拍获得、或通过市场交易获得YLS的置业者，每个耕种周期将根据质押YLS的数量占比获得该周期的共享奖金分红。
+### Issuance and distribution of YL
 
-## 代币和经济
+#### Issuance of YL
+The YL issuance system is to ensure the stability of YL value creation. The value of YL is not created out of nothing, but is based on people-oriented, and is supported by the value elements created by people and people.
 
-### YL的发行和分配
+Except for the pre-issuance of 1.5 million YL to the community-designated airdrop wallet account (multi-signature wallet, subject to community supervision) due to the needs of airdrop activities at the initial stage of the launch of the YLE project, there is no reservation, and other parts are all generated through the issuance of smart contracts. Divided into four epoch stages.
+##### Epoch 1. The increase in the number of famland cultivated by people is used as the basis for YL's additional issuance.
 
-#### YL的发行
-YL发行系统是保障YL价值创造的稳定性。YL的价值不是无中生有，而是本着以人为本，依靠人和人创造的价值要素来支撑。
+In the first era, every 24 hours was a farming cycle. In each cycle, for every new piece of famland cultivated by the user, 693.5 YL will be issued.
 
-除了YLE项目上线初期因空投活动需要，预发行150万枚YL到社区指定空投钱包账号（多签钱包，接受社区监管）外，无任何预留，其他部分全部通过智能合约发行产生，发行过程共分为四个纪元阶段。
+> (According to the standard reference of the international poverty line per capita daily income of 1.9 US dollars published by the World Bank in 2015, YLE will use the income of the poverty line for 365 days as the basis for the number of additional YL issued in a farming cycle, that is, 365*1.9=693.5)
 
-##### 第一纪元。以人开垦的Famland数量增长作为YL增发依据。
+When the number of famland NFT cultivated by the user reaches 3,000,000, the first epoch farming cycle ends and the second epoch enters. 
 
-第一纪元，以每24个小时为一个耕种周期。每个周期，用户每开垦一块新Famland耕种，即增发693.5个YL。
+The calculation standard for famland reclamation is that the homebuyer successfully pledges liquidity funds in the basic plots of the famland.
 
-> 根据2015年世界银行公布的国际贫困线人均每天收入1.9美金的标准参考，YLE将按照贫困线的标准，以365天时长作为YL增发的标准。
 
-当用户开垦的FamlandNFT的数量达到3000000时，第一纪元耕种周期结束，进入第二纪元。
+##### Epoch 2. The value created by people in YLE is used as the basis for YL issuance.
 
-开垦Famland的计算标准是，用户在Famland的基本田地块成功质押种子置业资金。
+In the second epoch, 24 hours was a farming cycle. In each cycle, the increase in value (weight accounted for 80%) of all famland in the YLE ecosystem and transaction volume increase (weight accounted for 20%) will be used as the basis for additional issuance of YL. 
+> For example, at the end of the current farming cycle, the value of famland NFT in the YLE ecology has increased by 10 million USDT, and the transaction volume has increased by 20 million USDT. At the end of the last cycle, the value of famland NFT increased to 8 million USDT, the transaction volume increased to 10 million USDT, and the additional YL issuance volume in the current cycle was 10 million. Then, in this cycle, the value of famland NFT increased by 25%, and the transaction volume increased by 50%. So, the amount of YL issued in the next cycle is: 10 million(1+25%80%+50%*20%) = 13 million. 
+When the total value of all famland in the YLE ecology reaches 10 trillion YL, the second epoch farming cycle ends and the third epoch enters.
 
-##### 第二纪元。以在人在YLE中创造的价值作为YL发行依据。
+##### Epoch 3. Time spent by people is used as the basis for YL issuance.
 
-第二纪元，以24个小时为一个耕种周期。每个周期，将按照YLE生态中所有Famland的价值增量（权重占80%）和交易量的增量（权重占20%）作为YL增发的依据。
+The effective time that homebuyer spend in the YLE ecosystem is valuable. The value generated by a person's effective time of 1 minute may be equivalent to the value generated by a few hours or more of invalid time. After entering the third epoch, when everyone understands how to discover and use their effective time to create value in the YLE ecosystem, the value of people will be further enhanced. How to use algorithms to more truly and objectively measure human time expenditure and calculate the value generated by effective time is left to the future community and depends on future new technologies and community consensus to decide.
 
-> 例如，当前耕种周期结束时，YLE生态中famland NFT的价值增长了1000万USDT，交易量增加了2000万USDT。而上个周期结束时，Famland NFT价值增长为800万USDT，交易量增长为1000万USDT，当前周期YL增发量是1000万。那么，这个周期Famland NFT的价值增长为25%，交易量增长为50%。那么，下个周期YL增发的量就是：1000万*（1+25%*80%+50%*20%）=1300万。
+##### Epoch 4. The growth of people’s wisdom is used as the basis for YL issuance.
 
+The greatest value of man lies in the growth of spiritual value and wisdom. Human time is limited, while spirit and wisdom are unlimited. When YLE entered the Fourth Age, it also entered the stage of infinite value. How to measure people’s intellectual growth and value evaluation more realistically and objectively through algorithms is left to the future community and decided by the future new technologies and community consensus.
 
-当YLE生态中所有Famland的总价值达到10万亿YL时，第二纪元耕种周期结束，进入第三纪元。
+#### Allocation of YL
 
-##### 第三纪元。以人的时间付出作为YL发行依据。
+All YL issued successfully will be injected into the YLE ecological farm reservoir. Then, through the flow rate control module, the YL is transferred to the YLE total distribution pool, stable fund pool and stable bonus pool. Under the premise of meeting the peak limit, the peak annualized APY of all YLE farms is 3000%.
 
-用户在YLE生态付出的有效时间，都是有价值的，一个人1分钟的有效时间产生的价值，也许相当于几个小时甚至更多时间无效时间产生的价值。进入第三纪元后，当每个人明白如何发掘、利用自己的有效时间在YLE生态内创造价值时，人的价值将会进一步得到提升。如何通过算法更真实、客观地衡量人的时间付出并计算有效时间产生的价值，留给未来社区，依托未来的新技术和社区共识来决定。
+The closer the price of YL is to the benchmark price, the greater the flow rate flowing into the distribution pool, which will increase the circulation of YL in the market, and the higher the farm APY. Conversely, the further the YL price deviates from the benchmark price, the smaller the flow rate flowing into the distribution pool, which will reduce the circulation of YL in the market, and the lower the farm's APY will be. Especially when the price of YL is lower than the benchmark price, the proportion of YL flowing into the distribution pool will decrease more significantly, and a larger proportion of YL will flow to the stable pool fund and the stable bonus pool at this time.
 
-##### 第四纪元。以人的智慧成长作为YL发行依据。
 
-人的最大价值在于精神价值和智慧的成长。人的时间是有限的，而精神和智慧是无限的。当YLE进入第四纪元时，也就进入了无限价值的阶段。如何通过算法更真实、客观地衡量人的智慧成长和价值评定，留给未来社区，依托未来的新技术和社区共识来决定。
+**Flow Control Module**
 
-#### YL的分配
+The flow rate control module will transfer 30% of the balance of the reservoir in the previous cycle to the total distribution pool, stable fund pool, and stable bonus pool according to the dynamic proportion:
+**When YL is trading below the benchmark price (exclusive)**
 
-成功发行的YL将全部注入到YLE生态农场蓄水池中。然后再通过流速控制模块将YL转入到YLE总分发池、稳定基金池和稳定奖金池中。在满足峰值的限定前提下，YLE所有农场的年化APY最高峰值为3000%。
+The proportion of transfer into the total distribution pool = 95% × YL price correction parameter 1
 
-YL的价格越接近基准价，流入到分发池的流速越大，将增大市场YL的流通量，农场APY越高。反之，YL价格越偏离基准价，流入到分发池的流速越小，将减少市场YL的流通量，农场的APY将越低。特别是当YL价格低于基准价后，流入到分发池的比例会下降更为明显，此时更大比例的YL将流向稳定池基金和稳定奖金池中。
+Proportion of transfer to stable fund pool = (1-proportion of transfer to total distribution pool) × 80%
 
+The proportion of the transfer to the stable bonus pool = (1-the proportion of the total distribution pool) × 20%
+**When the trading price of YL is higher than the benchmark price (inclusive)**
 
+The proportion transferred to the total distribution pool = 95% × YL price correction parameter 2
 
-**流速控制模块**
+Proportion of transfer to stable fund pool = (1-proportion of transfer to total distribution pool) × 80%
 
-流速控制模块将按照上一周期蓄水池余额的30%，按照动态比例转入到总分发池、稳定基金池、稳定奖金池中：
+The proportion of the stable bonus pool = (1-the proportion of the total distribution pool) × 20%
 
-**当YL的交易价格低于基准价（不含）时**
+**YL price correction parameters:**
 
-转入总分发池的比例=95%×YL价格修正参数1
+YL price correction parameter 1=YL price^9
 
-转入稳定基金池的比例=(1-转入总分发池的比例）×80%
+YL price correction parameter 2=YL price^(1-YL price)
 
-转入稳定奖金池的比例=(1-转入总分发池的比例）×20%
 
-**当YL的交易价格高于基准价（含）时**
+**Total flow rate**
 
-转入总分发池的比例=95%×YL价格修正参数2
+**Total flow rate = (increment of all Famland fertility values in YLE in the previous farming cycle/total amount of all Famland fertility values in current YLE) × total funds in the liquidity pool × YL price correction parameter / current cycle duration (seconds)**
 
-转入稳定基金池的比例=(1-转入总分发池的比例）×80%
+**Maximum flow rate=YL balance of YLE reservoir in last farming cycle × 30%/86400**
 
-站如稳定奖金池的比例=(1-转入总分发池的比例）×20%
+When the total flow rate is greater than the maximum flow rate, it is divided into the total distribution pool according to the maximum flow rate, and when the total flow rate is less than the maximum flow rate, it is divided into the total distribution pool according to the total flow rate.
+**Diversion index of sub-farms**
 
-**YL价格修正参数：**
+**Sub-farm diversion index = (average value of the farm’s Famland shared value / YLE number of Famland that has already made a market in the base field) × flow rate coefficient**
 
-YL价格修正参数1=YL价格^9
+Flow coefficient:
 
-YL价格修正参数2=YL价格^(1-YL价格)
+The native farm flow coefficient is always 1 unchanged.
 
+The default value of the flow rate coefficient of the shared farm is 1. For every additional 30 pieces of Famland that have already made a market in the basic field, the flow rate coefficient will increase by 0.0001.
 
+**Subfarm Flow Rate**
 
-**总流速**
+**Sub-farm flow rate = sub-farm flow rate index/YLE ecological farm total flow rate**
+According to the above algorithm rules, it can be known that Famland with high sharing value will move out of the original farm in time to build a shared farm. In the end, the only ones who stay on the original farm are those Famland whose shared value is very low, and any shared farm is unwilling to accept it. There is no doubt that these Famland who stay on the original farm will only get lower and lower income in the future.
 
-**总流速=（上一个耕种周期YLE内所有Famland肥力值增量/当前YLE所有Famland肥力值总量）× 流动池总资金量 × YL价格修正参数 / 当前周期时长（秒）**
 
-**最大流速=上个耕种周期YLE蓄水池YL余额× 30%/86400**
+**Distribution Pool**
 
-当总流速大于最大流速时，按照最大流速分流到总分发池中，当总流速小于最大流速时，按照总流速分流到总分发池中。
+The flow rate control module flows into the distribution pool of each sub-farm according to the flow rate of each sub-farm. At the same time, each time the home buyer receives the income, it will reduce the balance of the distribution pool of the farm where it is located, thereby changing the APY of the current farm.
 
-**子农场的分流指数**
 
-**子农场分流指数=（该农场Famland共享值平均值/YLE所有已在基本田做市的Famland数量）×流速系数**
+**APY annualized rate of return**
 
-流速系数：
+Let M = the maximum income of market-making assets of all users in the farm in a farming cycle (calculated at an annualized APY3000%), K = 30% of the YL balance of the farm distribution pool
 
-原生农场流速系数始终为1不变。
+When M≤K, the farm's real-time annualized APY=3000% (maximum income)
 
-共享农场流速系数默认为1，每增加30块已在基本田做市的Famland，流速系数增加0.0001
+When M＞K, the farm’s real-time annualized APY=(K/M)×3000%
 
-**子农场流速**
 
-**子农场流速=子农场流速指数/YLE生态农场总流速**
+### YLS Shared Gold
 
-根据以上算法规则可得知，共享值高的Famland，多半会及时迁出原生农场去打造共享农场。最终留在原生农场的，只能是那些共享值很低，任何共享农场都不愿意接纳的Famland了。毫无疑问，这些留在原生农场的Famland，未来收益只会越来越低。
+#### Original Grain Shared Gold (YLS)
 
+YLS (Yield land share), also known as the original grain shared gold. The limited issuance of 1 million pieces is a shared credit with certain risks and benefits to ensure the stability of the value of YL.
 
+#### Shared Bonuses
+In each Rebase farming cycle, the shared bonus generated by YLE will be equally distributed to each YLS according to 1 million YLS. While obtaining YLS through auction, users can also immediately obtain the accumulated shared bonus of each YLS, and after the end of each cycle in the future, they can also obtain the shared bonus for the cycle according to the proportion of the amount of pledged YLS.
 
-**分发池**
+#### YLS auction
+YLS is conducted in the form of public auction. It is divided into 100 auctions, each auction is 10,000 YLS, and each auction cycle is 3 days. The first auction will start from the date when the YLE project is launched. The initial bidding price of each YLS is 1USDT, and the price of each subsequent auction will be 0.3USDT will be added to the starting price of YLS in the previous period. In each auction, the highest bidder wins, and if the bids are the same, the first bidder wins. The YLS that has passed the auction in the current period will automatically be transferred to the next auction cycle to continue the public auction.
 
-流速控制模块，按照各个子农场的流速，流入到各个子农场的分发池中。同时，置业者每次收取收益后，都会减少所在农场分发池的余额，进而改变当前农场的APY。
+#### YLS auction revenue whereabouts
 
+80% of the YLS auction revenue goes into the YLE stable fund pool, 18% goes into the YLE stable bonus pool, and 2% goes into the YLE technology development fund special account.---
 
-
-**APY年化收益率**
-
-设M=一个耕种周期农场内所有用户做市资产价值最大收益额（按年化APY3000%计算），K=农场分发池YL余额的30%
-
-当M≤K时，农场实时年化APY=3000%（最大收益额）
-
-当M＞K时，农场实时年化APY=（K/M)× 3000%
-
-
-
-### YLS共享金
-
-#### 原粒共享金(YLS) 
-
-YLS（Yield land share），又称原粒共享金。限量发行100万枚，是一种为保障YL价值稳定性，而具有一定风险收益的共享积分。
-
-#### 共享奖金 
-
-每个Rebase耕种周期，YLE产生的共享奖金将按照100万枚YLS平摊到每一枚YLS上。用户通过拍卖获得YLS的同时，还可以立即获得每一枚YLS已累计的共享奖金，并且在日后每个周期结束后，还可以根据质押YLS数量占比获得该周期的共享奖金分红。
-
-#### YLS 竞拍 
-
-YLS以公开拍卖形式进行。共分为100期拍卖，每期拍卖1万YLS，每个拍卖周期为3天，第1期拍卖成YLE项目上线之日开始，每枚YLS初始竞拍价格为1USDT期，以后每期拍卖的价格在前一期YLS起拍价格基础上增加0.3USDT。每期竞拍，价高者得，出价相同时，先出价者得。当期流拍的YLS将自动转入下一个竞拍周期继续公开竞拍。
-
-#### YLS拍卖收入去向 
-
-YLS拍卖收入的80%进入YLE稳定基金池，18%进入YLE稳定奖金池，2%进入YLE技术开发基金专用账户。
+---
