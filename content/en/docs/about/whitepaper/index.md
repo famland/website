@@ -63,6 +63,7 @@ Famland Metaverse home purchasing adopts the model of co-construction and sharin
 - Airdrop rewards for community home buyers
 
 - Stay tuned for more
+
 #### Our Mission and Mission
 
 - Help more people to develop a piece of real estate in the Famland Metaverse, and provide an indispensable main way for all homebuyers to achieve financial freedom.
@@ -79,7 +80,6 @@ YL (Yield Land) is a new type of algorithmic stability point in the YLE ecosyste
 
 **Famland NFT**
 
-
 Famland NFT is a carrier for people to home purchasing in the Metaverse and realize Play-to-Earn. Famland is similar to their own private farmland. After the homebuyers invest in seed property funds in Famland, they can continuously generate YL income. The core of cultivating Famland is to increase the fertility value and shared value of Famland.
 
 **YLE Ecology**
@@ -93,37 +93,47 @@ The native farm is a public farm in the YLE ecosystem. All newly created Famland
 **Shared farm**
 
 In addition to the public native farms, home buyers can freely combine their own farms to form new shared farms. As long as the number of farms that have deposited seed property funds in the basic farms reaches 30, new shared farms can be created. Different farms enjoy different APY benefits.
+
 **Famland's Basic Field**
 
 The core of Famland cultivation in the Metaverse is mainly reflected in the cultivation of basic fields. The cultivation of basic fields requires the careful management and configuration of the homebuyer, which determines the value, honor and status of the homebuyer and the future of this piece of Famland. Home buyers can only generate YL income if they meet the priority of depositing seed property funds in the basic fields. Original Field and Wild Field don't need to worry too much, just invest as needed.
+
 **Famland Basic Field Market Making Funds Compensation**
 
 After the principal of the Famland basic field deposited by the home buyer, if the market-making assets lose due to the decrease in the price of YL, when all the basic field market-making assets are retrieved, 100% of the loss amount can be compensated. Therefore, home buyers in Famland do not need to worry about the risk of basic land cultivation.
+
 **USDT/YL LP Farm Pool**
 
 After the home buyers deposit the seed property fund on Famland, all the deposited funds will automatically enter the USDT/YL LP farm pool. As long as you have USDT or YL, you can get farming income YL by creating a new Famland NFT and staking both USDT and YL in its basic field.
+
 **YL's Price Stabilization Mechanism**
 
 YL is an algorithmic stability point in the YLE ecosystem, and the relative stability of its value is achieved through the YL price stability algorithm mechanism in YLE. This algorithmic mechanism will play a certain role in preparing the overheated buying or selling market in the trading market within a certain period of time. At the same time, when the price of YL is lower than the benchmark price, the buyers of YL will be motivated through the fund bonus, so that YL will be rewarded. The price is in a relatively stable price range.
 YL's price stability mechanism is mainly composed of the following three parts: 1. SWAP transaction impermanent slippage mechanism; 2. Stable fund pool working mechanism; 3. Stable bonus pool working mechanism;
+
 **SWAP transactions have invariable slippage**
 
 Indefinite slippage is an uncertain transaction slippage value generated when the transaction price of YL deviates from the normal floating range in the SWAP transaction process. The higher the value, the higher the impermanent slippage fee. This algorithmic mechanism will inhibit overheated buying or concentrated selling in the trading market for a period of time.
+
 **YLE Farm Stability Pool**
 
 The YLE farm stable pool is divided into a stable fund pool and a stable bonus pool. The role of the stable fund pool is to use the funds in the stable fund pool to balance and stabilize the market transaction price of YL through automated SWAP transactions.
 **YLE Farm Fund Pool**
 
 The function of the stable bonus pool is to motivate YL buyers during this period when the price of YL is lower than the benchmark price, so as to ensure that the price of YL rises back to the normal stable benchmark price range of YL.
+
 **Famland's Fertility Value**
 
 Fertility value is an important key value attribute in the YLE ecology. For the entire YLE ecology, the increment of Famland's fertility value determines the flow rate of newly issued YL in each farming cycle to transfer YL to the farm's distribution pool. The faster the YL flow rate of each farm distribution pool will be, the higher the YL output by the farm will be.
+
 **Famland Blesses NFT**
 
 According to the calculation rules of Famland's fertility value, in order to increase the fertility value, due to the limitation of the amount of market-making funds, the purpose can only be achieved by extending the cultivation time of the basic fields. And if Famland performs a blessing operation through NFT, it can activate the channel of permanent increase of NFT fertility bonus coefficient.
+
 **CryptoTree NFT**
 
 CryptoTree is the first generation of NFTs that can be used for blessing on Famland. After the blessing is successful, Famland's fertility bonus coefficient can be increased immediately. In the future, which NFTs can be blessed for Famland, and how much the fertility bonus will be increased, there will be community votes Decide.
+
 **Nephrite NFT**
 
 Nephrite is a kind of NFT in YLE that is produced from Famland and can be recycled. Its main function is to consume Nephrite NFT when merging two or more Famlands, increasing the success rate of the merger and the shared value of Famland after combining.
@@ -225,6 +235,7 @@ The market-making funds of the wild field can be withdrawn at any time, and the 
 ### Cultivate Famland
 
 The main goal of cultivation of Famland is to increase the fertility value of Famland. The increase in fertility value is mainly divided into two directions. One is cumulative improvement, and the other is blessing improvement.
+
 #### Cumulative boost
 
 The cumulative increase of Famland depends on the cultivation time of the basic field seed funds deposited by Famland and the amount of basic field market making funds.
@@ -285,13 +296,15 @@ To create a shared farm, you need to pay 120YL. After the shared farm is created
 
 There are two ways to invite Famland to join a shared farm:
 
-> **Post an Invitational Advertisement** After the invitation advertisement is successfully released, the invitation order will appear on the front-end interface within the limitation period of the invitation. If the requirements of the invitation are met, the Famland of other home buyers can join the farm directly if they meet the access conditions, without paying any fees and the farm. Master approves.
+> **Post an Invitational Advertisement** 
+> After the invitation advertisement is successfully released, the invitation order will appear on the front-end interface within the limitation period of the invitation. If the requirements of the invitation are met, the Famland of other home buyers can join the farm directly if they meet the access conditions, without paying any fees and the farm. Master approves.
 >
 > 1st release invitation advertisement fee standard: 600YL for 1 month, 1600YL for 3 months, 3000YL for 6 months, 5600YL for 12 months.
 >
 > The invitation advertisement is released again, and the advertisement cost is doubled on the above price standard.
 
-> **Invite privately via invite link** After the farm is created, the system generates an invitation link address for the farmer by default. Farmers can adjust the private invitation content as needed. The private invitation address is valid for a long time.
+> **Invite privately via invite link** 
+> After the farm is created, the system generates an invitation link address for the farmer by default. Farmers can adjust the private invitation content as needed. The private invitation address is valid for a long time.
 
 60% of the fee paid by the farmer to initiate the invitation advertisement and the fee paid by the home buyer Famland to join the farm, 60% goes into the YLE farm shared fund pool, 20% goes into the reserve fund pool, and 20% goes into the stable pool.
 
