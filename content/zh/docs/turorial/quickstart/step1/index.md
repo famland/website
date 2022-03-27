@@ -14,20 +14,20 @@ toc: true
 ---
 ## 第一步  下载区块链钱包
 
-目前比较常用的是TP 钱包和start钱包，下面是两个钱包的下载二维码，下载安装就可以了。
+目前比较常用的是TP 钱包和start钱包，下面是两个钱包的下载链接，下载安装就可以了。
 
 ! TokenPocket钱包下载地址：[https://www.tokenpocket.pro/](https://www.tokenpocket.pro)
 
-！start钱包下载地址：https://starteos.io/
+！start钱包下载地址：[https://starteos.io/](https://starteos.io/)
 
 ##  第二步 根据提示新建EOS钱包
 
 根据钱包的提示，新建自己的钱包，这个过程中注意：保存好私钥！保存好私钥！保存好私钥！ 一但丢失或者泄露私钥，你的资产将永远无法找回。
 
-start创建钱包教程链接：https://www.matataki.io/p/8441
+start创建钱包教程链接：[https://www.matataki.io/p/8441](https://www.matataki.io/p/8441)
 
 ## 第三步  为钱包购买资源
 
-EOS主网转账是免费的，但是账户需要CPU、net、arm才能转账交易。TP 为用户提供了资源顺畅模式，用户直接支付购买就可以了。start更贴心的为用户提供了免费资源模式，开通就可以了。
+EOS主网转账是免费的，但是账户需要cpu、net、arm才能转账交易。TP 为用户提供了资源顺畅模式，用户直接支付购买就可以了。start更贴心的为用户提供了免费资源模式，开通就可以了。
 
 完成了以上三步，恭喜你！，拥有了自己EOS钱包，就请开启你的famland 元宇宙之类旅吧。
