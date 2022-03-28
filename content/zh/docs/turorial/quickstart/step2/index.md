@@ -32,10 +32,10 @@ toc: true
 
 第一步：打开dapp，点击农场选择：原生农场
 
-<img src="https://s2.loli.net/2022/03/27/ShW3AHitwRjknqa.png" alt="image-20220327122914089" style="zoom:50%;" />
+![02](02.png)
 
 第二步：打开原生农场后，下拉至底部然后点击：创建
 
-<img src="https://s2.loli.net/2022/03/27/VUkIv2rXPoZnsb1.png" alt="image-20220327123321025" style="zoom:50%;" />
+![022](022.png)
 
 提示创建成功，表示 已经创建了一块famland .
