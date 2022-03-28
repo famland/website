@@ -17,7 +17,7 @@ toc: true
 
 创建了famland 之后，如果要耕种，需要总价值不少于100usdt的u和yl。如果钱包里面没有足够的YL，就需要到农资金池界面，进行兑换。如图
 
-<img src="https://s2.loli.net/2022/03/27/edhaXjFLNYfImcM.png" alt="image-20220327145207835" style="zoom: 100%;" />
+![031](031.png)
 
 
 
@@ -31,4 +31,4 @@ toc: true
 
 4. 点击存入，进入存入界面，存入符合规定的数量的U和YL 即可，此时恭喜你，你已经拥有了一块耕种的famland。
 
-<img src="https://s2.loli.net/2022/03/27/E4Ns9C5cBD7h1ir.png" alt="image-20220327165317104"  />
+![032](032.png)
