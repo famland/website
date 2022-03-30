@@ -12,7 +12,7 @@ menu:
 weight: 102
 toc: true
 ---
-# 获得Famland
+## 获得Famland
 
 用户有以下三种渠道获得Famland：
 
