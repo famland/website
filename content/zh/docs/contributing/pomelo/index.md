@@ -25,6 +25,10 @@ Famland元宇宙项目是中国第三家通过Pomelo审核的EOS公共社区项�
 
 ![image-20220329135417391](2.png)
 
+
+
+## 捐赠入口
+
 **项目支持链接地址：**[https://pomelo.io/grants/eosnftvalue](https://pomelo.io/grants/eosnftvalue)
 
 **Pomelo项目捐款教程指南：**[https://help.eossupport.io/zh-CN/articles/5729024-pomelo](https://help.eossupport.io/zh-CN/articles/5729024-pomelo)
@@ -35,7 +39,7 @@ Famland元宇宙项目是中国第三家通过Pomelo审核的EOS公共社区项�
 
 项目捐助者转账记录：[https://bloks.io/account/famlandworld](https://bloks.io/account/famlandworld)
 
-
+## 第一季海报
 
 ![image-20220329135835789](1.png)
 
