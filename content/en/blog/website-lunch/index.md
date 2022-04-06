@@ -9,7 +9,7 @@ weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["tybcc"]
 ---
-## open source content
+## Open source content
 The code of Famland's new official website has been open sourced, and all the pages and content of the website are rendered as static pages.
 
 ## Community contribution
