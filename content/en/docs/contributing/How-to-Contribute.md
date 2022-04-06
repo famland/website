@@ -1,9 +1,9 @@
 ---
-title: "参与社区贡献"
+title: "Participate in community contributions"
 description: "Doks comes with commands for common tasks."
 lead: ""
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
+date: 2021-10-13T15:21:01+02:00
+lastmod: 2021-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
@@ -12,15 +12,15 @@ menu:
 weight: 101
 toc: true
 ---
-成为Famland元宇宙置业者
+Become a Famland Metaverse Home Buyer
 
-捐助经费
+Donation funds
 
-改进项目文档
+Improve project documentation
 
-成为Famland开发者
+Become a Famland developer
 
-帮助社区用户解答疑问
+Help community users answer questions
 
 
 
