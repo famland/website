@@ -1,5 +1,5 @@
 ---
-title: "贡献者公约"
+title: "Contributor Covenant"
 description: ""
 lead: ""
 date: 2020-10-06T08:48:57+00:00
@@ -13,84 +13,82 @@ weight: 110
 toc: true
 ---
 
-## 我们的承诺
+## Our commitment
 
-身为项目成员、贡献者、负责人，我们保证参与此社区的每个人都不受骚扰，不论其年龄、体型、身体条件、民族、性征、性别认同与表现、经验水平、教育程度、社会地位、国籍、相貌、种族、宗教信仰及性取向如何。
+As project members, contributors, leaders, we guarantee that everyone involved in this community will be free from harassment, regardless of age, size, physical condition, ethnicity, sexuality, gender identity and expression, level of experience, education, social Status, nationality, appearance, race, religion and sexual orientation.
 
-我们承诺致力于建设开放、友善、多元、包容、健康的社区环境。
+We are committed to building an open, friendly, diverse, inclusive and healthy community environment.
 
-## 我们的准则
+## Our code
 
-有助于促进本社区积极环境的行为包括但不限于：
+Behaviors that help promote a positive environment in this community include, but are not limited to:
 
-* 与人为善、推己及人
-* 尊重不同的主张、观点和经历
-* 积极提出、耐心接受有益批评
-* 面对过失，承担责任、认真道歉、从中学习
-* 关注社区共同诉求，而非一己私利
+* Be kind to others, Consider others by yourself
+* Respect different claims, perspectives and experiences
+* Actively raise and patiently accept helpful criticism
+* In the face of mistakes, take responsibility, apologize earnestly, and learn from it
+* Pay attention to the common demands of the community, rather than selfish interests
 
-不当行为包括但不限于：
+Misconduct includes, but is not limited to:
 
-* 发布与性有关的言论或图像，以及任何形式的献殷勤或勾引
-* 挑衅行为、侮辱或贬损的言论、人身及政治攻击
-* 公开或私下骚扰
-* 未获明确授权擅自发布他人的资料，如地址、电子邮箱等
-* 其他有理由认定为违反职业操守的不当行为
+* Post sexual remarks or images, and any form of wooing or seduction
+* Provocative behavior, insulting or derogatory remarks, personal and political attacks
+* Public or private harassment
+* Publish other people's information without express authorization, such as addresses, email addresses, etc.
+* Other misconduct that can reasonably be regarded as a violation of professional ethics
 
-## 落实之义务
+## Obligation to implement
+It is the responsibility of the community leader to interpret what constitutes "appropriate behavior" and to appropriately and fairly identify and deal with inappropriate, threatening, offensive and harmful behavior in accordance with this guideline.
 
-社区负责人有责任诠释何谓“妥当行为”，并据此准则，妥善公正地认定与处置不当、威胁、冒犯及有害的行为。
+Community leaders have the right and obligation to delete, edit, and reject contributions that violate this convention, such as comments, commits, code, wiki edits, and issues. If necessary, the reasons for taking the action shall be communicated.
 
-社区负责人有权利和义务删除、编辑、拒绝违背本公约的评论（comment）、提交（commit）、代码、维基（wiki）编辑、问题（issue）等贡献。如有必要，需告知采取措施之理由。
+## Scope of application
 
-## 适用范围
+This standard of conduct applies to all settings in the community and to individuals who represent the community in other settings.
 
-此行为标准适用于本社区全部场合，以及在其他场合代表本社区的个人。
+Representing the Community includes, but is not limited to, using official email and social media platforms, and participating in online or offline events as a designated representative.
 
-代表本社区的情形包括但不限于：使用官方电子邮件与社交平台、作为指定代表参与在线或线下活动。
+## Implement
 
-## 贯彻落实
+In case of abuse, harassment or other misconduct, please report it to the Disciplinary Inspection Committee. The Disciplinary Committee will promptly review and investigate all complaints.
 
-如遇滥用、骚扰等不当行为，请通过［在此输入联系方式］向纪律检查委员举报。
-纪委将迅速审议并调查全部投诉。
+All community leaders are obliged to keep the whistleblower’s information confidential.
 
-社区全体负责人有义务保密举报者信息。
+## Guidelines
 
-## 指导方针
+Community leaders will judge and deal with disciplinary violations according to the following plans:
 
-社区负责人将依据下列方案判断并处置违纪行为：
+### Urge
 
-### 督促
+**Community Impact**：Inappropriate language, unethical behavior, or unpopularity in the community.
 
-**社区影响**：用语不当、举止不符合职业道德或不受社区欢迎。
+**Handling opinion**：The community leader will give a non-public written warning, clarifying the reasons for the violation and explaining how the behavior is inappropriate. A public apology may be required.
 
-**处理意见**：由社区负责人予以非公开的书面警告，阐明违纪事由、解释举止如何不妥。或将要求公开道歉。
+### Warn
 
-### 警告
+**Community Impact**：One or more incidents of disciplinary violations.
 
-**社区影响**：一起或多起事件中的违纪行为。
+**Handling opinions**：warn the consequences of continuing to violate discipline, the violator is prohibited from interacting with the parties within a certain period of time, and shall not communicate with the community enforcers without authorization. The ban covers all contacts inside and outside the community, including social networks. Violations may result in ban or even expulsion.
 
-**处理意见**：警告继续违纪之后果、违纪者在特定时间内禁止与当事人往来、不得擅自与社区执法者往来，禁令涵盖社区内外、社交网络在内的一切联络。如有违反，可致封禁乃至开除。
+### Ban
 
-### 封禁
+**Community Impact**：Serious disciplinary violations, including repeated teaching.
 
-**社区影响**：严重违纪行为，包括屡教不改。
+**Handling opinion**：The violator is prohibited from any communication or public communication with the community within a certain period of time, any public or private communication with the parties concerned, and shall not communicate with the community enforcers without authorization. Violations may result in dismissal.
 
-**处理意见**：违纪者在特定时间内禁止与社区的任何往来或公开联络，禁止任何与当事人公开或私下往来，不得擅自与社区执法者往来。如有违反，可致开除。
+### Fired
 
-### 开除
+**Community Impact**：Typical disciplinary offenses, such as indecisiveness, harassment of a person, hostility or demeaning of a group.
 
-**社区影响**：典型违纪行为，例如屡教不改、骚扰某个人、敌对或贬低某个群体。
+**Handling opinion**：Indefinitely prohibit all public exchanges between the violator and the project community.
 
-**处理意见**：无限期禁止违纪者与项目社区的一切公开往来。
+## Source
 
-## 来源
+This Code of Conduct is adapted from the Contributor Covenant Version 2.0, available here: https://www.contributor-covenant.org/en-us/version/2/0/code_of_conduct.html
 
-本行为标准改编自[参与者公约][homepage]2.0版，可在此查阅：[https://www.contributor-covenant.org/zh-cn/version/2/0/code_of_conduct.html][v2.0]
+Guidelines are borrowed from Mozilla Disciplinary Ratings.
 
-指导方针借鉴自[Mozilla纪检分级][Mozilla CoC]。
-
-此行为标准常见问题请洽：[https://www.contributor-covenant.org/faq][FAQ]。
+For FAQs about this Standard of Conduct, please contact: https://www.contributor-covenant.org/faq.
 
 [homepage]:https://www.contributor-covenant.org
 [v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
