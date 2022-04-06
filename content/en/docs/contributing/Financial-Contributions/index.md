@@ -1,9 +1,9 @@
 ---
-title: "捐助经费"
+title: "Donation funds"
 description: "One page summary of how to start a new Doks project."
 lead: ""
-date: 2020-11-16T13:59:39+01:00
-lastmod: 2020-11-16T13:59:39+01:00
+date: 2021-11-16T13:59:39+01:00
+lastmod: 2021-11-16T13:59:39+01:00
 draft: false
 images: []
 menu:
@@ -13,26 +13,26 @@ weight: 102
 toc: true
 ---
 
-Famland Metaverse是一个100%去中心化项目。项目所有的开发、运营经费全部来自于普通玩家。
+Famland Metaverse is a 100% decentralized project. All the development and operation funds of the project come from ordinary players.
 
-通过成为项目经费贡献者来帮助支持开发 Famland Metaverse 的团队。
+Help support the team developing the Famland Metaverse by becoming a project funding contributor.
 
-## 成为赞助伙伴
+## Become a sponsor
 
-每月支持 100.00 USDT起成为Famland 元宇宙项目的赞助伙伴。您的LOGO（带有指向您网站的链接）将显示在Famland 网站、Famland Github仓库和和Famland Open Collective 页面上。
+Be a sponsor of the Famland Metaverse Project with monthly support starting from 100.00 USDT. Your logo (with a link to your website) will be displayed on the Famland website, the Famland Github repository and the Famland Open Collective page.
 [![Make a Donation](contribute-button.png)](https://opencollective.com/famland/donate)
 
-## 成为支持者
+## Become a supporter
 
-每月支持 5.00 USDT起成为Famland元宇宙项目的支持者。您的头像（带有指向您网站的链接）将显示在Famland Github 仓库和Famland Open Collective 页面上。
+Be a supporter of the Famland Metaverse project starting at 5.00 USDT per month. Your avatar (with a link to your website) will be displayed on the Famland Github repository and the Famland Open Collective page.
 [![Make a Donation](contribute-button.png)](https://opencollective.com/famland/donate)
 
-## 捐款
+## Donate
 
-任何玩家用户可一次性或经常性为项目捐款
+Any player user can make a one-time or recurring donation to the project
 [![Make a Donation](contribute-button.png)](https://opencollective.com/famland/donate)
 
-## 感谢
+## Thanks
 
 
 
