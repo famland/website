@@ -23,7 +23,7 @@ Among all the public chains in the world at this stage, the EOS public chain has
 
 The Famland Metaverse Project is the third EOS public community project approved by Pomelo in China. It is hoped that through this donation activity, more Chinese people and people from all walks of life will be sponsored and supported.
 
-![](1.png)
+![](2.png)
 
 
 
@@ -40,4 +40,4 @@ Project Donor Transfer History：[https://bloks.io/account/famlandworld](https:/
 
 ## Season 1 Poster
 
-![](2.png)
+![](1.png)
