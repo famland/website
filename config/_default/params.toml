@@ -63,7 +63,7 @@ copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
 alert = true 
 alertDismissable = true
 # alertText = "Famland New Decentralized Website Lunched！<a class=\"alert-link stretched-link\" href=\"/blog/famland-decentralized-website-officially-released/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "全新的Famland元宇宙去中心化网站已发布上线!   The New Decentralized Website for the Famland Metaverse has been launched! <a class=\"alert-link stretched-link\" href=\"/blog/website-lunch/\">>>>></a>"
+alertText = "关于变更Famland原始田做市资格和八宝树接收账户地址的通知！<a class=\"alert-link stretched-link\" href=\"/blog/2022-04-07/\">>>>></a>"
 
 
 
