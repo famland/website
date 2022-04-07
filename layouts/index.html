@@ -6,7 +6,7 @@
     </div>
     <div class="col-lg-9 col-xl-12 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="http://test.famland.world" role="button">开始游戏</a>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="http://test.famland.world" role="button">{{ T "startgame" }}</a>
       <p class="meta">Open-source Famland Licensed. </p>
       
     </div>
@@ -68,21 +68,21 @@
         <h2 class="h5 mt-0">Step 1</h2>
         <h2 class="h3 mt-0">Create an EOS wallet account</h2>
         <p>EOS is the public chain with the lowest entry threshold and the lowest cost to enter the blockchain world. After opening an EOS wallet, you can enjoy zero gas fee for on-chain transactions.</p>
-<a class="btn btn-primary btn-lg px-4 mb-2" href="/en/docs/turorial/quickstart/step1/" role="button">教程</a>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/en/docs/turorial/quickstart/step1/" role="button">Tutorial</a>
       </div>
       <div class="col-lg-5">
         <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
         <h2 class="h5 mt-0">Step 2</h2>
         <h2 class="h3 mt-0">Create Famland NFT</h2>
         <p>Anyone in the world can create their own permanent private domain Famland NFT through the EOS wallet for free.</p>
-<a class="btn btn-primary btn-lg px-4 mb-2" href="/en/docs/turorial/quickstart/step1/" role="button">教程</a>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/en/docs/turorial/quickstart/step1/" role="button">Tutorial</a>
       </div>
       <div class="col-lg-5">
         <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
         <h2 class="h4 mt-0">Step 3/h2>
         <h2 class="h3 mt-0">Deposit Funds</h2>
         <p>Anyone only needs to invest a minimum of 100 USDT worth of digital assets to start buying property in the Famland metaverse world and start earning income.</p>
-<a class="btn btn-primary btn-lg px-4 mb-2" href="/en/docs/turorial/quickstart/step1/" role="button">教程</a>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="/en/docs/turorial/quickstart/step1/" role="button">Tutorial</a>
       </div>
     </div>
     <div class="row justify-content-center align-items-center text-center mt-lg-3">
@@ -281,7 +281,7 @@
       <div class="col-lg-5">
         <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
         <h2 class="h3 mt-0">共享值</h2>
-        <p>玩家在Famland基本田存入资产后，即可获得Famland的共享值。共享值将作用于所在农场，农场的共享值越高，农场所产出的YL越多，耕种收益的年化APY越高</p>
+        <p>置业者在Famland基本田存入资产后，即可获得Famland的共享值。共享值将作用于所在农场，农场的共享值越高，农场所产出的YL越多，耕种收益的年化APY越高</p>
       </div>
       <div class="col-lg-5">
         <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
@@ -291,7 +291,7 @@
       <div class="col-lg-5">
         <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
         <h2 class="h3 mt-0">共享金</h2>
-        <p>共享金可以转化为共享值。玩家在Famland的基本田中每投入1USDT的资金，共享金额就增加1USDT。从基本田中每提取1USDT的资金，共享金额就减少1USDT。</p>
+        <p>共享金可以转化为共享值。置业者在Famland每投入1USDT的资金，共享金额就增加1USDT。从Famland每提取1USDT的资金，共享金额就减少1USDT。</p>
       </div>
     </div>
     <div class="row justify-content-center align-items-center text-center mt-lg-3">
@@ -336,8 +336,8 @@
 <div class="row justify-content-center align-items-center text-center mt-lg-3">
   <div class="col-lg-15">
     <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
-    <p>Famland元宇宙共享农场的运作，从共建共享的算法和机制来凝聚玩家共识，保障高共识玩家的利益。</p>
-    <p>Famland以人为本的设计初心，不依赖玩家资金投入、重视玩家在游戏中时间和智慧投入的价值，依托NFT价值养成和价值共享的算法规则，最大限度保障每名玩家在游戏中的基本权利和公平性，把利用资本损害游戏生态健康发展的不利因素降到最低。</p>
+    <p>Famland元宇宙共享农场的运作，从共建共享的算法和机制来凝聚置业者共识，保障高共识置业者的利益。</p>
+    <p>Famland以人为本的设计初心，不依赖置业者资金投入、重视置业者在游戏中时间和智慧投入的价值，依托NFT价值养成和价值共享的算法规则，最大限度保障每名置业者在游戏中的基本权利和公平性，把利用资本损害游戏生态健康发展的不利因素降到最低。</p>
   </div>
   </div> 
 </section>
@@ -357,6 +357,94 @@
   </div> 
 </section>
 {{ end }}
+{{ if eq $.Site.Language.LanguageName "EN" }}
+<section class="section section-md my-5 bg-light">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">Famland Co-ownership</h2>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <p>The goal of Famland co-ownership is to increase the shared value of Famland. The value of shared value does not affect Famland itself, but on the farm where Famland is located, which increases the YL output of the farm where it is located. The higher the shared value of the farm, the more Famland that contributes to the shared value, and the more YL produced, the greater the value of the farm.</p>
+    </div>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
+        <h2 class="h3 mt-0">Shared Value</h2>
+        <p>Homebuyers can get the shared value of Famland after depositing assets in the Famland base land. The shared value will act on the farm where it is located. The higher the shared value of the farm, the more YL the farm produces, and the higher the annualized APY of the farming income.</p>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+        <h2 class="h3 mt-0">Shared Value limit</h2>
+        <p>Shared value limit refers to the periodic upper limit of Famland shared value in each cycle, which is determined by the amount of YL that users receive in the Famland base field. This limit determines the upper limit of Famland's current maximum shared value in Famland.</p>
+      </div>
+      <div class="col-lg-5">
+        <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
+        <h2 class="h3 mt-0">Shared Amount</h2>
+        <p>Shared gold can be converted into shared value. For every 1USDT invested in Famland, the shared amount will increase by 1USDT. For every 1USDT withdrawn from Famland, the shared amount is reduced by 1USDT.</p>
+      </div>
+    </div>
+    <div class="row justify-content-center align-items-center text-center mt-lg-3">
+      <div class="col-lg-15">
+        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+        <p>Famland's spirituality has the same frequency resonance effect. The closer the shared values of Famland are to each other, the stronger the effect of resonance at the same frequency, and the greater the value consensus generated.</p>
+        <p>In the real universe, people raise jade for three years, and jade raises people for a lifetime.</p>
+        <p>In the Metaverse, people raise Famland for three years, and Famland raises people for three generations.</p>
+      </div>
+</div>
+  </div>
+</section>
+<section class="section section-sm my-3 py-5">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">Shared farm</h2>
+   <div class="row justify-content-center align-items-center text-center mt-lg-3">
+        <div class="col-lg-7 col-xl-15 ">
+        <p>In addition to the original farm generated by the system by default, the farms in YLE can freely combine Famland to form a new shared farm. As long as the number of Famland deposited in the basic fields reaches 30, a new shared farm can be created. Different farms enjoy different APY.</p>
+        <p>The level of APY of each farm depends on the YL diversion index of each farm. The so-called YL diversion index is the YL flow rate of YL newly issued by YLE from the total reservoir to the farm.</p>
+        <p>It can be seen that the higher the average shared value of Famland in the farm, the more the number of Famland, the larger the YL diversion index obtained by the farm, the higher the APY of the farm, and the more YL produced by each Famland in the farm.</p>
+      </div>
+</div>
+<div class="row justify-content-center align-items-center text-center mt-lg-3">
+  <div class="col-lg-5">
+    <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
+    <h2 class="h3 mt-0">Diversion Index</h2>
+    <p>YL diversion index of the farm = (total share value of farm / total number of farm Famland) * flow coefficient</p>
+    <p>The YL flow rate of the farm = (the diversion index of this farm / the sum of the diversion indices of all farms) * the total flow rate</p>
+  </div>
+  <div class="col-lg-5">
+    <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
+    <h2 class="h3 mt-0">Flow Coefficient</h2>
+    <p>The flow coefficient of the native farm is constant at 1.</p>
+    <p>The flow coefficient of the shared farm starts at 1, and the flow coefficient increases by 0.0001 for each additional 30 Famland of the shared farm.</p>
+  </div>
+  <div class="col-lg-5">
+    <p class="fs-5 mt-4">{{ ":gear:" | emojify }}</p>
+    <h2 class="h3 mt-0">Distribution Pool</h2>
+    <p>The newly issued YL of the YLE system will flow into the distribution pool of the farm according to the flow rate, and the Famland in the farm will obtain the farming income according to its farming time, deposit principal value and APY.</p>
+  </div>
+</div>
+<div class="row justify-content-center align-items-center text-center mt-lg-3">
+  <div class="col-lg-15">
+    <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
+    <p>The operation of Famland Metaverse Shared Farm builds consensus among home buyers through co-construction and shared algorithms and mechanisms, and protects the interests of home buyers with high consensus.</p>
+    <p>Famland's people-oriented design concept does not rely on homebuyers' capital investment, pays attention to the value of homebuyers' time and wisdom investment in the game, and relies on the algorithm rules of NFT value development and value sharing to maximize the protection of each homebuyer's basic in the game. Rights and fairness minimize the unfavorable factors that use capital to damage the healthy development of the game ecology.</p>
+  </div>
+  </div> 
+</section>
+<section class="section section-sm my-3 py-5 bg-light">
+  <div class="container">
+    <h2 class="h2 my-0 text-center">Vision</h2>
+   <div class="row justify-content-center align-items-center text-center mt-lg-3">
+        <div class="col-lg-7 col-xl-15 ">
+        <p>Each homebuyer will have his own famland private area;</p>
+        <p>Every home buyer will make money, work, study and live in his own fmland private domain.</p>
+        <p>Countless famland private domains have jointly formed a brand new YLE ecosystem.</p>
+        <p>This is the new continent and new world that we have created together in the famland metaverse.</p>
+        <p>And this new world will be named by you.</p>
+      </div>
+  </div>
+
+  </div> 
+</section>
+{{ end }}
+
 
 {{ end }}
 
