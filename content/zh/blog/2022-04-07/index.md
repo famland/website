@@ -1,7 +1,7 @@
 ---
 title: "原始田资格与八宝树发放"
 description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "截止时间：2022年4月10日20:00:00(UTC+8:00)前"
+lead: "截止时间：2022年4月10日20:00:00(UTC+8:00)"
 date: 2022-04-07T10:47:42+08:00
 lastmod: 2022-04-07T10:47:42+08:00
 draft: false
