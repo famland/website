@@ -1,6 +1,6 @@
 ---
 title: "Limited pre-sale CryptoTree NFT"
-description: "限量预售CryptoTree NFT"
+description: "Limited pre-sale CryptoTree NFT"
 lead: ""
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
@@ -13,64 +13,64 @@ weight: 205
 toc: true
 ---
 
-**认购额度：400株**
+**Subscription quota: 400 plants**
 
-**活动时间：2021年11月11日-项目正式上线（预计2022年1月）**
+**Event time: November 11, 2021 - the project is officially launched (expected January 2022)**
 
- **认购价格：200 USDT/株**
+  **Subscription price: 200 USDT/plant**
 
-同一钱包地址认购数量不限,所认购资金全部用于项目前期开发和智能合约审计费用开销。
+There is no limit to the number of subscriptions for the same wallet address, and all the subscribed funds are used for the pre-project development and smart contract audit expenses.
 
-用户须使用EOS钱包向社区基金钱包地址支付USDT，参与认购活动，支付时间以UTC+8时区时间为准。
+Users must use the EOS wallet to pay USDT to the community fund wallet address to participate in the subscription activities. The payment time is based on the UTC+8 time zone.
 
-社区开发基金EOS钱包账号地址：**yledeveloper** 
+Community Development Fund EOS wallet account address: **yledeveloper**
 
-转账Memo备注：CryptoTree
+Transfer Memo Notes: CryptoTree
 
 ![](3.PNG)
 
-**认购记录链上查询地址**：[https://bloks.io/account/yledeveloper](https://bloks.io/account/yledeveloper)
+**Subscription record on-chain query address**：[https://bloks.io/account/yledeveloper](https://bloks.io/account/yledeveloper)
 
 
 
-> **什么是八宝树？获得八宝树有什么作用？**
+> **What is CryptoTree? What is the use of getting the Eight Treasure Tree? **
 >
-> 八宝树是YLE生态第一代NFT加密树种，在Famland上栽种八宝树后，可以激活Famland肥力值自动转化肥力加成的提升通道，同时Famland在原肥力加成的基础数值上直接增加100%，日后还可以不断将增加的肥力值转成为肥力加成，进一步放大Famland原始田和基本田做市资金的效能，产出更多的YL。相当于YL产量直接增加33%以上。
+> CryptoTree is the first-generation NFT encrypted tree species of YLE ecology. After planting CryptoTree on Famland, it can activate the promotion channel of Famland's fertility value to automatically convert fertility bonus. At the same time, Famland directly increases the basic value of original fertility bonus by 100 %, in the future, the increased fertility value can be continuously converted into a fertility bonus, which will further amplify the efficiency of the market-making funds of Famland's original fields and basic fields, and produce more YL. It is equivalent to a direct increase of more than 33% in YL production.
 
 ![](7.PNG)
 
-> **上线以后不是可通过提升肥力值免费获得八宝树吗？为什么在项目上线前我要花200USDT认购八宝树？**
+> **Isn't it possible to get CryptoTree for free by increasing the fertility value after going online? Why do I have to spend 200USDT to subscribe CryptoTree before the project goes live? **
 >
-> 八宝树目前阶段最直接的作用就是给Famland提升肥力加成，至少提升33%以上的YL产量。
+> The most direct role of CryptoTree at this stage is to increase the fertility bonus for Famland, at least increase the YL production by more than 33%.
 >
-> 我们从两个维度来做分析：
+> We analyze from two dimensions:
 
-> **耕种效益分析**
+> **Cultivation benefit analysis**
 >
-> 如果要达到免费获得八宝树的条件，须将Famland肥力值提升至60000以上，根据肥力值提升的规则，我们以在基本田做市价值500USDT本金计算，需要保持基本田做市持续45天以上才能达到这个条件。虽然可以达到免费领树的目的，但是也要承担一定的时间成本。
+> If you want to obtain the condition of free CryptoTree, you must increase the fertility value of Famland to more than 60,000. According to the rules of increasing fertility value, we calculate the market-making value of 500USDT in the basic field, and we need to keep the basic field market-making for 45 days or more to meet this condition. Although you can achieve the purpose of leading trees for free, but you also have to bear a certain time cost.
 >
-> **那么我们按照Famland平均APY1500%收益率计算，**
+> **Then we calculate according to Famland's average APY1500% yield, **
 >
-> **45天后，这块Famland累计收益=500\*200%\*1500%\*45/365≈1849.315YL**
+> **After 45 days, the accumulated income of this Famland=500\*200%\*1500%\*45/365≈1849.315YL**
 >
-> 但如果我们从第一天起，就把购买到的八宝树直接栽种到Famland上（可不受肥力值约束），使得Famland的肥力加成提升到300%，我们再按照以上条件计算一下，45天后，这块Famland的累计收益=500*300%*1500%*45/365≈2773.973YL
+> But if we plant the purchased CryptoTree directly on the Famland from the first day (it is not subject to the fertility value), so that the fertility bonus of the Famland is increased to 300%, we will calculate according to the above conditions, After 45 days, the cumulative income of this Famland=500*300%*1500%*45/365≈2773.973YL
 >
-> **提前种树和不提前种树前后差额是2773.973-1849.315=924.6576YL（相当于10天左右赚回购买本金）**
+> **The difference between planting trees in advance and not planting trees in advance is 2773.973-1849.315=924.6576YL (equivalent to earning back the purchase principal in about 10 days)**
 >
-> 如果再考虑在原始田投入500USDT做市的效应，提前栽种和不提前栽种八宝树的收益差距将会更大，如下：
+> If we consider the effect of investing 500 USDT in the original field to make the market, the income gap between early planting and not planting CryptoTree will be larger, as follows:
 >
-> 不提前种树，45天Famland累计收益=1500*200%*1500%*45/365≈5547.945YL
+> If you do not plant trees in advance, the cumulative income of Famland in 45 days = 1500*200%*1500%*45/365≈5547.945YL
 >
-> 提前种树，45天Famland累计收益=1500*300%*1500%*45/365≈8321.918YL
+> Planting trees in advance, 45 days cumulative income of Famland = 1500*300%*1500%*45/365≈8321.918YL
 >
-> **提前种树和不提前种树前后差额是8321.918-5547.945=2773.973YL（相当于3.24天赚回购买本金）**
+> **The difference between planting trees in advance and not planting trees in advance is 8321.918-5547.945=2773.973YL (equivalent to 3.24 days to earn back the purchase principal)**
 >
-> **通过以上算法分析得知，获得八宝树提升Famland产能的效应是非常明显的，仅仅是Famland耕种45天增加的产值，就远远超过购买本金的数额。**
+> **According to the above algorithm analysis, the effect of obtaining CryptoTree to improve Famland's production capacity is very obvious. Just the increase in output value of Famland's cultivation for 45 days is far more than the amount of the purchase principal. **
 
-> **投资价值分析** 
+> **Investment Value Analysis**
 >
-> 社区用于认购原始田做市资格所奖励的八宝树一共是600棵，用于公开认购的八宝树是400棵。除此以外，玩家想要获得八宝树，只能通过提升Famland肥力值。
+> A total of 600 CryptoTrees will be rewarded by the community for subscribing the original field market-making qualification, and 400 CryptoTrees will be used for public subscription. In addition, players can only obtain the CryptoTree by increasing the fertility value of Famland.
 >
-> 截止目前，社区已经公开分配了298棵八宝树，其中188棵是早期原始田投资用户用于栽种Famland，基本不会进入市场流通，也就是市场可直接流通的八宝树只有100棵左右。
+> Up to now, the community has publicly allocated 298 CryptoTrees, of which 188 are used by early Yuantian investment users to plant Famland, and basically will not enter the market for circulation, that is, there are only about 100 CryptoTrees that can be directly circulated in the market .
 >
-> 项目上线后，已认购八宝树的玩家是不会低于200USDT的价格去市场抛售，当活跃玩家达到300-400人以上时，流通的这100棵左右的八宝树是远远不够市场消化的，随着玩家持续增长，需求量不断增加，每棵八宝树的市场交易价格只会水涨船高。
+> After the project is launched, players who have subscribed for CryptoTree will not sell it in the market at a price lower than 200USDT. When the number of active players reaches more than 300-400, the 100 or so CryptoTree in circulation is far from enough for the market Digest, as players continue to grow and demand continues to increase, the market transaction price of each CryptoTree will only rise.
