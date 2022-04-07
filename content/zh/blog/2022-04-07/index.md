@@ -19,5 +19,8 @@ contributors: ["tybcc"]
 
 ​     三、多次发送更改确认的，以最后一次发送的确认为准。
 
+
+## [点击登记并上传截图](https://u0djmd49x2.jiandaoyun.com/f/624e5957bfba5100074b7bf9)
+
 转账备注示例：
 ![lz01.jpg](lz01.jpg)
