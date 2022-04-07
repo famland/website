@@ -1,6 +1,9 @@
 # homepage
 [get-started]
    other = "Get Started"
+   
+[startgame]
+   other = "开始游戏"
 
 # blogpage
 [editpage]
