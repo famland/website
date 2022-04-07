@@ -1,6 +1,6 @@
 ---
 title: "Limited pre-sale original field white list"
-description: "限量预售原始田做市白名单"
+description: "Limited pre-sale original field market making white list"
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
@@ -13,78 +13,77 @@ weight: 201
 toc: true
 ---
 
-**空投额度：200000 YL**
+**Airdrop Amount: 200,000 YL**
 
-**活动时间：2021年7月19日-项目正式上线（预计2022年1月）**
+**Event time: July 19, 2021 - the project is officially launched (expected in January 2022)**
 
-Famland原始田开放认购的做市资格共计400个。每个原始田做市资格认购费用为500USDT。同一钱包地址认购数量不限。所认购资金全部用于项目前期开发和智能合约审计费用开销。
+A total of 400 market-making qualifications for Famland's original fields are open for subscription. The subscription fee for each original field market making qualification is 500USDT. There is no limit to the number of subscriptions for the same wallet address. All the subscribed funds are used for the pre-project development and smart contract audit expenses.
 
-> **什么是Famland原始田做市资格？**
+> **What is Famland's original field market making qualification?**
 >
-> Famland原始田做市资格是项目正式上线前，给最早参与项目的玩家的一种早期投资方案。获得原始田做市资格的玩家，可于项目正式上线前优先进入原始田做市通道进行做市。做市时须须再投入500USDT完成原始田本金做市（系统自动配送500YL，做市本金翻倍），享受原始田实际投入本金效能放大至少4倍的特别福利。目前在原始田做市资格认购活动期内，还可以根据认购金数额获得相应的空投福利。
+> Famland's original field market-making qualification is an early investment plan for the earliest players to participate in the project before the project is officially launched. Players who have obtained the qualification of original field market-making can preferentially enter the original field market-making channel for market making before the project is officially launched. When making the market, you must invest another 500USDT to complete the original field principal market making (the system automatically distributes 500YL, and the market making principal doubles), and enjoy the special benefit of at least 4 times the actual investment principal efficiency of the original field. At present, during the period of the original field market-making qualification subscription activity, you can also get the corresponding airdrop benefits according to the amount of subscription money.
 
-> **项目上线后能否获得原始田做市资格？**
+> **Can the project obtain the qualification for making the original field market after the project is launched?**
 >
-> 项目正式上线后，玩家必须先完成基本田做市后，才能在原始田做市，原始田做市通道入口只开放72小时，共开放600个原始田做市的名额，玩家是否能成功在原始田中做市需要靠运气。这个阶段原始田做市只能获得原始田做市资金数额1:1配送的YL奖励，没有其他奖励。
+> After the project is officially launched, players must complete the basic field market making before they can make a market in the original field. The entrance of the original field market making channel is only open for 72 hours, and a total of 600 original field market making places are open. Original field's market making requires luck. At this stage, Original field market making can only get YL rewards distributed by original field market making funds at a ratio of 1:1, and there are no other rewards.
 
-用户须使用EOS钱包向社区基金钱包地址支付USDT，参与空投活动，支付时间以UTC+8时区时间为准。
+Users must use the EOS wallet to pay USDT to the community fund wallet address to participate in the airdrop activity. The payment time is based on the UTC+8 time zone.
 
-**社区开发基金EOS钱包账号地址：yledeveloper**
+**Community Development Fund EOS wallet account address: yledeveloper**
 
-**转账Memo备注：原始田**
+**Transfer Memo Notes: original field**
 
 ![](3.PNG)
 
-**认购记录链上查询地址**：[https://bloks.io/account/yledeveloper](https://bloks.io/account/yledeveloper)
+**Subscription record on-chain query address**：[https://bloks.io/account/yledeveloper](https://bloks.io/account/yledeveloper)
 
-> **原始田做市白名单认购风险警示**
+> **Original field Market Making Whitelist Subscription Risk Warning**
 >
-> 认购原始田做市白名单资格具有一定的风险性，认购所支付的USDT一旦转入开发基金钱包，不论项目成败，该资金将永久无法取回。
+> Subscribing for original field market-making whitelist qualification has certain risks. Once the USDT paid for the subscription is transferred to the development fund wallet, the funds will never be recovered regardless of the success or failure of the project.
 
 
+## Subscribing to Original field Market Making Whitelist Eligibility Airdrop Rewards
 
-## 认购原始田做市白名单资格空投奖励
-
-| 累计认购金额 |      奖励YL数量       | 奖励八宝树数量 |
+| Cumulative subscription amount |      Amount of reward YL       | Reward the number of Cryptotree |
 | :----------: | :-------------------: | :------------: |
-|  1500 USDT   | 按累计认购金额1:1空投 |       1        |
-|  5000 USDT   | 按累计认购金额1:1空投 |       5        |
-|  10000 USDT  | 按累计认购金额1:1空投 |       20       |
-|  50000 USDT  | 按累计认购金额1:1空投 |      200       |
+|  1500 USDT   | 1:1 airdrop according to the accumulated subscription amount |       1        |
+|  5000 USDT   | 1:1 airdrop according to the accumulated subscription amount |       5        |
+|  10000 USDT  | 1:1 airdrop according to the accumulated subscription amount |       20       |
+|  50000 USDT  | 1:1 airdrop according to the accumulated subscription amount |      200       |
 
-说明
+> Illustrate
 
-1、以上空投奖励的YL和CryptoTree将于项目正式上线后3日内划转至认购人钱包账户中。
+> 1. The above airdrop rewards of YL and CryptoTree will be transferred to the subscriber's wallet account within 3 days after the project is officially launched.
 
-2、2021年7月19日至2021年11月11日期间，已经参与认购原始田做市资格的用户，如果在活动期内累计认购金额达到以上标准，社区将按照以上标准补发相应奖励。
+> 2. From July 19, 2021 to November 11, 2021, users who have participated in the subscription of Original field market making qualifications, if the accumulated subscription amount during the event period reaches the above standards, the community will reissue the corresponding rewards according to the above standards.
 
-3、以上空投奖励，至项目正式上线或空投额度分配完即截止。
+> 3. The above airdrop rewards will end when the project is officially launched or the airdrop quota is allocated.
 
 
 
-## 空投奖励分配情况
+## Airdrop reward distribution
 
-| 资产       | 总额度 | 已分配 | 剩余   |
+|assets       | total amount | Assigned | remaining  |
 | ---------- | ------ | ------ | ------ |
 | YL         | 200000 | 94000  | 106000 |
 | CryptoTree | 600    | 298    | 302    |
 
-Famland原始田做市资格累计认购数量：188个，剩余212个。
+The cumulative number of subscriptions for Famland's original field market-making qualifications: 188, and the remaining 212.
 
-数据统计截止至：2021年11月11日 12:00
+Data statistics as of: November 11, 2021 12:00
 
   
 
-## 往期认购记录
+## Past subscription records
 
-**第一阶段（2021.7.19-2021.7.29）认购名单：** 
+**The first stage (2021.7.19-2021.7.29) subscription list:** 
 
 https://docs.qq.com/sheet/DWmFkSVppWGtDdWRa?tab=BB08J2
 
-第二阶段（2021.9.10-2021.9.30）认购名单：
+The second stage (2021.9.10-2021.9.30) subscription list:
 
 https://docs.qq.com/sheet/DWmFkSVppWGtDdWRa?tab=kgmo9f
 
-第三阶段（2021.10.1-2021.10.31）认购名单：
+The third stage (2021.10.1-2021.10.31) subscription list:
 
 https://docs.qq.com/sheet/DWmFkSVppWGtDdWRa?tab=obch7l
