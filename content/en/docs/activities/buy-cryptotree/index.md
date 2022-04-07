@@ -15,9 +15,21 @@ toc: true
 
 **Subscription quota: 400 plants**
 
-**Event time: November 11, 2021 - the project is officially launched (expected January 2022)**
+**Event time: March 8, 2022 18:00 (UTC+8) - the project is officially launched**
 
-  **Subscription price: 200 USDT/plant**
+**Subscription price: 300 USDT/plant**
+  
+**Subscription price after the project is launched: 500 USDT/plant**
+
+**Subscription quota: 400 plants **
+
+> (Note: After the pre-sale of the original field market-making whitelist activity, if there are any remaining CryptoTree places, all of them will be released to the community and will be sold at the price after the launch.)
+
+**Event time: March 8, 2022 18:00 (UTC+8) - the project is officially launched**
+
+**Subscription price: 300 USDT/plant**
+
+**Subscription price after the project is launched: 500 USDT/plant**
 
 There is no limit to the number of subscriptions for the same wallet address, and all the subscribed funds are used for the pre-project development and smart contract audit expenses.
 
