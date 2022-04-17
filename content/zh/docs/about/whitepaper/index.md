@@ -342,7 +342,7 @@ Famland共置的目标是提升Famland共享值，共享值的价值并不作用
 
 共享值限额，是指Famland共享值每个周期阶段性的上限额度，由用户在该Famland基本田收取YL数量决定，置业者每从Famland基本田收取价值1USDT的YL，共享值限额可提升1，这个限额决定着Famland的在当前Famland最高共享值上限。
 
-#### 02 famland合并
+#### 02 Famland合并
 
 Famland合并是指将自己钱包名下多个基本田做市本金价值达到500USDT的Famland进行合并，从而使合并后的Famland获得更高共享值的一种玩法。
 
