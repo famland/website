@@ -38,12 +38,21 @@ Famland元宇宙是一个完全社区化的项目，项目创始团队无预挖�
 | Medium   | [https://medium.com/@yle.world](https://medium.com/@yle.world) |
 | Discord  | [https://discord.gg/AaTXtuhDrb](https://discord.gg/AaTXtuhDrb) |
 
-## 智能合约地址
+## 智能合约账户地址
 
-| 智能合约           | 地址           |
+| 智能合约&账户          | 地址           |
 | ------------------ | -------------- |
-| YL/USDT Swap合约   | 待公布合约地址 |
-| YLE 农场合约       | 待公布合约地址 |
-| YL合约             | 待公布合约地址 |
-| Famland NFT合约    | 待公布合约地址 |
-| CryptoTree NFT合约 | 待公布合约地址 |
+| YLE核心合约   | ylecorecodes |
+| YLE农场合约       | yleyieldfarm |
+| YL发行合约             | ylecontracts |
+| 稳定基金池    | ylestablepla |
+| 稳定奖金池 | ylestableplb |
+| YLE蓄水池 | ylecisternpl |
+| YLE流动池 | yleliguidity |
+| YLE分发池 | yledistribut |
+| 常规奖金池 | yleregbonuss |
+| 随机奖金池 | ylerandombon |
+| 共享金奖池 | ylesharebonu |
+| YL配送专用账户 | ylepresentyl |
+| YL空投专用账户 | yleairdropss |
+
