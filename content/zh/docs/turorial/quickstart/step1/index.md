@@ -33,5 +33,4 @@ EOS主网转账是免费的，但是账户需要cpu、net、arm才能转账交�
 完成了以上三步，恭喜你！，拥有了自己EOS钱包，就请开启你的Famland 元宇宙之类旅吧。
 
 ### 免费加油站⛽️：
-在钱包发现-浏览器登录下面网址填入eos账号地址，点击 “**⚡️POWERUP** ” 免费提升eos账号的Cpu资源，免Gas交易资源消耗
-[https://eospowerup.io/free](https://eospowerup.io/free)
+在钱包 “发现-浏览器“ 登录网址[https://eospowerup.io/free](https://eospowerup.io/free) 填入eos账号，点击 “**⚡️POWERUP** ” 免费提升eos账号的Cpu资源，交易免Gas资源消耗
