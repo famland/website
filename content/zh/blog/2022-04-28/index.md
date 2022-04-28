@@ -2,8 +2,8 @@
 title: "Famland元宇宙部署EOS公链上线计划公告"
 description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 lead: "经过不断的测试及修复、合约的审计等工作，FAMLAND已可按既定规划运行，具备部署EOS公链的条件；现对不删档公测上线具体时间计划安排公告如下:"
-date: 2022-04-28T20:47:42+08:00
-lastmod: 2022-04-28T20:47:42+08:00
+date: 2022-04-28T14:58:58+08:00
+lastmod: 2022-04-28T14:58:58+08:00
 draft: false
 weight: 50
 images: []
