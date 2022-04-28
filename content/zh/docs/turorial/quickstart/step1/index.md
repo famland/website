@@ -31,3 +31,7 @@ start创建钱包教程链接：[https://www.matataki.io/p/8441](https://www.mat
 EOS主网转账是免费的，但是账户需要cpu、net、arm才能转账交易。TP 为用户提供了资源顺畅模式，用户直接支付购买就可以了。start更贴心的为用户提供了免费资源模式，开通就可以了。
 
 完成了以上三步，恭喜你！，拥有了自己EOS钱包，就请开启你的famland 元宇宙之类旅吧。
+
+### 免费加油站⛽️：
+在钱包发现-浏览器登录下面网址填入eos账号地址，提升eos账号的Cpu资源，免Gas交易资源消耗
+[https://eospowerup.io/free](https://eospowerup.io/free)
