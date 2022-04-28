@@ -77,14 +77,12 @@ Famland原始田做市资格累计认购数量：188个，剩余212个。
 
 ## 往期认购记录
 
-**第一阶段（2021.7.19-2021.7.29）认购名单：** 
+[第一阶段（2021.7.19-2021.7.29）认购名单](https://docs.qq.com/sheet/DWmFkSVppWGtDdWRa?tab=BB08J2)
 
-https://docs.qq.com/sheet/DWmFkSVppWGtDdWRa?tab=BB08J2
 
-第二阶段（2021.9.10-2021.9.30）认购名单：
+[第二阶段（2021.9.10-2021.9.30）认购名单](https://docs.qq.com/sheet/DWmFkSVppWGtDdWRa?tab=kgmo9f)
 
-https://docs.qq.com/sheet/DWmFkSVppWGtDdWRa?tab=kgmo9f
 
-第三阶段（2021.10.1-2021.10.31）认购名单：
+[第三阶段（2021.10.1-2021.10.31）认购名单](https://docs.qq.com/sheet/DWmFkSVppWGtDdWRa?tab=obch7l)
 
-https://docs.qq.com/sheet/DWmFkSVppWGtDdWRa?tab=obch7l
+
