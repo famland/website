@@ -33,10 +33,6 @@ Famland元宇宙是一个完全社区化的项目，项目创始团队无预挖�
 | Website  | [https://famland.world](https://famland.world)               |
 | Telegram | [https://t.me/famland_eos](https://t.me/famland_eos)         |
 | Twitter  | [https://twitter.com/famlandworld](https://twitter.com/famlandworld) |
-| Facebook | [https://www.facebook.com/100061198864065](https://www.facebook.com/100061198864065) |
-| Youtube  | [https://www.youtube.com/channel/UCxcjmaAU3KzRfa4xB7mbuEg](https://www.youtube.com/channel/UCxcjmaAU3KzRfa4xB7mbuEg) |
-| Medium   | [https://medium.com/@yle.world](https://medium.com/@yle.world) |
-| Discord  | [https://discord.gg/AaTXtuhDrb](https://discord.gg/AaTXtuhDrb) |
 
 ## 智能合约账户地址
 
