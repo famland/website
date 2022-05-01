@@ -28,17 +28,23 @@ Famland Metaverse is a completely community-based project. The founding team of 
 | Website  | [https://famland.world](https://famland.world)               |
 | Telegram | [https://t.me/famland_eos](https://t.me/famland_eos)         |
 | Twitter  | [https://twitter.com/famlandworld](https://twitter.com/famlandworld) |
-| Facebook | [https://www.facebook.com/100061198864065](https://www.facebook.com/100061198864065) |
-| Youtube  | [https://www.youtube.com/channel/UCxcjmaAU3KzRfa4xB7mbuEg](https://www.youtube.com/channel/UCxcjmaAU3KzRfa4xB7mbuEg) |
-| Medium   | [https://medium.com/@yle.world](https://medium.com/@yle.world) |
-| Discord  | [https://discord.gg/AaTXtuhDrb](https://discord.gg/AaTXtuhDrb) |
+
 
 ## Smart contract address
 
 | Smart contract     | Address        |
 | ------------------ | -------------- |
-| YL/USDT Swap contract   | Contract address to be announced |
-| YLE Farm contract       | Contract address to be announced |
-| YL contract             | Contract address to be announced |
-| Famland NFT contract    | Contract address to be announced |
-| CryptoTree NFT contract | Contract address to be announced |
+| YLE core contract       | ylecorecodes |
+| YLE Farm contract       | yleyieldfarm |
+| YL Issuance Contract    | ylecontracts |
+| Stable fund pool        | ylestablepla |
+| Stable bonus pool       | ylestableplb |
+| YLE Reservoir pool      | ylecisternpl |
+| YLE Liquidity pool      | yleliguidity |
+| YLE distribution pool   | yledistribut |
+| Regular Prize Pool      | yleregbonuss |
+| Random Prize Pool       | ylerandombon |
+| Shared Prize Pool       | ylesharebonu |
+| YL Shipping Dedicated Account   | ylepresentyl |
+| YL Airdrop Dedicated Account    | yleairdropss |
+
