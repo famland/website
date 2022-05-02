@@ -34,3 +34,7 @@ EOS主网转账是免费的，但是账户需要cpu、net、arm才能转账交�
 
 ### 免费加油站⛽️：
 在钱包 “发现-浏览器“ 登录网址[https://eospowerup.io/free](https://eospowerup.io/free) 填入eos账号，点击 “**⚡️POWERUP** ” 免费提升eos账号的Cpu资源，交易免Gas资源消耗
+
+
+### 创建famland资源消耗情况
+创建famland，大概需要占用 13894 us的CPU资源，也就是15ms。建议提前为每个eos钱包账号租赁一些cpu资源，相当于每个账号的CPU大概租100000EOS，NET租1000EOS，24小时租赁有效期，预计花费0.02 EOS。也可以使用顺畅模式，花费0.12EOS，购买115ms。这样确保能正常创建famland和做市原始田。
