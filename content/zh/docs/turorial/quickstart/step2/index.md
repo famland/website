@@ -30,7 +30,7 @@ toc: true
 
 免费创建Famland：钱包准备妥当之后，打开钱包的*发现*，在搜索栏输入Farmland的链接，点击进入dapp,如图
 
-### 第一步：打开DAPP链接：[https://eos.famland.world/](https://eos.famland.world/)，点击农场选择：原生农场
+### 第一步：在钱包浏览器中打开DAPP链接：[https://eos.famland.world/](https://eos.famland.world/) 点击农场选择：原生农场
 
 ![02](02.png)
 
