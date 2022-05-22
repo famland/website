@@ -28,7 +28,7 @@ toc: true
 
 >**租赁**Famland：对于投入资金有一定困难的玩家，无须做市资金投入，直接租用共享农场农场主公开出租的Famland，租赁人可按照合同的收益分成规则获得耕种收益。
 
-免费创建Famland：钱包准备妥当之后，打开钱包的*发现*，在搜索栏输入Farmland的链接，点击进入dapp,如图
+免费创建Famland：钱包准备妥当之后，打开钱包的*发现*，在搜索栏输入Famland的链接，点击进入Dapp,如图
 
 ### 第一步：在钱包浏览器中打开DAPP链接：[https://eos.famland.world/](https://eos.famland.world/) 点击农场选择：原生农场
 
