@@ -16,7 +16,7 @@ toc: true
 Data statistics deadline：2022/05/24 12:00 (UTC+8)
 
 | Ranking |   Account    |  Famland ID  | CryptoTree ID | Fertility Value | Fertility Bonus | Shared Value |   Create Time   |
-| ---- | ------------ | ------------ | ----------- | ----------- | -------- | -------- | --------------- |
+| :--: | :----------: | :----------: | :---------: | :---------: | :------: | :------: | :-------------: |
 | 1    | gq4dsnjqgige |  FamLand#77  | 9144        | 84471.075   | 300      | 538.58   | 2022/5/2 18:27  |
 | 2    | gq4dsnjqgige |  FamLand#78  | 9258        | 84430.581   | 300      | 537      | 2022/5/2 18:27  |
 | 3    | gq4dsnjqgige |  FamLand#80  | 9259        | 84426.531   | 300      | 537      | 2022/5/2 18:28  |
