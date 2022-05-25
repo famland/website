@@ -3,7 +3,7 @@ title: "Famland共享值排名"
 description: "Famland共享值排名"
 lead: ""
 date: 2022-05-22T10:00:00+08:00
-lastmod: 2022-05-24T12:00:00+08:00
+lastmod: 2022-05-25T12:00:00+08:00
 draft: false
 images: []
 menu:
@@ -13,7 +13,7 @@ weight: 300
 toc: true
 ---
 
-Data statistics deadline：2022/05/24 12:00 (UTC+8)
+Data statistics deadline：2022/05/25 12:00 (UTC+8)
 
 | Ranking |   Account    |  Famland ID  | CryptoTree ID | Fertility Value | Fertility Bonus | Shared Value |   Create Time   |
 | :--: | :----------: | :----------: | :---------: | :---------: | :------: | :------: | :-------------: |
