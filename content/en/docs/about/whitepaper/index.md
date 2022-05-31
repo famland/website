@@ -654,14 +654,14 @@ The closer the price of YL is to the benchmark price, the greater the flow rate 
 The flow rate control module will transfer 30% of the balance of the reservoir in the previous cycle to the total distribution pool, stable fund pool, and stable bonus pool according to the dynamic proportion:
 **When YL is trading below the benchmark price (exclusive)**
 
-The proportion of transfer into the total distribution pool = 95% × YL price correction parameter 1
+The proportion of transfer into the total distribution pool = 95% × YL price correction parameter Y1
 
 Proportion of transfer to stable fund pool = (1-proportion of transfer to total distribution pool) × 80%
 
 The proportion of the transfer to the stable bonus pool = (1-the proportion of the total distribution pool) × 20%
 **When the trading price of YL is higher than the benchmark price (inclusive)**
 
-The proportion transferred to the total distribution pool = 95% × YL price correction parameter 2
+The proportion transferred to the total distribution pool = 95% × YL price correction parameter Y2
 
 Proportion of transfer to stable fund pool = (1-proportion of transfer to total distribution pool) × 80%
 
@@ -669,10 +669,15 @@ The proportion of the stable bonus pool = (1-the proportion of the total distrib
 
 **YL price correction parameters**
 
-YL price correction parameter 1=YL price^9
+When real-time price < stable price:
 
-YL price correction parameter 2=YL price^(1-YL price)
+YL price correction parameter Y1=(1-(base price-real-time price)/base price)^m, where m=9;
 
+When real-time price > stable price:
+
+YL price correction parameter Y2=1/(real-time price/base price-1)^n+1), where n=1;
+
+The values of m and n can be adjusted according to the operating conditions.
 
 **Total flow rate**
 
