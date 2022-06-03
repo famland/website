@@ -30,7 +30,7 @@ Famland元宇宙是一个完全社区化的项目，项目创始团队无预挖�
 
 | 网站     | 地址                                                         |
 | -------- | ------------------------------------------------------------ |
-| Website  | [https://famland.world](https://famland.world)               |
+| Website  | [https://famland.eth.limo/](https://famland.eth.limo/)               |
 | Telegram | [https://t.me/famland_eos](https://t.me/famland_eos)         |
 | Twitter  | [https://twitter.com/famlandworld](https://twitter.com/famlandworld) |
 
