@@ -150,5 +150,8 @@ contributors: ["tybcc"]
 
 停止分发，相当于K值（分发池余额的30%）不变，M值（整个农场待收取收益）随着做市时间持续增加，导致APY下降
 
+## 2022-6-7 19:30
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/97232831/172376070-b259e595-95ca-4ea1-a6ab-0bd16441e50f.png">
+
 记录继续进行中。。。。
 
