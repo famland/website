@@ -233,8 +233,7 @@ contributors: ["tybcc"]
 
 ## 2022-6-4 18:00
 
-![IMAGE 2022-06-06 10:39:15](https://s2.loli.net/2022/06/06/MZlxmL7S4Tq92Dj.jpg)
-
+<img width="508" alt="image" src="https://s2.loli.net/2022/06/06/MZlxmL7S4Tq92Dj.jpg">
 
 ## 2022-6-5 8:45
 
