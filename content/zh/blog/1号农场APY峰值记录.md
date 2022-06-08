@@ -9,6 +9,144 @@ weight: 10
 images: [""]
 contributors: ["tybcc"]
 ---
+## 2022-5-23 17:54
+
+第一次创建农场，完成30个Famland加入后进行激活，遇到一点点权限问题
+
+<img width="708" alt="image" src="https://user-images.githubusercontent.com/97232831/172523731-59cff21d-e9f8-4485-a9b8-7e0b85bbf793.png">
+
+后经查明是农场主钱包的active权限设置错误导致，修改后，完成激活
+
+## 2022-5-23 19:47
+
+1号农场激活了
+
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/97232831/172523835-20f591b0-7176-400d-a2f6-28cc5fdfaa43.png">
+
+1号农场激活区块链交易
+
+<img width="682" alt="image" src="https://user-images.githubusercontent.com/97232831/172523988-a3e0cb13-88f5-44b2-86e2-a6bbf649d606.png">
+
+## 2022-5-23 20:41
+
+1号农场持续运行40分钟，流速0.0004YL/s，分发池累计1.47YL，APY0.71%。这点点流速真的不够吃饭的啊。。
+
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/97232831/172524083-be58b00e-b2ed-4d12-aa9a-ec4bb29d16f4.png">
+
+## 2022-5-24 0:09
+
+1号农场持续运行4个小时，流速0.0004YL/s，分发池累计4.43YL，APY1.30%，因为YL增发的数量不够，流速仍然没有太大变化。
+
+<img width="708" alt="image" src="https://user-images.githubusercontent.com/97232831/172524159-af7aaffb-b718-4572-807d-48f4f0bc2eee.png">
+
+## 2022-5-24 8:51
+
+1号农场持续运行12个小时，流速0.0004YL/s，分发池累计17.72YL，APY2.20%
+
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/97232831/172524235-9b914ad6-323c-400e-9b24-ec40ec567917.png">
+
+## 2022-5-24 10:21
+
+1号农场持续运行，流速0.0004YL/s，分发池累计20.68YL，APY2.33%
+
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/97232831/172524294-a3bc8df0-b09a-43dd-8915-63e0d58b070b.png">
+
+## 2022-5-24 21:14
+
+1号农场持续运行，流速受蓄水池余额减少和rebase增量不足，速率下降0.0003YL/s，分发池累计33.72YL，APY2.39%
+
+![image](https://user-images.githubusercontent.com/97232831/172524432-561bcb27-375d-4557-8a95-611ced48118e.png)
+
+## 2022-5-30 10:48
+
+1号农场持续运行，流速控制优化后，流速开始提升0.0143YL/s，分发池累计232.06YL，APY2.89%
+
+![image](https://user-images.githubusercontent.com/97232831/172524599-9b02725d-5758-4fa1-a00d-ac96c87e3b81.png)
+
+## 2022-5-30 10:48
+
+1号农场持续运行，流速0.0143YL/s，分发池累计335.74YL，APY4.12%
+
+![image](https://user-images.githubusercontent.com/97232831/172524660-83a30aa3-87b5-4255-a51d-ead815678d2a.png)
+
+## 2022-5-30 16:15
+
+1号农场持续运行，流速0.0143YL/s，分发池累计385.57YL，APY4.67%
+
+![image](https://user-images.githubusercontent.com/97232831/172524719-f9b93c4d-a461-468c-8e5c-5dbcceb6d7c6.png)
+
+## 2022-5-30 16:15
+
+1号农场持续运行，流速0.0143YL/s，分发池累计491.25YL，APY5.84%
+
+![image](https://user-images.githubusercontent.com/97232831/172524811-723dec82-9de6-4e6a-9ac8-f7684154ea6e.png)
+
+## 2022-5-30 18:48
+
+1号农场持续运行，流速0.0143YL/s，分发池累计543.08YL，APY6.44%
+
+![image](https://user-images.githubusercontent.com/97232831/172524917-a1824d3b-e44c-4efa-acc8-ac80d8a74d06.png)
+
+## 2022-5-30 22:29
+
+1号农场持续运行，由于蓄水池增发了11块基本田，总流速提升，1号农场流速增加到0.0229YL/s，分发池累计760.40YL，APY8.83%，此时原生农场apy还在15%左右
+
+![image](https://user-images.githubusercontent.com/97232831/172524999-72dc9948-805d-4fd3-ba02-8c26a6a99ac4.png)
+
+## 2022-5-30 23:41
+
+1号农场持续运行，流速0.0229YL/s，分发池累计843.15YL，APY9.72%
+
+![image](https://user-images.githubusercontent.com/97232831/172525041-93f29824-451e-4679-a22e-c4f956229301.png)
+
+## 2022-5-31 0:17
+
+1号农场持续运行，流速0.0229YL/s，分发池累计925.89YL，APY首次突破10%，达到10.64%
+
+![image](https://user-images.githubusercontent.com/97232831/172525122-0b61635a-41e7-4137-a481-2fcd2adca4c2.png)
+
+## 2022-5-31 9:20
+
+1号农场持续运行，流速0.0229YL/s，分发池累计1670.57YL，APY首次超越原生农场APY，达到18.27%
+
+![image](https://user-images.githubusercontent.com/97232831/172525159-af216715-cdba-4a9b-9755-956c1fb5d30b.png)
+
+同一时刻的原生农场的参数数据
+
+![image](https://user-images.githubusercontent.com/97232831/172525196-b29d0242-3db3-4fd4-9808-d09f6d001ba7.png)
+
+## 2022-5-31 16:17
+
+1号农场持续运行，流速0.0229YL/s，分发池累计2167.02YL，APY已突破20%，达到22.83%
+
+![image](https://user-images.githubusercontent.com/97232831/172525250-482e39e7-af5f-4247-b86a-311e4a59c4db.png)
+
+## 2022-5-31 20:00
+
+1号农场持续运行，流速0.0229YL/s，分发池累计2497.99YL，APY25.83%
+
+![image](https://user-images.githubusercontent.com/97232831/172525328-25e34de6-9483-4740-b01d-700d8b881a31.png)
+
+## 2022-6-1 9:00
+
+1号农场持续运行，流速0.0175YL/s，分发池累计3256.67YL，APY31.56%
+
+![image](https://user-images.githubusercontent.com/97232831/172525390-ed8d3270-4d34-4a0f-a399-a2513da25a89.png)
+
+## 2022-6-1 18:00
+
+1号农场持续运行，流速0.0175YL/s，分发池累计3386.70YL，APY49.04%
+
+![image](https://user-images.githubusercontent.com/97232831/172525441-87c23242-8116-4a2d-a963-2048b7118cd7.png)
+
+1号农场经过2天多时间追赶，分发池从最开始差距4400多，现在追到现在差距3300了，已经达到原生农场的一半了
+
+## 2022-6-1 20:00
+
+1号农场持续运行，流速0.0175YL/s，分发池累计2935.67YL，APY85.37%，农场开始收取收益，分发池减少了400多YL，M值释放了，APY提升到85.37%
+
+![image](https://user-images.githubusercontent.com/97232831/172525512-3c39e259-557c-4ab9-8f48-dbc2f12e6ad9.png)
+
 
 ## 2022-6-1 22:00
 
@@ -60,39 +198,36 @@ contributors: ["tybcc"]
 
 1号农场持续运行，农场流速0.0246YL/s，分发池累计2699.55YL，APY395.87%
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90f923ca-9307-4978-b63b-9400986155df/Untitled.png)
+![image](https://user-images.githubusercontent.com/97232831/172525929-d65a6411-bc1a-470e-98a7-716867fe9d2c.png)
+
 
 ## 2022-6-2 14:30
 
 1号农场持续运行，农场流速0.0246YL/s，分发池累计2965.56YL，APY311.15%
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/228d2f42-389a-4ad1-b621-f360e19d7ba0/Untitled.png)
+![image](https://user-images.githubusercontent.com/97232831/172526042-3495fe00-0b4a-40e7-95b8-a3da1c14c056.png)
+
 
 ## 2022-6-2 15:30
 
 1号农场持续运行，农场流速0.0246YL/s，分发池累计2965.56YL，APY311.15%
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82137b57-ffac-4478-a34b-490b21153e1c/Untitled.png)
+![image](https://user-images.githubusercontent.com/97232831/172526076-d147d8d7-1b8e-4c20-9b1f-2637c22e5c70.png)
 
-## 
 
 ## 2022-6-2 20:30
 
 1号农场持续运行，农场流速0.0246YL/s，分发池累计3408.89YL，APY280.41%
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9df0c561-936a-43a2-b25f-ffb2f414af85/Untitled.png)
+![image](https://user-images.githubusercontent.com/97232831/172526110-5936d130-c628-4273-9452-d5f66273582b.png)
 
 ## 2022-6-2 21:00
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c37d43a0-fe4c-4b11-b94f-c899f2c975fb/Untitled.png)
-
-## 2022-6-3 1:00
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eda289b2-97f8-4f96-8c32-be234787e5aa/Untitled.png)
+![image](https://user-images.githubusercontent.com/97232831/172526150-ff7c7739-99fd-4de0-93cc-8b4f989ded02.png)
 
 ## 2022-6-3 16:30
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0efbc89-9eef-46ec-a782-7cff77cbfa5d/Untitled.png)
+![image](https://user-images.githubusercontent.com/97232831/172526213-c23a7780-e40f-4182-a811-5019a544251d.png)
 
 记录继续进行中。。。。
 
@@ -101,24 +236,17 @@ contributors: ["tybcc"]
 ![IMAGE 2022-06-06 10:39:15](https://s2.loli.net/2022/06/06/MZlxmL7S4Tq92Dj.jpg)
 
 
-
 ## 2022-6-5 8:45
 
 ![IMAGE 2022-06-06 10:40:35](https://s2.loli.net/2022/06/06/YUlIQDyh2uEqaR8.jpg)
-
-
 
 ## 2022-6-5 21:45
 
 ![IMAGE 2022-06-06 10:41:28](https://s2.loli.net/2022/06/06/2TP9HndW1saES3Q.jpg)
 
-
-
 ## 2022-6-6 10:45
 
 ![IMAGE 2022-06-06 10:44:00](https://s2.loli.net/2022/06/06/CEI2K9gdls4XJqp.jpg)
-
-
 
 ## 2022-6-6 14:00
 
@@ -152,6 +280,9 @@ contributors: ["tybcc"]
 
 ## 2022-6-7 19:30
 <img width="507" alt="image" src="https://user-images.githubusercontent.com/97232831/172376070-b259e595-95ca-4ea1-a6ab-0bd16441e50f.png">
+
+## 2022-6-8 11:10
+<img width="508" alt="image" src="https://user-images.githubusercontent.com/97232831/172523426-86582bc7-b795-41b4-85ee-02cc13043082.png">
 
 记录继续进行中。。。。
 
