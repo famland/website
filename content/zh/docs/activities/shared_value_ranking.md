@@ -16,7 +16,7 @@ toc: true
 Data statistics deadline：2022/07/17 09:00 (UTC+8)
 
 
-| Ranking |   Account    |  Famland ID  |  Farm ID  | CryptoTree ID | Fertility Value | Fertility Bonus | Shared Value |   Inc. Share Value   |   Create Time   |
+| Ranking |   Account    |  Famland ID  |  Farm ID  | CryptoTree ID | Fertility Value | Fertility Bonus | Shared Value |   Shared Value(Inc.)   |   Create Time   |
 | :--: | :----------: | :----------: | :----------: | :----------: | :---------: | :---------: | :----------: | :------: | :-------------: |
 | 1    | kongpingz.m  | FamLand#10   | 1    | 9183 | 399066.9928 | 300  | 639      | 43      | 2022/5/1 23:35  |
 | 2    | hfdkfamssu5h | FamLand#7    | 1    | 9107 | 396138.825  | 300  | 579.66   | 60.21   | 2022/5/1 20:25  |
