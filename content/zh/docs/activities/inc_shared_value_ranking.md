@@ -15,7 +15,7 @@ toc: true
 
 Data statistics deadline：2022/07/17 09:00 (UTC+8)
 
-| Ranking |   Account    |  Famland ID  |  Farm ID  | CryptoTree ID | Fertility Value | Fertility Bonus | Shared Value |   Inc. Share Value   |   Create Time   |
+| Ranking |   Account    |  Famland ID  |  Farm ID  | CryptoTree ID | Fertility Value | Fertility Bonus | Shared Value |   Shared Value(Inc.)    |   Create Time   |
 | :--: | :----------: | :----------: | :----------: | :----------: | :---------: | :---------: | :----------: | :------: | :-------------: |
 | 1    | baboshu52hyl | FamLand#558  | 0    | 9098 | 292573.3005 | 300  | 457.2702 | 207     | 2022/5/3 1:37   |
 | 2    | fudehanlin12 | FamLand#748  | 1    | 9004 | 352052.631  | 300  | 544.9992 | 130.64  | 2022/5/3 9:24   |
