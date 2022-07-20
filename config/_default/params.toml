@@ -10,9 +10,9 @@ description = "Famland Metaverse"
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["famland.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
+domainTLD = "famland.world"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
