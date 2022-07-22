@@ -6,7 +6,7 @@ date: 2022-04-07T10:47:42+08:00
 lastmod: 2022-04-07T10:47:42+08:00
 draft: false
 weight: 50
-images: []
+images: ["famland.png"]
 contributors: ["tybcc"]
 ---
 
