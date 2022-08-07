@@ -1,0 +1,13 @@
+---
+title: "Pomelo第三季捐赠活动"
+description: ""
+lead: ""
+date: 2022-07-29T17:30:00+08:00
+lastmod: 2022-07-29T17:30:00+08:00
+draft: true
+weight: 5
+images: ["famland.png"]
+contributors: ["famland"]
+---
+
+![](photo_2022-08-06_21-46-19.jpg)
