@@ -12,4 +12,4 @@ contributors: ["famland"]
 
 [![](photo_2022-08-06_21-46-18.jpg)](https://pomelo.io/grants/eosnftvalue)
 ![](photo_2022-08-06_21-46-17.jpg)
-![](photo_2022-08-06_21-46-19.jpg)
+![](pomelo3.jpg)
