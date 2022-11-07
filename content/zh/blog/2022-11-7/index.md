@@ -2,10 +2,10 @@
 title: "FAMLAND.DAO社区自治安全委员会正式成立"
 description: ""
 lead: ""
-date: 2022-11-7T20:30:00+08:00
-lastmod: 2022-11-7T20:30:00+08:00
+date: 2022-11-07T20:30:00+08:00
+lastmod: 2022-11-07T20:30:00+08:00
 draft: false
-weight: 5
+weight: 1
 images: ["famland.png"]
 contributors: ["famland"]
 ---
