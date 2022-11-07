@@ -4,7 +4,7 @@ description: ""
 lead: ""
 date: 2022-11-7T20:30:00+08:00
 lastmod: 2022-11-7T20:30:00+08:00
-draft: true
+draft: false
 weight: 5
 images: ["famland.png"]
 contributors: ["famland"]
@@ -24,7 +24,7 @@ contributors: ["famland"]
 
 4、社区日常运营的讨论与执行。
 
-**社区安全委员会的议事规则：**
+**社区安全委员会的议事规则：**   
 涉及社区安全的相关提案，安全委员会成员的有效投票数须达到全体成员2/3以上，方可执行。社区技术团队提供相应的技术支持和配合。  
 
 ***
