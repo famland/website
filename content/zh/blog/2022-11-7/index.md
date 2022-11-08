@@ -33,7 +33,7 @@ contributors: ["famland"]
 
 **Famland.DAO社区核心资产账户：**  
 空投账户：[yleairdropss](https://bloks.io/account/yleairdropss#keys)  
-开发基金账户：[yledeveloper](https://bloks.io/account/yledeveloper#keys)  
+开发基金账户：[yledeveloper](https://bloks.io/account/yledeveloper#keys)（为保证账户内资产安全，先要做转移才能开始设置多签权限。进行中。。。）  
 市值管理账号：[famlandmulti](https://bloks.io/account/famlandmulti#keys)  
 
 安全委员会已完成以上社区账户的的多签权限调整，点击对应账号可查看链上多签权限记录
