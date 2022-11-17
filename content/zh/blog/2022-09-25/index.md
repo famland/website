@@ -10,4 +10,4 @@ images: ["famland.png"]
 contributors: ["famland"]
 ---
 
-[![](photo_2022-08-06_21-46-19.jpg)](https://tokenyield.io/protocols/yleliguidity)
+[![](2022-09-25.jpeg)](https://tokenyield.io/protocols/yleliguidity)
