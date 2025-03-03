@@ -60,10 +60,10 @@ footer = "Powered by <a class=\"text-muted\" href=\"https://famland.world/\">Fam
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
 
 # Alert
-alert = false 
-alertDismissable = true
+# alert = true 
+# alertDismissable = true
 # alertText = "Famland New Decentralized Website Lunched！<a class=\"alert-link stretched-link\" href=\"/blog/famland-decentralized-website-officially-released/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Famland元宇宙部署EOS公链上线计划公告📢 <a class=\"alert-link stretched-link\" href=\"/blog/2022-04-28/\">>>>></a>"
+# alertText = "Famland元宇宙部署EOS公链上线计划公告📢 <a class=\"alert-link stretched-link\" href=\"/blog/2022-04-28/\">>>>></a>"
 
 
 
